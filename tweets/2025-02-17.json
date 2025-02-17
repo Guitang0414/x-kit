@@ -1,12 +1,791 @@
 [
   {
     "user": {
+      "screenName": "RockFlowApp",
+      "name": "RockFlow 中文官方",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1544845022905843712/ZU6n8Mt7_normal.jpg",
+      "description": "The investment wonderland for new generations.  \nJoin our TG group: \nhttps://t.co/pNZios1g8b",
+      "followersCount": 2789,
+      "friendsCount": 152,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-4RLza8AAt-JB.jpg",
+      "https://pbs.twimg.com/media/Gj-4SGsaQAArSs9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RockFlowApp/status/1891433000702791974",
+    "fullText": "继续买，木头姐280万继续看涨IRDM\n\n📅2月 14 日，木头姐及其 ARK 方舟基金合计买入 8.6 万股 IRDM 股票（约合 280 万美元）。\n\n上周，木头姐前后总计买入 3350 万美元 IRDM，在财报后成功抄底！ https://t.co/c2tdRn9K4L"
+  },
+  {
+    "user": {
+      "screenName": "Btcxiaoyuan",
+      "name": "小元",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1782766542398320640/HW8qGU0__normal.jpg",
+      "description": "推文非投资建议 | 从不主动私信 | 盈亏全靠天意 | 不喜可直接取关",
+      "followersCount": 52256,
+      "friendsCount": 405,
+      "location": "Singaparna, Indonesia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Btcxiaoyuan/status/1891432544702460360",
+    "fullText": "致---币安与BNB Chain\n\n在加密货币的世界里，币安（Binance）无疑是一个无法忽视的名字。作为全球领先的加密货币交易平台，币安不仅改变了行业的格局，更通过技术创新和生态建设，为整个区块链行业注入了源源不断的活力。然而，作为一名从2021年深度参与BNB"
+  },
+  {
+    "user": {
       "screenName": "Enezator",
       "name": "Enezator",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850158755419471872/aUQrYE8w_normal.jpg",
       "description": "Positive video content. | 𝕏 best ranking 100 | DM for promotion",
-      "followersCount": 1168840,
-      "friendsCount": 69,
+      "followersCount": 1168869,
+      "friendsCount": 70,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891426121557704704/pu/vid/avc1/720x720/Ws8aLcrLXHz3nIWK.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Enezator/status/1891432401882272250",
+    "fullText": "Bro just busts a move! https://t.co/Blsw76Aeie"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635144,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891432355925021146",
+    "fullText": "OPEC+ is considering pushing back a series of monthly supply increases due to begin in April despite calls from Donald Trump to lower prices, delegates say https://t.co/DSpcXM6Ibw"
+  },
+  {
+    "user": {
+      "screenName": "whyyoutouzhele",
+      "name": "李老师不是你老师",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+      "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+      "followersCount": 1933610,
+      "friendsCount": 936,
+      "location": "偷乐星球"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-1FggbAAA8A33.jpg",
+      "https://pbs.twimg.com/media/Gj-1GYqasAA6Qsz.jpg",
+      "https://pbs.twimg.com/media/Gj-1G1xaYAAyBxR.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891429394859851776/pu/vid/avc1/720x1280/fTL00ke_0s0gmHUe.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/whyyoutouzhele/status/1891431965339025460",
+    "fullText": "网曝内蒙古一家养殖场两人先后中毒死亡，当地政府为了政绩，压住此事不立案。 https://t.co/478nNPujxu"
+  },
+  {
+    "user": {
+      "screenName": "NewTangDynasty",
+      "name": "新唐人文化生活",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1234517766104895492/I1RQ0w-A_normal.png",
+      "description": "新唐人電視台 @NTDChinese 以傳播自由真實信息，弘揚中華傳統文化為宗旨。 #新唐人 #NTD\n\n油管: https://t.co/IUlJTJDDrb | 支持我們: https://t.co/QxnnLp6lvh | #新唐人 | #NTDTV",
+      "followersCount": 15827,
+      "friendsCount": 18,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891431904911536128/pu/vid/avc1/1280x720/Y4UCscHDQipVqvbK.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/NewTangDynasty/status/1891431926054932814",
+    "fullText": "每天一掌心堅果 輕鬆補充維生素E 長者必備抗氧化良方！ https://t.co/thShFnadiV"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25748098,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891431846514200806",
+    "fullText": "New app preserves family recipes on video in one handy place https://t.co/ZZ53M96osQ"
+  },
+  {
+    "user": {
+      "screenName": "AQUILIFER_Zjj",
+      "name": "AQUILIFER.ZHANG",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870707588234702848/k3EGwHc5_normal.jpg",
+      "description": "An exile. Making architectural models. Himalayan art and culture. Tradition. Conservatism.",
+      "followersCount": 19543,
+      "friendsCount": 518,
+      "location": "Dunedin City, New Zealand"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-3KBibgAAGoxX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AQUILIFER_Zjj/status/1891431761151742264",
+    "fullText": "https://t.co/CgKqsCOwxO"
+  },
+  {
+    "user": {
+      "screenName": "CHPAlerts",
+      "name": "CHP - Alerts",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1171147653486432256/vEwQNxjV_normal.jpg",
+      "description": "The California Highway Patrol created this account for the sole purpose of disseminating details and flyers for active Alerts.",
+      "followersCount": 245212,
+      "friendsCount": 0,
+      "location": "California, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-3Bk_XkAEcmeC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CHPAlerts/status/1891431607912775980",
+    "fullText": "SILVER ALERT - Santa Clara County \nLast seen: Mt. McKinley Dr. and Mt. Rainier Dr., San Jose\n@SanJosePD\n\nIF SEEN, CALL 9-1-1 https://t.co/SkmQh3YgWk"
+  },
+  {
+    "user": {
+      "screenName": "VOAChinese",
+      "name": "美国之音中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+      "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/cW5eaWpefk",
+      "followersCount": 2593641,
+      "friendsCount": 168,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VOAChinese/status/1891431427360874603",
+    "fullText": "英国准备好向乌克兰派兵 欧洲领导人在巴黎举行战争会谈 https://t.co/3v6V0fJquJ"
+  },
+  {
+    "user": {
+      "screenName": "chenqiushi404",
+      "name": "陈秋实 Chen Qiushi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824400329980702720/1bg2ueyS_normal.jpg",
+      "description": "前律师、公民记者，教育创业者\n工作微信：Qiushizs2024",
+      "followersCount": 495125,
+      "friendsCount": 2892,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-2rd0b0AAPJJv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chenqiushi404/status/1891431228919685167",
+    "fullText": "不久的将来，新一轮疫情袭来时……街面上会有数不清的宇树机器人承担起……焊铁皮、捅嗓子、堵路口、守小区、押人去方舱、抓捕白纸女孩、监视异见领袖、殴打上访群众的复杂任务…… https://t.co/BMMUarFVDm"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092629,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891431186733437183",
+    "fullText": "Krispy Kreme, Hulu team up on doughnut collection inspired by movie theater snacks: See new flavors https://t.co/KIVasV3nrk"
+  },
+  {
+    "user": {
+      "screenName": "lxfater",
+      "name": "铁锤人",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1723719195995807744/9JIAjVJr_normal.jpg",
+      "description": "从厂里裸辞，然后放弃开源事业投身独立开发的铁头小伙。分享我最真实的创业路程。",
+      "followersCount": 39994,
+      "friendsCount": 899,
+      "location": "梦开始的地方"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-2lxTakAAqPJ9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lxfater/status/1891431131288862844",
+    "fullText": "mac用懒猫微服的网盘\n\n支持苹果办公文件预览，包括AI/PS文件预览。\n\nRAW格式照片也能快速预览。\n\n挺好用的。\n\n有空试试其他功能，现在纯粹当个本地外置存储。 https://t.co/G4WfCDrEZo"
+  },
+  {
+    "user": {
+      "screenName": "0xUnicorn",
+      "name": "UNICORN🦄️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891340630481362944/QszHAIJm_normal.jpg",
+      "description": "一切有为法，如梦幻泡影；应无所住，而生其心。🦋📈🌙 微信Unicorneth #BTC #DeFi #SOL #UNI #PENDLE #MORPHO #OKX 一站式WEB3/加密入口",
+      "followersCount": 121278,
+      "friendsCount": 2307,
+      "location": "BITCOIN"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xUnicorn/status/1891430539913023966",
+    "fullText": "投资三重境界\n——听大多数人的话\n——参考少数人的意见\n——自己做决定"
+  },
+  {
+    "user": {
+      "screenName": "LucyZha94759559",
+      "name": "Lucy Zhao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1352120537200295937/Hw9_Atn3_normal.jpg",
+      "description": "I got a PhD and have interests in Chinese culture and performing arts. “上善若水” “The highest excellence is like water” 推薦Recommend video platform: https://t.co/QvuYI4KyE4",
+      "followersCount": 31573,
+      "friendsCount": 1840,
+      "location": "Sydney, Australia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LucyZha94759559/status/1891430173410578461",
+    "fullText": "🔥 习近平内外受敌？出新规控制军队网路，封锁军事言论😱\nhttps://t.co/t5I4MPlR0m"
+  },
+  {
+    "user": {
+      "screenName": "buitengebieden",
+      "name": "Buitengebieden",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1130022182971760640/FlbICzEn_normal.jpg",
+      "description": "The official positive side of 𝕏. I’m Sander from the Netherlands. All copyrights belong to their respective owners! DM for credits/removal/submission!",
+      "followersCount": 2822112,
+      "friendsCount": 79,
+      "location": "Nederland"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891430075511328768/vid/avc1/720x720/xtl7dUaJcOcS-GWy.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/buitengebieden/status/1891430127348654552",
+    "fullText": "Baby wombat.. 😊 https://t.co/dMIzAFTIUr"
+  },
+  {
+    "user": {
+      "screenName": "xiaomucrypto",
+      "name": "川沐｜Trumoo🐮",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+      "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+      "followersCount": 124944,
+      "friendsCount": 622,
+      "location": "萨尔瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-1akSaIAAtRtS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiaomucrypto/status/1891429930858066225",
+    "fullText": "tst解放军可能真要来了，从下午三点开始持仓量一直在涨.占到了总市值的1/3 https://t.co/6WJgm90rzZ"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25748098,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891429233412415886",
+    "fullText": "Archaeologists uncover ancient 'city of the dead' in Italy: 'Perfectly preserved' https://t.co/QNq6F8tpLp"
+  },
+  {
+    "user": {
+      "screenName": "RFI_Cn",
+      "name": "RFI 华语 - 法国国际广播电台",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/875657284554113025/eSlvV5zv_normal.jpg",
+      "description": "法广RFI 中文通过多媒体互联网直播、播客、繁、简版文字、视频及社交平台全方位推出法国国内国外新闻时事、政治、经济文化专栏与专题节目。\n全球各地可以登陆\nhttps://t.co/DEERPt9y9B\n进入RFI中文网关注我们。\n🌍 https://t.co/MmsmrJmXnK",
+      "followersCount": 1216075,
+      "friendsCount": 88,
+      "location": "法国 巴黎"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-0y8BaAAAmc3X.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RFI_Cn/status/1891429164663939355",
+    "fullText": "缅甸打击电诈范围扩大 逾千名外国人获救将遣返移交原籍国 https://t.co/PELD3pImQm https://t.co/HGPMSn6MuX"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道，欢迎关注吴说APP与播客：https://t.co/rVoqryXVjk\n联系我们 Telegram: colinwu1989",
+      "followersCount": 141574,
+      "friendsCount": 40,
+      "location": "HongKong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1891428987718516931",
+    "fullText": "吴说获悉，币安宣布将于 2025 年 02 月 18 日 16:00（东八区时间）上线 BNX/USDC、CAKE/USDC、HEI/USDC、TRUMP/FDUSD 和 TST/FDUSD 现货交易对，并对以上交易对启用交易机器人服务。https://t.co/Sq0FyvhDmi"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635144,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891428850061422996",
+    "fullText": "The UK should “radically” cut the amount of long-maturity debt it sells to investors to relieve the pressure on public finances, according to Barclays strategist Moyeen Islam https://t.co/GSOjAhS5G5"
+  },
+  {
+    "user": {
+      "screenName": "PicturesFoIder",
+      "name": "non aesthetic things",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
+      "description": "viral media from around the world",
+      "followersCount": 4470337,
+      "friendsCount": 567,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891428816439967744/pu/vid/avc1/480x600/FBy5QeCjmsyTF6jD.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/PicturesFoIder/status/1891428832105689571",
+    "fullText": "Viola Brand, a German artistic cyclist shows off her skills https://t.co/PK67Sqj9Sq"
+  },
+  {
+    "user": {
+      "screenName": "dingyi",
+      "name": "ding.one",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1508523236560027650/DA1UcGmv_normal.jpg",
+      "description": "design engineer. Prev: @BeWaterOfficial‣ @realMaskNetwork‣@OPPO‣@36Kr and many others. Newsletter: https://t.co/PL1sVitLcG",
+      "followersCount": 161142,
+      "friendsCount": 4187,
+      "location": "Remote"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dingyi/status/1891428481017479344",
+    "fullText": "Lobable 发布了 Visual Edits 本来这个新闻没什么，但是他们的人非要叫嚣 Webflow 正式宣布死亡，然后 Designjoy 的 Brett 看不过去就发起挑战：要不比一比，你用你的 AI 产品，我用 Webflow，看看到底谁做出的产品更好更快？对方也接收了挑战。期待看戏。（怎么没人挑战一下 AI"
+  },
+  {
+    "user": {
+      "screenName": "AMAZlNGNATURE",
+      "name": "Nature is Amazing ☘️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+      "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
+      "followersCount": 4917906,
+      "friendsCount": 46,
+      "location": "🌍"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891428373592743936/pu/vid/avc1/360x640/D6WWKepF77y-SK29.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/AMAZlNGNATURE/status/1891428388562223579",
+    "fullText": "Henry, the oldest Nile Crocodile. 124 years old, little over 5m long, father of over 10,000 crocs, captured in 1903. Still active, strong and healthy https://t.co/qyOpgtT0yq"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635144,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891428271591481583",
+    "fullText": "Indonesia is pushing ahead with a plan to force natural resource exporters to keep more foreign exchange earnings onshore in Southeast Asia’s largest economy https://t.co/Bjo5Z5ew52"
+  },
+  {
+    "user": {
+      "screenName": "BBC_TopGear",
+      "name": "Top Gear",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1139483124541399045/byLEkILi_normal.png",
+      "description": "Proper #TopGear tweets from Top Gear HQ. This is a commercial channel from BBC Studios.\n\nTop Gear Turbo Newsletter - https://t.co/FAE1PvkamQ",
+      "followersCount": 1883172,
+      "friendsCount": 39,
+      "location": "London"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-zVjlbYAACvPX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBC_TopGear/status/1891427554227282264",
+    "fullText": "The Tedson Motors ‘Etna’ is a gorgeous 600bhp Gallardo restomod ➡️ https://t.co/nGpaq1FqG9 https://t.co/foNmXUo9nx"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道，欢迎关注吴说APP与播客：https://t.co/rVoqryXVjk\n联系我们 Telegram: colinwu1989",
+      "followersCount": 141574,
+      "friendsCount": 40,
+      "location": "HongKong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-zDgkWoAADKWu.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1891427447817552337",
+    "fullText": "吴说获悉，港股 https://t.co/tAJ2UJTkYX（亚洲控股有限公司）宣布首次战略性购入比特币，推动公司股价今日大涨 92.9%，成交额达 1650 万美元。这已是 https://t.co/tAJ2UJTkYX 连续第三天位列香港交易所涨幅榜前列。https://t.co/XCJPjad7Rq https://t.co/57odyt9hF7"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3294327,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891427410194976844",
+    "fullText": "Former President Joe Biden took more vacation days than any other modern U.S. president, spending 39% of his time in office away from the White House, according to data compiled by the Republican National Committee https://t.co/hfXtP7ILtm"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092629,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891427408760176707",
+    "fullText": "BAFTA Awards 2025: 'Conclave' takes home best film, 'Anora' star Mikey Madison wins best actress https://t.co/DFnSRxdME9"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25748098,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-zMiQWMAAwL_Y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891427399759245743",
+    "fullText": "LINE IN THE SAND: Trump admin's border czar, Tom Homan, slams designated terrorist organization — the drug cartels — for profiting off murder, warning of their global footprint but says the \"incredible\" actions taken since January 20th is erasing their trace. https://t.co/lITfm6zoq4"
+  },
+  {
+    "user": {
+      "screenName": "autocar",
+      "name": "Autocar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875114960012931072/W3taHMRH_normal.jpg",
+      "description": "The original car magazine, since 1895",
+      "followersCount": 258689,
+      "friendsCount": 700,
+      "location": "UK"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-zMJsXQAAxzrV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/autocar/status/1891427392746291398",
+    "fullText": "Get your tiny violins out! The Mazda 2 is officially dead after a decade on sale... https://t.co/lsx5hwW7fC https://t.co/VXBjikhtuT"
+  },
+  {
+    "user": {
+      "screenName": "Enezator",
+      "name": "Enezator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850158755419471872/aUQrYE8w_normal.jpg",
+      "description": "Positive video content. | 𝕏 best ranking 100 | DM for promotion",
+      "followersCount": 1168869,
+      "friendsCount": 70,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891400676372078592/pu/vid/avc1/720x1280/HhyqO-KHEAP6H7jO.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Enezator/status/1891427373280592300",
+    "fullText": "I need to learn this trick. https://t.co/cp9S2SN96v"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41254998,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/1891427309787214251",
+    "fullText": "'I didn't believe it': Warwick Davis on receiving Bafta fellowship https://t.co/n20vgqm4YR"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635144,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891427181827367271",
+    "fullText": "Oil exports from Iraq’s semi-autonomous Kurdistan region could resume within a week, Iraqi Oil Minister Hayyan Abdul Ghani said https://t.co/EzlFA6tDrH"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25748098,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891426509216251922",
+    "fullText": "Gabby Petito told her ex she was scared to leave Brian Laundrie but wanted to, just before murder: new doc https://t.co/eW9KUBeEG9"
+  },
+  {
+    "user": {
+      "screenName": "Lucast168",
+      "name": "Lucas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1802901850557218817/7yXZFr3p_normal.jpg",
+      "description": "OORT华语负责人｜@OORTech 是一个去中心化、可验证的云计算平台，利用从数据中心到智能手机的全球资源，旨在为人类提供值得信赖的人工智能应用。｜https://t.co/evsjKkOjxD",
+      "followersCount": 64801,
+      "friendsCount": 3598,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-yVEbbQAAyDji.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Lucast168/status/1891426451041272151",
+    "fullText": "📈👏 https://t.co/U4xm0DW6fk"
+  },
+  {
+    "user": {
+      "screenName": "bboczeng",
+      "name": "勃勃OC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+      "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+      "followersCount": 169276,
+      "friendsCount": 645,
+      "location": "Texas, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-yEKhboAAE4RQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/bboczeng/status/1891426163760697842",
+    "fullText": "今天晚饭 https://t.co/Wzxbv8gfDo"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道，欢迎关注吴说APP与播客：https://t.co/rVoqryXVjk\n联系我们 Telegram: colinwu1989",
+      "followersCount": 141574,
+      "friendsCount": 40,
+      "location": "HongKong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1891425965726642634",
+    "fullText": "伯恩斯坦报告称，美国加密货币工作组将专注于建立国家比特币储备，或将导致主权国家之间竞相购买。美联储可以发行债券或出售部分黄金储备来为加密货币购买提供资金，并将从犯罪企业缴获的价值 200 亿美元的比特币添加到国家储备中。（CoinDesk）https://t.co/sWS8LFOPfD"
+  },
+  {
+    "user": {
+      "screenName": "RFA_Chinese",
+      "name": "自由亚洲电台",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1483174230644645898/dY1oXWhO_normal.jpg",
+      "description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+      "followersCount": 1694587,
+      "friendsCount": 3622,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891425586620592128/pu/vid/avc1/720x1280/kxSqIrawZaP97Daj.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/RFA_Chinese/status/1891425662294249743",
+    "fullText": "【赖清德接见美国前白宫副国安顾问博明】\n【强调“靠实力来达到和平” 强化国防实力】\n赖清德总统17日接见美国前白宫副国安顾问博明（Matthew https://t.co/70xGM76bVA"
+  },
+  {
+    "user": {
+      "screenName": "bboczeng",
+      "name": "勃勃OC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+      "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+      "followersCount": 169276,
+      "friendsCount": 645,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bboczeng/status/1891425584506343574",
+    "fullText": "https://t.co/Sd74AxypQl"
+  },
+  {
+    "user": {
+      "screenName": "torontobigface",
+      "name": "多伦多方脸",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+      "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com \n吹水电报群：https://t.co/7fI2Xsn7l9\n李币社区群：https://t.co/Uao93nfZ79",
+      "followersCount": 682403,
+      "friendsCount": 251,
+      "location": "乌鲁木齐中路，温哥华"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-w8XcXgAAwqlO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/torontobigface/status/1891425113687347245",
+    "fullText": "老新闻重看\n伟大领袖习主席在2015年时候说过\n评价一个国家政治制度是不是民主的、有效的，主要看国家领导层能否依法有序更替\n😅😅😅 https://t.co/13U8uvl0A6"
+  },
+  {
+    "user": {
+      "screenName": "whyyoutouzhele",
+      "name": "李老师不是你老师",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+      "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+      "followersCount": 1933610,
+      "friendsCount": 936,
+      "location": "偷乐星球"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891423959331246080/pu/vid/avc1/720x1280/TIWvgn-fkZHUQ6v9.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/whyyoutouzhele/status/1891424752402604526",
+    "fullText": "2月16日，广东深圳。一名女摊主遭遇几名城管执法，城管除了站在摊位前干扰她摆摊外，还一脚将她的折叠椅踢走取乐。 https://t.co/0GlQ6YbEYS"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25748098,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891423906218512692",
+    "fullText": "Academic unions plan demonstrations outside HHS building, at med schools, to protest Trump research cuts https://t.co/J5WHh6OO0p"
+  },
+  {
+    "user": {
+      "screenName": "ShouldHaveAnima",
+      "name": "why you should have an animal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889450399868002305/XCI1nITj_normal.jpg",
+      "description": "The Perfect account to show your parents when you want an animal 🦆",
+      "followersCount": 1631176,
+      "friendsCount": 43,
+      "location": "Dm For Credit "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891423638731272192/pu/vid/avc1/720x1280/XzyMk0jB9-ze5nLX.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/ShouldHaveAnima/status/1891423714794787113",
+    "fullText": "Umbrella Birds with Rain https://t.co/PMYpPqyNuq"
+  },
+  {
+    "user": {
+      "screenName": "ReT0ky0",
+      "name": "Re:TOKYO MEMORY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1459403716784963584/I3Gq8aGR_normal.jpg",
+      "description": "Something good Archives.",
+      "followersCount": 737326,
+      "friendsCount": 11,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-vz6YaMAAhTp5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ReT0ky0/status/1891423678623027427",
+    "fullText": "https://t.co/K4Up9qG5Vj"
+  },
+  {
+    "user": {
+      "screenName": "bboczeng",
+      "name": "勃勃OC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+      "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+      "followersCount": 169276,
+      "friendsCount": 645,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bboczeng/status/1891423676387508701",
+    "fullText": "原来日本座椅安全带的纽扣位置\n\n都是反的\n\n？？？"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092629,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891423637200130225",
+    "fullText": "11 charged for stealing over $440K of Nike shoes from BNSF train https://t.co/bDIjWshbcK"
+  },
+  {
+    "user": {
+      "screenName": "caizhenghai",
+      "name": "forecho📈",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/790007015783346178/tvajHHFE_normal.jpg",
+      "description": "6 年美股投资者，11 年程序开发。 - 联系我：https://t.co/TpEhIUOWf4 - 投资交流群 https://t.co/MSppJmnIC5 - 美股社区 https://t.co/4O2QdkEkMf",
+      "followersCount": 30907,
+      "friendsCount": 3643,
+      "location": "China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-vU9AbIAILu94.jpg",
+      "https://pbs.twimg.com/media/Gj-vU8-bYAAhbw0.jpg",
+      "https://pbs.twimg.com/media/Gj-vU8_aYAAPmEi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/caizhenghai/status/1891423159678574935",
+    "fullText": "华盛-新浪&amp;微博旗下互联网券商开户活动了解一下 https://t.co/jYYUZp2Jrh"
+  },
+  {
+    "user": {
+      "screenName": "Enezator",
+      "name": "Enezator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850158755419471872/aUQrYE8w_normal.jpg",
+      "description": "Positive video content. | 𝕏 best ranking 100 | DM for promotion",
+      "followersCount": 1168869,
+      "friendsCount": 70,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -22,7 +801,7 @@
       "name": "Lucas",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1802901850557218817/7yXZFr3p_normal.jpg",
       "description": "OORT华语负责人｜@OORTech 是一个去中心化、可验证的云计算平台，利用从数据中心到智能手机的全球资源，旨在为人类提供值得信赖的人工智能应用。｜https://t.co/evsjKkOjxD",
-      "followersCount": 64803,
+      "followersCount": 64801,
       "friendsCount": 3598,
       "location": "New York, USA"
     },
@@ -56,7 +835,7 @@
       "name": "李老师不是你老师",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
       "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
-      "followersCount": 1933535,
+      "followersCount": 1933610,
       "friendsCount": 936,
       "location": "偷乐星球"
     },
@@ -73,7 +852,7 @@
       "name": "Bloomberg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
       "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
-      "followersCount": 9634987,
+      "followersCount": 9635144,
       "friendsCount": 93,
       "location": "New York and the World"
     },
@@ -88,8 +867,8 @@
       "name": "TaraBull",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1575977223797952512/lDUcgkJy_normal.jpg",
       "description": "#SpacesHost | Truth Slayer | ↗️ I follow all Subscribers • Let's end the establishment media • ʟɪꜱᴛᴇɴ ᴡɪᴛʜ ᴄᴜʀɪᴏꜱɪᴛʏ. ꜱᴘᴇᴀᴋ ᴡɪᴛʜ ʜᴏɴᴇꜱᴛʏ. ᴀᴄᴛ ᴡɪᴛʜ ɪɴᴛᴇɢʀɪᴛʏ.",
-      "followersCount": 1155068,
-      "friendsCount": 22971,
+      "followersCount": 1155157,
+      "friendsCount": 22970,
       "location": "United States"
     },
     "images": [],
@@ -105,7 +884,7 @@
       "name": "Bloomberg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
       "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
-      "followersCount": 9634987,
+      "followersCount": 9635144,
       "friendsCount": 93,
       "location": "New York and the World"
     },
@@ -120,7 +899,7 @@
       "name": "Fox News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
       "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
-      "followersCount": 25747767,
+      "followersCount": 25748098,
       "friendsCount": 263,
       "location": "U.S.A."
     },
@@ -135,7 +914,7 @@
       "name": "Nature is Amazing ☘️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
       "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
-      "followersCount": 4917832,
+      "followersCount": 4917906,
       "friendsCount": 46,
       "location": "🌍"
     },
@@ -152,7 +931,7 @@
       "name": "BBC News (World)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
       "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
-      "followersCount": 41254884,
+      "followersCount": 41254998,
       "friendsCount": 17,
       "location": "London, UK"
     },
@@ -167,7 +946,7 @@
       "name": "USA TODAY",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
       "description": "The pulse of the nation in the palm of your hand.",
-      "followersCount": 5092560,
+      "followersCount": 5092629,
       "friendsCount": 919,
       "location": "USA TODAY HQ, McLean, Va."
     },
@@ -184,7 +963,7 @@
       "name": "侠客 | XiakeNFT.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1874137183474638853/scDc-1eU_normal.jpg",
       "description": "破产中...\n2025 翻身为主，以稳求胜。",
-      "followersCount": 3667,
+      "followersCount": 3668,
       "friendsCount": 339,
       "location": ""
     },
@@ -201,7 +980,7 @@
       "name": "WholesomeMemes",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1679142293704523776/dBBIjwUV_normal.jpg",
       "description": "🇨🇦  We post memes, comics, wholesome stuff & anything we like. Get original shirts to raise money for charity https://t.co/Upa2OFOAJk",
-      "followersCount": 2961782,
+      "followersCount": 2961789,
       "friendsCount": 276,
       "location": "Canada"
     },
@@ -218,7 +997,7 @@
       "name": "NEWSMAX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
       "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
-      "followersCount": 3294213,
+      "followersCount": 3294327,
       "friendsCount": 781,
       "location": "United States"
     },
@@ -233,7 +1012,7 @@
       "name": "大纪元新闻网",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1173608371594891265/ut-nIZmp_normal.jpg",
       "description": "訂閱🍀乾淨世界: https://t.co/lgRui5zWD8 | 油管: https://t.co/i8Em7jeLia | 爆料: talkdjy@gmail.com | 支持大紀元: https://t.co/0CdJje0Sz8",
-      "followersCount": 269856,
+      "followersCount": 269855,
       "friendsCount": 218,
       "location": "United States"
     },
@@ -250,8 +1029,8 @@
       "name": "TaraBull",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1575977223797952512/lDUcgkJy_normal.jpg",
       "description": "#SpacesHost | Truth Slayer | ↗️ I follow all Subscribers • Let's end the establishment media • ʟɪꜱᴛᴇɴ ᴡɪᴛʜ ᴄᴜʀɪᴏꜱɪᴛʏ. ꜱᴘᴇᴀᴋ ᴡɪᴛʜ ʜᴏɴᴇꜱᴛʏ. ᴀᴄᴛ ᴡɪᴛʜ ɪɴᴛᴇɢʀɪᴛʏ.",
-      "followersCount": 1155068,
-      "friendsCount": 22971,
+      "followersCount": 1155157,
+      "friendsCount": 22970,
       "location": "United States"
     },
     "images": [],
@@ -267,7 +1046,7 @@
       "name": "non aesthetic things",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
       "description": "viral media from around the world",
-      "followersCount": 4470113,
+      "followersCount": 4470337,
       "friendsCount": 567,
       "location": ""
     },
@@ -284,7 +1063,7 @@
       "name": "Bloomberg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
       "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
-      "followersCount": 9634987,
+      "followersCount": 9635144,
       "friendsCount": 93,
       "location": "New York and the World"
     },
@@ -299,7 +1078,7 @@
       "name": "RFI 华语 - 法国国际广播电台",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/875657284554113025/eSlvV5zv_normal.jpg",
       "description": "法广RFI 中文通过多媒体互联网直播、播客、繁、简版文字、视频及社交平台全方位推出法国国内国外新闻时事、政治、经济文化专栏与专题节目。\n全球各地可以登陆\nhttps://t.co/DEERPt9y9B\n进入RFI中文网关注我们。\n🌍 https://t.co/MmsmrJmXnK",
-      "followersCount": 1216070,
+      "followersCount": 1216075,
       "friendsCount": 88,
       "location": "法国 巴黎"
     },
@@ -316,7 +1095,7 @@
       "name": "Bloomberg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
       "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
-      "followersCount": 9634987,
+      "followersCount": 9635144,
       "friendsCount": 93,
       "location": "New York and the World"
     },
@@ -346,7 +1125,7 @@
       "name": "Fox News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
       "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
-      "followersCount": 25747767,
+      "followersCount": 25748098,
       "friendsCount": 263,
       "location": "U.S.A."
     },
@@ -651,7 +1430,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
       "description": "",
-      "followersCount": 217981000,
+      "followersCount": 217993804,
       "friendsCount": 1037,
       "location": ""
     },
@@ -2264,7 +3043,7 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
       "description": "",
-      "followersCount": 217974392,
+      "followersCount": 217993804,
       "friendsCount": 1037,
       "location": ""
     },
@@ -8491,6 +9270,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyy614893671/status/1890826457829568595",
     "fullText": "马斯克的xAI计划筹集100亿美元，此轮融资可能使xAI估值达到750亿美元\n\n红杉资本、Andreessen Horowitz等现有投资者正在商讨参与此次融资。这轮融资的交易条款尚未最终确定\n\n上一轮融资，xAI估值约为510亿美元；去年12月，xAI完成C轮融资，筹集了60亿美元，英伟达和AMD两大芯片巨头也参与该笔融资 https://t.co/UlH5z8t6U5"
+  },
+  {
+    "user": {
+      "screenName": "Artistry_Duo",
+      "name": "Artistry Duo Creations",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1856545386413862912/C2BSVzh7_normal.jpg",
+      "description": "Bold, original art by Artistry Duo Creations 🎨 Texas-based duo bringing vibrant works to life. Explore creativity with us! 🌎 https://t.co/CC7Q61D8YV",
+      "followersCount": 4,
+      "friendsCount": 21,
+      "location": "Richardson, TX"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Artistry_Duo/status/1890823392565026980",
+    "fullText": "🐂 Manifest the Bull. Own the Market. 🟢🚀\n1000 Limited Edition Metal Prints\n🔹 11x14 - $300 | 🔹 20x30 - $750 | 🔹 Signed Founders - $1,000\n🚀 No Restocks. No Reprints.\n🔗 [Insert Etsy Link]\n\n#CryptoArt #Bitcoin #XRP #BullRun #NFTCommunity"
   },
   {
     "user": {

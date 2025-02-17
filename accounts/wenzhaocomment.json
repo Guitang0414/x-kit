@@ -1,0 +1,137 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {},
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": true,
+    "highlightedTweets": "0"
+  },
+  "id": "VXNlcjo4Mjc5NzI0MTY1Njc2NTIzNTI=",
+  "isBlueVerified": true,
+  "isProfileTranslatable": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Feb 04 20:09:41 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "二百萬YouTuber🇨🇦，會員網https://t.co/4pRBG8DcJO｜乾淨世界https://t.co/PZkXlguPt6｜油管https://t.co/MoWkKXlIWH｜臉書/X: /wenzhaocomment/｜IG/Threads @wenzhao.ca | 電報群https://t.co/IlXxoorPcu",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "wenzhao.ca",
+            "expanded_url": "http://wenzhao.ca",
+            "url": "https://t.co/4pRBG8DcJO",
+            "indices": [
+              17,
+              40
+            ]
+          },
+          {
+            "display_url": "bit.ly/3IxuplH",
+            "expanded_url": "https://bit.ly/3IxuplH",
+            "url": "https://t.co/PZkXlguPt6",
+            "indices": [
+              45,
+              68
+            ]
+          },
+          {
+            "display_url": "bit.ly/2x1dplW",
+            "expanded_url": "http://bit.ly/2x1dplW",
+            "url": "https://t.co/MoWkKXlIWH",
+            "indices": [
+              71,
+              94
+            ]
+          },
+          {
+            "display_url": "t.me/wenzhaofans",
+            "expanded_url": "http://t.me/wenzhaofans",
+            "url": "https://t.co/IlXxoorPcu",
+            "indices": [
+              146,
+              169
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "wenzhao.ca",
+            "expanded_url": "http://wenzhao.ca",
+            "url": "https://t.co/4pRBG8DcJO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11342,
+    "followersCount": 356247,
+    "following": true,
+    "friendsCount": 112,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1060,
+    "location": "Canada",
+    "mediaCount": 1981,
+    "name": "文昭談古論今",
+    "normalFollowersCount": 356247,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/827972416567652352/1615061267",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1626729771479572480/wmeCW2YF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wenzhaocomment",
+    "statusesCount": 3825,
+    "translatorType": "none",
+    "url": "https://t.co/4pRBG8DcJO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1602369609927200777"
+  },
+  "profileImageShape": "Circle",
+  "restId": "827972416567652352",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false,
+    "reason": {
+      "description": {
+        "entities": [
+          {
+            "fromIndex": 26,
+            "ref": {
+              "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 36
+          }
+        ],
+        "text": "This account is verified. Learn more"
+      },
+      "verifiedSinceMsec": "1697857104451"
+    }
+  }
+}

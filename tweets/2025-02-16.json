@@ -1,2203 +1,788 @@
 [
   {
     "user": {
-      "screenName": "plusyip",
-      "name": "Plusye",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
-      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8012,
-      "friendsCount": 290,
-      "location": ""
+      "screenName": "ClownWorld_",
+      "name": "Clown World ™ 🤡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884972270076276736/pzgDTZDF_normal.jpg",
+      "description": "Official #ClownWorld ™ 🤡 #NoCaptionNeeded ** DM us for removals/credit",
+      "followersCount": 2980119,
+      "friendsCount": 933,
+      "location": "DM Submissions 📧 "
     },
     "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/plusyip/status/1891262736396435815",
-    "fullText": "失眠，两点半醒来就没再睡着，早上请假补觉 🥱 这几天作息比较混乱。"
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891300966223446017/vid/avc1/576x1028/x0f-bkipZcy7zB80.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/ClownWorld_/status/1891301066865615157",
+    "fullText": "Would you get a tattoo from this street tattooist? https://t.co/VpTwbq893m"
   },
   {
     "user": {
-      "screenName": "dotey",
-      "name": "宝玉",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
-      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105772,
-      "friendsCount": 1279,
-      "location": "Chicago, IL"
+      "screenName": "NTDNews",
+      "name": "NTD News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838285672383213568/nXIXaBrd_normal.jpg",
+      "description": "Your independent voice in TV news—bringing back reliable, honest news reporting.",
+      "followersCount": 86018,
+      "friendsCount": 82,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NTDNews/status/1891300283164082657",
+    "fullText": "Harvey Weinstein Says He Was Duped Into Guaranteeing $45M Loan, Sues Brother and Other Movie Execs https://t.co/IbNrKfBVgo"
+  },
+  {
+    "user": {
+      "screenName": "Morris_LT",
+      "name": "Morris",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+      "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！ \n购买 #Bitcoin 或 #Đogecoin 链接：https://t.co/rpBpnKphtr",
+      "followersCount": 136639,
+      "friendsCount": 377,
+      "location": "𝕏Ɖ"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Morris_LT/status/1891300226838724654",
+    "fullText": "减少焦虑有两个办法：第一，不要尝试一次性解决所有的问题，因为问题的后面还是问题，问题就是矛盾，矛盾是普遍存在的，贯穿于一切事物的始终。第二，不要把犯错。犯错有两重性，一方面会带来损失，另一方面也是好的焦虑。有句话物极必反，错误成了对光，机会来了。"
+  },
+  {
+    "user": {
+      "screenName": "WeipingQin",
+      "name": "Weiping Qin 秦偉平",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1507943953374404609/cbeEgo-u_normal.jpg",
+      "description": "Economist, Columnist, Veteran, Author of 「China’s Crisis Roadmap」 & 「Exodus from the Crisis of China」經濟學者/專欄作家/退伍軍人/中國危機三部曲作者 採訪/咨詢預約：Weipingqin1980@gmail.com",
+      "followersCount": 72832,
+      "friendsCount": 1449,
+      "location": "Washington, DC"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gj8WvgnWwAEc_mQ.jpg"
+      "https://pbs.twimg.com/media/Gj8-FOPXYAAXhda.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/dotey/status/1891255561733235158",
-    "fullText": "Airbnb 首席执行官称，现在用 AI 来规划旅行还为时尚早\nby Sarah Perez\n\nAirbnb 表示，公司已经准备好推出 AI 技术，但与消费者最初所期待的方式并不相同。\n\n相较于为旅客提供借助 AI 智能体进行旅行规划或预订的工具，Airbnb 首先计划将 AI https://t.co/W2W8JkKuC0"
+    "tweetUrl": "https://x.com/WeipingQin/status/1891299687979794632",
+    "fullText": "在有些人的眼中，似乎美国联邦政府雇员都是酒囊饭袋，机构臃肿，运营效率低下，与中国政府不相上下，甚至问题更加严重。\n\n把公务员群体当成假想敌，认为他们浪费了纳税人的钱，应该大刀阔斧砍人砍预算，于是乎，纳税人的负担就减轻了，美国经济和自己的生活就会变得更好了。 https://t.co/nh1Ie7FePw"
   },
   {
     "user": {
-      "screenName": "dotey",
-      "name": "宝玉",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
-      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105772,
-      "friendsCount": 1279,
-      "location": "Chicago, IL"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj8TUkvW0AA_ENz.png",
-      "https://pbs.twimg.com/media/Gj8TXo2WAAApoHf.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/dotey/status/1891251867725795742",
-    "fullText": "1997 年的 模拟人生1 游戏设计文档下载\n\nhttps://t.co/zrhmm4J91w https://t.co/26IkfYRQpu"
-  },
-  {
-    "user": {
-      "screenName": "SummitGoods1",
-      "name": "Summitgoods",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869050517776637952/m6Hjleb5_normal.jpg",
-      "description": "Quality goods at the summit of value.",
-      "followersCount": 1,
-      "friendsCount": 19,
-      "location": "New York"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/SummitGoods1/status/1891248378446762070",
-    "fullText": "🤣 Are you a bold woman or mom who loves perfectly placed humor?"
-  },
-  {
-    "user": {
-      "screenName": "SummitGoods1",
-      "name": "Summitgoods",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869050517776637952/m6Hjleb5_normal.jpg",
-      "description": "Quality goods at the summit of value.",
-      "followersCount": 1,
-      "friendsCount": 19,
-      "location": "New York"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/SummitGoods1/status/1891248378442612805",
-    "fullText": "🤣 Are you a bold woman or mom who loves perfectly placed humor?"
-  },
-  {
-    "user": {
-      "screenName": "SummitGoods1",
-      "name": "Summitgoods",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869050517776637952/m6Hjleb5_normal.jpg",
-      "description": "Quality goods at the summit of value.",
-      "followersCount": 1,
-      "friendsCount": 19,
-      "location": "New York"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/SummitGoods1/status/1891248378434175078",
-    "fullText": "🤣 Are you a bold woman or mom who loves perfectly placed humor?"
-  },
-  {
-    "user": {
-      "screenName": "SummitGoods1",
-      "name": "Summitgoods",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869050517776637952/m6Hjleb5_normal.jpg",
-      "description": "Quality goods at the summit of value.",
-      "followersCount": 1,
-      "friendsCount": 19,
-      "location": "New York"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/SummitGoods1/status/1891248377721135288",
-    "fullText": "🤣 Are you a bold woman or mom who loves perfectly placed humor?"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1891203264424628279",
-    "fullText": "【微信，正式接入DeepSeek】\n\n微信搜一搜在调用混元大模型丰富 AI 搜索的同时，近日正式灰度测试接入DeepSeek。被灰度到的用户，可在对话框顶部搜索入口，看到“AI搜索”字样，点击进入后，可免费使用DeepSeek-R1满血版模型，获得更多元化的搜索体验。"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1891187312098213984",
-    "fullText": "论八卦，我是服了《每日邮报》，在该领域孜孜不倦追求真相并力求让主人公叙述自己故事的能力，真不是一般八卦小报能比的。\n\n不亏是屹立百年的大品牌🥰🥰"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52488,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1891185936576262403",
-    "fullText": "论八卦，我是服了《每日邮报》，这种领域孜孜不倦追求真相并力求让主人公叙述自己故事的能力，真不是一般八卦小报能比的。\n\n不亏是屹立百年的大品牌🥰🥰"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj7WORnaUAAr6xK.jpg",
-      "https://pbs.twimg.com/media/Gj7WORobsAA9eLx.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1891184507023237506",
-    "fullText": "BBC总结的到目前为止美-俄沙特会谈的核心信息，我机器翻译了供大家参考 https://t.co/zLSgtLr0Er"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj7U0fobEAAp_mH.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1891182896880246860",
-    "fullText": "被解雇的核机构工作人员又要被招聘回去了\n尼玛，这是真的在翻烙饼啊 https://t.co/yl9bigMGHK"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj7SnV8a0AEaJXD.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1891180499852304476",
-    "fullText": "你俩这是在气谁呢？ https://t.co/ypD63Xds91"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
+      "screenName": "awkwardgoogle",
+      "name": "Interesting things",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1843285954473164800/87Vfzdg0_normal.jpg",
+      "description": "Posting interesting things from all corners of the internet.",
+      "followersCount": 3750207,
+      "friendsCount": 151,
       "location": ""
     },
     "images": [],
     "videos": [
-      "https://video.twimg.com/ext_tw_video/1891027305679474688/pu/vid/avc1/848x560/JResyJnxZbrSz15Y.mp4?tag=12"
+      "https://video.twimg.com/amplify_video/1880988958470840320/vid/avc1/576x638/oeuELQ8A9_FhGcAY.mp4?tag=16"
     ],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1891179540971393361",
-    "fullText": "War and it’s people.https://t.co/t0ZvD6snaj"
+    "tweetUrl": "https://x.com/awkwardgoogle/status/1891299526301860317",
+    "fullText": "Baby gets glasses, and can see clearly for the first time.\nhttps://t.co/m7aFPAhS1Z"
   },
   {
     "user": {
-      "screenName": "canlesofficial",
-      "name": "Canles",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
-      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11624,
-      "friendsCount": 1,
-      "location": "Vancouver, Canada"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/canlesofficial/status/1891146226692727171",
-    "fullText": "Feel the Difference, Naturally: Barefoot shoes unlock a unique sensory experience, one traditional shoes can't replicate. You'll feel the ground beneath your feet like never before, improving your balance and body awareness. \n\n👣 Join the Barefoot Movement!"
-  },
-  {
-    "user": {
-      "screenName": "canlesofficial",
-      "name": "Canles",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
-      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11627,
-      "friendsCount": 1,
-      "location": "Vancouver, Canada"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/canlesofficial/status/1891146186742186169",
-    "fullText": "Feel the Difference, Naturally: Barefoot shoes unlock a unique sensory experience, one traditional shoes can't replicate. You'll feel the ground beneath your feet like never before, improving your balance and body awareness. \n\n👣 Join the Barefoot Movement!"
-  },
-  {
-    "user": {
-      "screenName": "canlesofficial",
-      "name": "Canles",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1666678663084150784/41oyvaiH_normal.jpg",
-      "description": "👣 Engineered for walking | 👟 Comfy & versatile footwear for life's adventures | 🌿 Breathable, lightweight designs",
-      "followersCount": 11628,
-      "friendsCount": 1,
-      "location": "Vancouver, Canada"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/canlesofficial/status/1891146174733984100",
-    "fullText": "Feel the Difference, Naturally: Barefoot shoes unlock a unique sensory experience, one traditional shoes can't replicate. You'll feel the ground beneath your feet like never before, improving your balance and body awareness. \n\n👣 Join the Barefoot Movement!"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
+      "screenName": "ronin19217435",
+      "name": "nikola 3",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1746965196621414401/aI7GKs4n_normal.jpg",
+      "description": "A researcher of deep secrets and hidden knowledge!",
+      "followersCount": 495068,
+      "friendsCount": 514,
+      "location": "Srbija"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gj6yQf1bsAAE5lT.jpg"
+      "https://pbs.twimg.com/media/Gj8-13eXkAADomT.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1891144895601299634",
-    "fullText": "美国和俄罗斯官员将在沙特阿拉伯举行会谈，讨论结束乌克兰战争，但乌克兰并未受到邀请。\n\n包括国务卿卢比奥在内的特朗普特使将出席会议，旨在安排与普京、特朗普和泽连斯基的峰会。\n\n欧洲被排除在和平进程之外，证实了人们对于华盛顿将其盟友排除在外的担忧。 https://t.co/EgELp5ErKi"
+    "tweetUrl": "https://x.com/ronin19217435/status/1891299467015696834",
+    "fullText": "How to get rid of this system\n\n The first step is to disconnect from media programming.  Stop following news that poisons you with negativity.\n\n Start thinking critically.  Review the information, look for sources that are not under the control of the same system.\n\n Most https://t.co/87yfnpZi15"
   },
   {
     "user": {
-      "screenName": "yihui_indie",
-      "name": "熠辉 Indie",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
-      "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 25036,
-      "friendsCount": 522,
-      "location": "Hong Kong"
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092525,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/yihui_indie/status/1891138981695463899",
-    "fullText": "语音输入法 + AI大模型，目前基本上取代了我在敲代码之外的所有输入。\n\n之前语音输入法有两个痛点，第1个是文字的准确率没法100%，第2个是标点符号以及排版问题。这会导致我语音说完之后，其实还要进行一下细节的调整，很繁琐。"
+    "tweetUrl": "https://x.com/USATODAY/status/1891299102597513376",
+    "fullText": "Shakira cancels Peru concert after being hospitalized with 'abdominal issue' https://t.co/te0qrOXnmh"
   },
   {
     "user": {
-      "screenName": "cellinlab",
-      "name": "Cellinlab",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
-      "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7646,
-      "friendsCount": 3357,
-      "location": ""
+      "screenName": "WholesomeMeme",
+      "name": "WholesomeMemes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1679142293704523776/dBBIjwUV_normal.jpg",
+      "description": "🇨🇦  We post memes, comics, wholesome stuff & anything we like. Get original shirts to raise money for charity https://t.co/Upa2OFOAJk",
+      "followersCount": 2961880,
+      "friendsCount": 276,
+      "location": "Canada"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gj6h1eYboAAHvMO.jpg"
+      "https://pbs.twimg.com/media/Gj8-df5XIAAHI1e.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/cellinlab/status/1891126840598606105",
-    "fullText": "要用我们在意的事去唤醒用户在意的事，当用户开始在意一件事时，就会产生需求，我们再用我们的价值观，给用户在意的事带去一个解决方案。以上过程即为影响。 https://t.co/5p5XFUc560"
+    "tweetUrl": "https://x.com/WholesomeMeme/status/1891299046679003418",
+    "fullText": "https://t.co/hXh0mrH8rm"
   },
   {
     "user": {
-      "screenName": "cellinlab",
-      "name": "Cellinlab",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
-      "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7646,
-      "friendsCount": 3357,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj6f93dbcAAfwuM.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/cellinlab/status/1891124787021238647",
-    "fullText": "在这个多样的世界中，不管你是什么样的人，你都能获得某个大规模人群的认同与信任。因为每个人都能在世界中代表某个大规模人群。\n无需担心自己不够优秀，也无需担心自己格局不够大或视野不够宽。 https://t.co/RslVobKdYq"
-  },
-  {
-    "user": {
-      "screenName": "cellinlab",
-      "name": "Cellinlab",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
-      "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7646,
-      "friendsCount": 3357,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj6eyZla4AABny8.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/cellinlab/status/1891123490423517426",
-    "fullText": "价值观没有对与错，感悟也没有对与错。 https://t.co/oaqi9Z5ZCe"
-  },
-  {
-    "user": {
-      "screenName": "yuxiyou",
-      "name": "尤雨溪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1671864937/large_3nm7_21222k204236_normal.jpg",
-      "description": "@youyuxi 的中文小号。@voidzerodev 创业中，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
-      "followersCount": 101096,
-      "friendsCount": 232,
-      "location": "Singapore"
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3294143,
+      "friendsCount": 781,
+      "location": "United States"
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/yuxiyou/status/1891120647255790014",
-    "fullText": "拿起手机突然发现黑屏无反应了，按开机键也没反应，充电也没反应，还以为坏了，都做好准备第二天直接冲去 apple store 了，然后 logo 亮了，原来是系统自动升级 iOS 18.3 😂"
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891299026563391735",
+    "fullText": "Criminal immigrants should go back to their home countries willingly rather than waiting to be arrested, former Pinal County, Arizona, Sheriff Mark Lamb told Newsmax to Sunday. https://t.co/TDMCgDqlTu"
   },
   {
     "user": {
-      "screenName": "cellinlab",
-      "name": "Cellinlab",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
-      "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7646,
-      "friendsCount": 3357,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj6bNYvaYAAx87u.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/cellinlab/status/1891119557898592421",
-    "fullText": "如果我们希望小众内容获得更多的流量，最好的方法是将小众内容大众化。 https://t.co/Vf3B9owizu"
-  },
-  {
-    "user": {
-      "screenName": "vikingmute",
-      "name": "Viking",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
-      "description": "独立开发者 自由职业\n作品 - 简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历\n\n课程 - 慕课网精英讲师 https://t.co/NTyFFrvHwL\n\n经历 - 不上班的1000天 https://t.co/bonuLQCCsY\n\n视频 - https://t.co/aQYLgujIyC",
-      "followersCount": 52018,
-      "friendsCount": 280,
-      "location": "Shanghai"
-    },
-    "images": [],
-    "videos": [
-      "https://video.twimg.com/ext_tw_video/1891111513785782272/pu/vid/avc1/654x480/OtYD3Baw5nWJQNdy.mp4?tag=12"
-    ],
-    "tweetUrl": "https://x.com/vikingmute/status/1891111635516866926",
-    "fullText": "有用过 Cline 这个插件的朋友们可以说说感受吗？\nhttps://t.co/dgrx4pgpk2\n看demo还挺不错，当然我现在对 Cursor 是非常满意了，但是我永远都想尝试一些新的东西，而且这个插件加上一些白嫖的 DeepSeek API 的话，看起来是一个很省钱的解决方案。 https://t.co/AWoJ5Sms8p"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44487,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891081959675457824",
-    "fullText": "🎒🌟 Travel Is Easy Now!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44497,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891081959625093189",
-    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44493,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891081959100842350",
-    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16279,
-      "friendsCount": 3022,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj5lQARbMAABOVv.jpg",
-      "https://pbs.twimg.com/media/Gj5lQAOaIAEezCl.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1891064895594000668",
-    "fullText": "炒糕和炸鸡\n\n炒糕，淀粉混糖搅成糊糊，下锅凝固马上拿起来放冰箱，QQ弹弹的 https://t.co/TqfIMbqc8f"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16279,
-      "friendsCount": 3022,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj5g5wyaEAAzAW6.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1891055448326901871",
-    "fullText": "鸡汤 https://t.co/oj863oIgfT"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44494,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891054813728968757",
-    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44490,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891054812969783600",
-    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44476,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891054812852257245",
-    "fullText": "🎒🌟 Travel Is Easy Now!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44493,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891043435970494888",
-    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44487,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891043435781722307",
-    "fullText": "🎒🌟 Travel Is Easy Now!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44497,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891043434213023946",
-    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44482,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891042493107732953",
-    "fullText": "🌍 Travel Smarter, Travel Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44482,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891042492969263322",
-    "fullText": "✈️ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS\n\"Spacious, lightweight, and perfect for traveling. Fits under my seat easily, and the colors are awesome! 🌍\""
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44494,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891042492185018398",
-    "fullText": "Travel Smarter, Pack Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44481,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1891042491950149853",
-    "fullText": "✨ Pack Efficiently and Travel Smarter!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16279,
-      "friendsCount": 3022,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj5P8YgbAAAoKtC.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1891036800317018380",
-    "fullText": "洗澡关窗，把窗户边沿放着的罐子弄掉了，给洗手盆砸了一个坑\n\n好讨厌这种不小心把一个完整的东西弄坏的感觉 https://t.co/iJlxqbWpti"
-  },
-  {
-    "user": {
-      "screenName": "ovst36099",
-      "name": "兔子",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
-      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1860,
-      "friendsCount": 197,
-      "location": "NewYork"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj5OEENbUAA8rn1.jpg",
-      "https://pbs.twimg.com/media/Gj5OIbibIAAMWvZ.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/ovst36099/status/1891035929751474208",
-    "fullText": "作为API服务商，核心收入都来自大客户，但是还是有C端用户想直接用来对话\n\n自己动手拿CherryStudio的开源版本，用AI帮忙修改了下，将兔子默认的内容都填入了，欢迎本地使用\n\nwin版本下载：https://t.co/m8QjlVeVFB https://t.co/o1a1wxBWoy"
-  },
-  {
-    "user": {
-      "screenName": "waylybaye",
-      "name": "Baye",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
-      "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 148820,
-      "friendsCount": 455,
-      "location": "中华人民共和国"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/waylybaye/status/1891026430961557554",
-    "fullText": "我 2025 年的两个信条是长期主义和追求卓越。\n\n不要畏惧风险，要做长期投入的产品，并接受失败。\n\n我以前很少追求去做 Top 1，因为我没有很大的野心其实。但我发现只有你想做 Top 1 时，可能才勉强保住 Top 3~5 的位置，如果你只想做 Top 3，那么最终 Top 10 都进不去。以后将用最高的标准要求自己。"
-  },
-  {
-    "user": {
-      "screenName": "turingou",
-      "name": "郭宇 guoyu.eth",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
-      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138587,
-      "friendsCount": 1429,
-      "location": "東京 港区"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj46J30bgAAmCqd.jpg",
-      "https://pbs.twimg.com/media/Gj46J32boAAfUH-.jpg",
-      "https://pbs.twimg.com/media/Gj46J31bsAE2vi6.jpg",
-      "https://pbs.twimg.com/media/Gj46J31bsAAQgOa.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/turingou/status/1891012840208670906",
-    "fullText": "近期生活。收到了 S 送的超美丽水晶杯，开心！意外中发现了家附近的宝藏法餐，竟然随便 walk-in 都能遇到百名店！以及这几天都在通宵肝文明7，做梦都是天下大势（不是… https://t.co/WNmCBXqT7i"
-  },
-  {
-    "user": {
-      "screenName": "ovst36099",
-      "name": "兔子",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
-      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1860,
-      "friendsCount": 197,
-      "location": "NewYork"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj4zmciakAARPbz.jpg",
-      "https://pbs.twimg.com/media/Gj4zqT-bQAAfMrg.png",
-      "https://pbs.twimg.com/media/Gj40Rb8agAAylGd.jpg"
-    ],
-    "videos": [
-      "https://video.twimg.com/ext_tw_video/1891005575712178176/pu/vid/avc1/544x960/CQ0NilsWZe4GIoka.mp4?tag=12"
-    ],
-    "tweetUrl": "https://x.com/ovst36099/status/1891007278767395289",
-    "fullText": "上午10点20的场子，座无虚席；自家小朋友哭成泪人\n\n申公豹：本集主角，全场智商第一，努力第一；在申小豹死在怀里留下遗言，哪吒杀了咱爹；还能立刻知道真凶不是哪吒，一人对抗黑暗。\n\n哪吒：本集配角，那么冲动的人，居然在得知父母死后，还先去打石矶娘娘帮忙复活敖丙，再去“复仇”。 https://t.co/bdhZJRSo5m"
-  },
-  {
-    "user": {
-      "screenName": "manateelazycat",
-      "name": "Andy Stewart",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
-      "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 18922,
-      "friendsCount": 99,
-      "location": "China"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/manateelazycat/status/1891005515724914884",
-    "fullText": "旧房翻新是个体力活哇，刷墙快完了，改装花洒居然把水管钻破了，囧。\n\n安装花洒的师傅，马上转变成泥瓦工，从补水管，钻墙，水泥，贴砖开始。\n\n两个小时过去了，终于又reset到装花洒步骤了...\n\n这个像不像写代码写到一半，编辑器坏了，把编辑器bug修完再写代码的我？"
-  },
-  {
-    "user": {
-      "screenName": "ovst36099",
-      "name": "兔子",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
-      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1855,
-      "friendsCount": 197,
-      "location": "NewYork"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj4yRg6bgAAh1eg.jpg",
-      "https://pbs.twimg.com/media/Gj4yZk4aQAA7_st.jpg"
-    ],
-    "videos": [
-      "https://video.twimg.com/ext_tw_video/1891001566150479872/pu/vid/avc1/544x960/5-ma54CWU2JY9Etu.mp4?tag=12"
-    ],
-    "tweetUrl": "https://x.com/ovst36099/status/1891004340724547945",
-    "fullText": "上午10点20的场子，座无虚席；自家小朋友哭成泪人\n\n申公豹：全场智商第一，努力第一；在申小豹死在怀里留下遗言，哪吒杀了咱爹；还能立刻知道真凶不是哪吒，一人对抗黑暗。\n\n哪吒：那么冲动的人，居然在得知父母死后，还先去打石矶娘娘帮忙复活敖丙，再去“复仇”。\n\n本集的小工具人：敖丙、太乙真人 https://t.co/2DJHr5aVRL"
-  },
-  {
-    "user": {
-      "screenName": "dotey",
-      "name": "宝玉",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
-      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105772,
-      "friendsCount": 1279,
-      "location": "Chicago, IL"
-    },
-    "images": [],
-    "videos": [
-      "https://video.twimg.com/ext_tw_video/1890972625679048705/pu/vid/avc1/1280x720/LRluN-nswq57BfRy.mp4?tag=12"
-    ],
-    "tweetUrl": "https://x.com/dotey/status/1890998246241075389",
-    "fullText": "让两个 AI 对弈是个不错的测试模型能力的方法\nhttps://t.co/x3Gank2Y8x"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890994420771684641",
-    "fullText": "【扯白】\n吃完饭，和友人出门散步聊天\n说起来投资中真正想赚大钱必须具备的两大要素\n\n第一就是，对自己投的东西真正要懂，而且是比别人更懂，比专业研究机构的卖方研究员更懂。如果做不到这个，就只能获得平均回报。不会有超额收益"
-  },
-  {
-    "user": {
-      "screenName": "dotey",
-      "name": "宝玉",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
-      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105772,
-      "friendsCount": 1279,
+      "screenName": "TrendSpider",
+      "name": "TrendSpider",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612435685851680769/_4qCMu8F_normal.jpg",
+      "description": "Award-Winning 🏆 Industry-Leading  🚀 All-in-One Trading Platform. \n\nReal-Time Charting, Scanning, Backtesting, Alerts, Bots, Fundamentals, Options Flow & more!",
+      "followersCount": 444111,
+      "friendsCount": 1623,
       "location": "Chicago, IL"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gj4aNkrXcAAojfR.jpg"
+      "https://pbs.twimg.com/media/Gj8b7H0WsAAePTe.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/dotey/status/1890977764448055361",
-    "fullText": "“我们基于目前世界的制约条件来想象它的未来，但其实还有大量新的机会和事物会涌现。所以我觉得，写代码在现在确实非常重要，而且很快就会发生变化。大家需要保持足够的灵活性。\n\n我常打的比方是，好比我们是一群会计师，而微软 Excel 刚刚问世。你是想当第一个放下 HP 计算器学 Excel https://t.co/AMbPNeJHj9"
+    "tweetUrl": "https://x.com/TrendSpider/status/1891299023094759931",
+    "fullText": "10 years later—back at the scene of the crime.  $NKE https://t.co/tJwLfAznho"
   },
   {
     "user": {
-      "screenName": "dotey",
-      "name": "宝玉",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
-      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105772,
-      "friendsCount": 1279,
-      "location": "Chicago, IL"
+      "screenName": "catshealdeprsn",
+      "name": "contents that ll heal your depression 🌻",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889715174296465408/T4ihURlO_normal.jpg",
+      "description": "Best account to heal your anxiety or depression.",
+      "followersCount": 1062210,
+      "friendsCount": 29,
+      "location": "United States"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gj4ZwwRXcAAWi9U.jpg"
+      "https://pbs.twimg.com/media/Gj7NUOsbsAAcQfz.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/dotey/status/1890977229254840826",
-    "fullText": "“如果你回到 1980 年，向人们描述我们现在的很多工作，人家很难想象。比如说“我是一名播客主持人”，对方会不明白那是干什么的。\n\n那如果你回到 1776 年，去和本杰明·富兰克林说我们今天的经济形态，更是无法想象，更别说科技行业本身了，仅仅是服务经济就够颠覆了。他可能会问，“那谁来种粮食？” https://t.co/Y84F1j9d7i"
+    "tweetUrl": "https://x.com/catshealdeprsn/status/1891299022599491749",
+    "fullText": "https://t.co/2StvrggVFc"
   },
   {
     "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj4HLyqX0AAvAXe.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890956800721051938",
-    "fullText": "【吾与AI孰强？】\n菜心，鸡翅，蟹炒年糕✌️ https://t.co/e0VQQJmpOH"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16279,
-      "friendsCount": 3022,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj4E3dFbwAAMoJK.jpg",
-      "https://pbs.twimg.com/media/Gj4E9WxbQAAs2Dw.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1890955259960279395",
-    "fullText": "油管上我只需要再上传两部影片，十几天内应该就可以达要求把两个级别的盈利都申请打开了。\n\n现在的问题是，我之前做的是开港卡和U卡的内容，最近似乎没有什么比较贴合账号而且有话题度的内容，犯难了。\n\n各位推友有何高见吗？ https://t.co/hwwYf2pVX5"
-  },
-  {
-    "user": {
-      "screenName": "yihui_indie",
-      "name": "熠辉 Indie",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
-      "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 25036,
-      "friendsCount": 522,
-      "location": "Hong Kong"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj4AHlDbkAE3vqG.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yihui_indie/status/1890949970704183618",
-    "fullText": "这半年来在B站上零星的靠卖代码，盈利居然超过1万了。开个Thread，来持续分享下这部分收入的模式和一些思考，最后一个帖子来说说可能的合作+共创机会。 https://t.co/2PuqD0N6D6"
-  },
-  {
-    "user": {
-      "screenName": "dotey",
-      "name": "宝玉",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
-      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105772,
-      "friendsCount": 1279,
-      "location": "Chicago, IL"
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634777,
+      "friendsCount": 93,
+      "location": "New York and the World"
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/dotey/status/1890939422679400758",
-    "fullText": "AI Agent——“Agent”这个词本身就意味着它拥有“决策权（agency）”，所以它能自己在执行过程中遇到问题时做出决定而不需要确认，需要确认的是“Copilot”。但问题在于，如何保证 Agent 做决策时，能在没有确认时做出我们期望的结果？"
+    "tweetUrl": "https://x.com/business/status/1891298972855115808",
+    "fullText": "Tencent shares jump 6.6% in Hong Kong as it integrates DeepSeek’s AI chatbot into WeChat https://t.co/wD4qwbdOFa"
   },
   {
     "user": {
-      "screenName": "ovst36099",
-      "name": "兔子",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
-      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1860,
-      "friendsCount": 197,
-      "location": "NewYork"
+      "screenName": "zillowgonewild",
+      "name": "Zillow Gone Wild 🏡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869451557571301376/GKneOa8K_normal.jpg",
+      "description": "join the zillionaires 🏡. email me wild homes: hi@zillowgonewild.com. Subscribe to the Zillow Gone Wild newsletter to never miss a wild home 👇",
+      "followersCount": 624997,
+      "friendsCount": 11,
+      "location": "New York, NY"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gj3wQvhaEAAk532.jpg",
-      "https://pbs.twimg.com/media/Gj3wQvsasAA5Wg4.jpg"
+      "https://pbs.twimg.com/media/Gj8-QUdX0AAbGhd.jpg",
+      "https://pbs.twimg.com/media/Gj8-QUeWsAAkX2G.jpg",
+      "https://pbs.twimg.com/media/Gj8-QUdWsAALkYz.jpg",
+      "https://pbs.twimg.com/media/Gj8-QUeXAAAh4lX.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/ovst36099/status/1890931592031338991",
-    "fullText": "比“长某湖”这种高一倍了，可喜可贺\n\n【一起见证《哪吒2》冲击全球票房TOP10-哔哩哔哩直播】 https://t.co/HdRnCSVXrC https://t.co/2X7vUlf73y"
+    "tweetUrl": "https://x.com/zillowgonewild/status/1891298906375369135",
+    "fullText": "How about a former firehouse in Hamilton, OH for ONLY $100k????????? https://t.co/awCh3lBMdp"
   },
   {
     "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16279,
-      "friendsCount": 3022,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+      "screenName": "lxfater",
+      "name": "铁锤人",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1723719195995807744/9JIAjVJr_normal.jpg",
+      "description": "从厂里裸辞，然后放弃开源事业投身独立开发的铁头小伙。分享我最真实的创业路程。",
+      "followersCount": 39994,
+      "friendsCount": 899,
+      "location": "梦开始的地方"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gj3uittbUAAxOBj.jpg"
+      "https://pbs.twimg.com/media/Gj89-Bta8AAv7sO.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1890929705336951073",
-    "fullText": "人在哪些时刻成长最快 https://t.co/csNmCvlpag"
+    "tweetUrl": "https://x.com/lxfater/status/1891298663324098736",
+    "fullText": "体验无限白嫖Claude-sonnet3.5的trae发布了windows版本了\n\n朋友，拿来用来问问题，润色写文章，也可以  反正不会吃亏  \n\n兄弟们赶紧葱鸭，windows用户要涌进来了，不知道还能免费多久\n\nwindows登录就是windows版本\n\n注册下载地址在下面： https://t.co/RzY1h4V4YD"
   },
   {
     "user": {
-      "screenName": "NH1uj76691",
-      "name": "Ncdvn4H1uj",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1855865115402539008/EgBusV4B_normal.jpg",
-      "description": "",
-      "followersCount": 2,
+      "screenName": "EndWokeness",
+      "name": "End Wokeness",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_normal.jpg",
+      "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+      "followersCount": 3587755,
+      "friendsCount": 1259,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891298521363382272/vid/avc1/888x498/HNMRNxrNIBX3FeTe.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/EndWokeness/status/1891298586735923702",
+    "fullText": "🚨CBS just aired this footage they took of German police raiding a home and seizing electronics over a meme https://t.co/EqJ7moDHCd"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道，欢迎关注吴说APP与播客：https://t.co/rVoqryXVjk\n联系我们 Telegram: colinwu1989",
+      "followersCount": 141440,
+      "friendsCount": 40,
+      "location": "HongKong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1891298557384393132",
+    "fullText": "美国德克萨斯州参议院将于 2 月 18 日举行公开听证会，讨论建立比特币战略储备。加密借贷平台 Nexo 调度分析师 Iliya Kalchev"
+  },
+  {
+    "user": {
+      "screenName": "scrowder",
+      "name": "Steven Crowder",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1584668644772028416/Oeb4cLTl_normal.jpg",
+      "description": "Host of \"Louder with Crowder\" the #1 Conservative Daily Show & Home of the Most Watched Election Livestream in the World\n(Mon-Fri, 10 am ET)\nJoin @LWCmugclub",
+      "followersCount": 2385274,
+      "friendsCount": 5885,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/scrowder/status/1891298542418874848",
+    "fullText": "Tomorrow we have two brand new 3 in 3 Podcast episodes dropping in honor of Presidents' Day! \n\nWhat do you think the topics will be? \n\nComment your guesses and check out 3 in 3 wherever you get your podcasts! \n\nApple:  https://t.co/m0HTHNOn8a\n\nSpotify: https://t.co/Ri8mfazCY2"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634777,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891298331109802163",
+    "fullText": "Japan’s stocks fluctuate after data showed US retail sales slumped by the most in nearly two years and Trump’s tariff plans sparked threats of retaliation https://t.co/S1a0vt7cI5"
+  },
+  {
+    "user": {
+      "screenName": "ronin19217435",
+      "name": "nikola 3",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1746965196621414401/aI7GKs4n_normal.jpg",
+      "description": "A researcher of deep secrets and hidden knowledge!",
+      "followersCount": 495068,
+      "friendsCount": 514,
+      "location": "Srbija"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891298257352978432/pu/vid/avc1/884x496/2Cbff---XBu3F36g.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/ronin19217435/status/1891298328572272989",
+    "fullText": "SHOCKING FACTS ABOUT COVID-19 – NOW CONFIRMED BY THE US MINISTER OF HEALTH! 🚨\n1️⃣ RFK Jr., the new US Health Minister, reveals the truth about the pandemic! 🔥\n2️⃣ Health authorities KNEW the vaccine did not stop transmission.\n3️⃣ Pfizer data: 23% higher mortality from all causes https://t.co/7Ige8hScD8"
+  },
+  {
+    "user": {
+      "screenName": "VOAChinese",
+      "name": "美国之音中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+      "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/cW5eaWpefk",
+      "followersCount": 2593088,
+      "friendsCount": 168,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VOAChinese/status/1891298316308361229",
+    "fullText": "加拿大军舰通过台湾海峡 中国谴责、台湾欢迎 https://t.co/hiHclJ8XAv"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634777,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891297794335363334",
+    "fullText": "Institutional investors turned the most positive on the yen since March 2021 as speculation mounts that the Bank of Japan will raise interest rates again https://t.co/MG4pMJpCv0"
+  },
+  {
+    "user": {
+      "screenName": "lurkbull",
+      "name": "有条有理",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876894094959509504/Rlgr90HR_normal.png",
+      "description": "方向正确+标的正确+位置正确+心态正确=盈利正确。 操作风格：短线潜伏，偏左侧。研报仅作为参考建议，不作为盈利保障。契约精神是做人的基本原则。 https://t.co/a1k70CMGR6",
+      "followersCount": 21516,
       "friendsCount": 31,
-      "location": ""
+      "location": "Vancouver, British Columbia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lurkbull/status/1891297750278676896",
+    "fullText": "周末重要事件：\n1.1月末, 广义货币（M2）同比增长7％, 狭义货币（M1）同比增长0.4％; 1月社会融瓷规模增量为7.06万亿元, 比上年同期多5833亿元; 1月份人民币贷款增加5.13万亿元, 预估为4.53万亿元;\n\n2.国际数据公司（IDC）与浪潮信息联台发布 （中国人工智能计算力发展评估报告） ,"
+  },
+  {
+    "user": {
+      "screenName": "0xUnicorn",
+      "name": "UNICORN🦄️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1890302456208506880/kiwbcclQ_normal.jpg",
+      "description": "一切有为法，如梦幻泡影；应无所住，而生其心。🦋📈🌙 微信Unicorneth #BTC #DeFi #SOL #UNI #PENDLE #MORPHO #OKX 一站式WEB3/加密入口",
+      "followersCount": 121201,
+      "friendsCount": 2302,
+      "location": "BITCOIN"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gj3nuszWcAA6toq.png"
+      "https://pbs.twimg.com/media/Gj88-0NbEAA_i1l.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/NH1uj76691/status/1890922210128269620",
-    "fullText": "2025-02-16 《飘》 https://t.co/VLQCQPA70h"
+    "tweetUrl": "https://x.com/0xUnicorn/status/1891297427799560277",
+    "fullText": "伯克希尔\n柏基\n桥水\n方舟\n的重仓，增持，减持股\n\n方舟\n重仓Coinbase \n减持了 Robinhood 和 Block\n\n这些公司公司名字\n一不小心就有人用来发MEME了 https://t.co/Chum2islr9"
   },
   {
     "user": {
-      "screenName": "manateelazycat",
-      "name": "Andy Stewart",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
-      "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 18922,
-      "friendsCount": 99,
-      "location": "China"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj3g0PPaEAAx-ZO.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/manateelazycat/status/1890914843567206788",
-    "fullText": "《喜欢自娱自乐的我，找到了新的玩意 -- 懒猫微服》\n\n感谢ETY001大佬的使用反馈。 https://t.co/ErYhVp22bF"
-  },
-  {
-    "user": {
-      "screenName": "PBR",
-      "name": "PBR",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889566201652928512/mbJU94mV_normal.jpg",
-      "description": "The Toughest Sport on Dirt ➡️ Jacksonville 22-23 🐂",
-      "followersCount": 212840,
-      "friendsCount": 397,
-      "location": "Fort Worth, TX"
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25746293,
+      "friendsCount": 263,
+      "location": "U.S.A."
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/PBR/status/1890894671255417229",
-    "fullText": "Who will enter the 𝙒𝙄𝙉𝙉𝙀𝙍'𝙎 𝘾𝙄𝙍𝘾𝙇𝙀 in Indy? 🏁 Find out @LIVE and FREE right here on @X! 🤠🐂\n\n📅 Saturday, February 15th, 2025\n⏰ 7pm ET / 4pm PT\n📍 Gainbridge Fieldhouse https://t.co/7IVWD63aaF"
+    "tweetUrl": "https://x.com/FoxNews/status/1891297277139935318",
+    "fullText": "San Diego migrant shelter closes after no new arrivals since Trump took office; over 100 employees laid off https://t.co/pdzMlCR5ox"
   },
   {
     "user": {
-      "screenName": "BrochureP42192",
-      "name": "AIcoine88",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863935506322518016/6xIOcf5k_normal.jpg",
-      "description": "Aicoin全球Web3行情分析工具领跑者,币圈专业看盘下单工具下载 尽在客户端\n🔀点击前往官网地址： https://t.co/LplMmM3jC2\n强大的K线图表功能,编程的自定义指标工具，35+交易所行情数据，多种预警，社媒消息，巨鲸以及大单跟踪",
-      "followersCount": 1081,
-      "friendsCount": 7,
-      "location": "日本"
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634777,
+      "friendsCount": 93,
+      "location": "New York and the World"
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/BrochureP42192/status/1890860086425526677",
-    "fullText": "Aicoin全球Web3行情分析工具领跑者,币圈专业看盘下单工具下载 尽在客户端\n\n🔀点击前往官网地址： https://t.co/Mj6J1QJjP8\n\n强大的K线图表功能,编程的自定义指标工具，35+交易所行情数据，多种预警，社媒消息，巨鲸以及大单跟踪"
+    "tweetUrl": "https://x.com/business/status/1891297199071310235",
+    "fullText": "The US has offered Ukraine a one-sided deal to secure access to Ukraine’s rare-earth minerals after the war, but has not guaranteed that Ukraine would be permitted to participate in peace talks. https://t.co/vUwjQR0uYb"
   },
   {
     "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44485,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890834459047682210",
-    "fullText": "🎒🌟 Travel Is Easy Now!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44485,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890834458984722832",
-    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44487,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890834458603102637",
-    "fullText": "🎒 Organize, Pack, and Travel Better with This Bag!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44472,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833553556140277",
-    "fullText": "🌍 Travel Smarter, Travel Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44490,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833553497448933",
-    "fullText": "✈️ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS\n\"Spacious, lightweight, and perfect for traveling. Fits under my seat easily, and the colors are awesome! 🌍\""
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44486,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833552914473283",
-    "fullText": "Travel Smarter, Pack Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44466,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833552671137919",
-    "fullText": "🌟Simplify Your Travels: Pack Smarter with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44477,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833552515932528",
-    "fullText": "✨ Pack Efficiently and Travel Smarter!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44463,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833552490787266",
-    "fullText": "🎒 Smarter Packing, Easier Travel with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44490,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833085576655344",
-    "fullText": "🌟Simplify Your Travels: Pack Smarter with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44451,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833084783940005",
-    "fullText": "🎒 Smarter Packing, Easier Travel with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44469,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833084620386429",
-    "fullText": "✈️ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS\n\"Spacious, lightweight, and perfect for traveling. Fits under my seat easily, and the colors are awesome! 🌍\""
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44494,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833084481953881",
-    "fullText": "🌍 Travel Smarter, Travel Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44487,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833084309963158",
-    "fullText": "✨ Pack Efficiently and Travel Smarter!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44477,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833084205117790",
-    "fullText": "Travel Smarter, Pack Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj2Qo9CXsAAh0yY.jpg",
-      "https://pbs.twimg.com/media/Gj2Qo8_W8AEWW98.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890826457829568595",
-    "fullText": "马斯克的xAI计划筹集100亿美元，此轮融资可能使xAI估值达到750亿美元\n\n红杉资本、Andreessen Horowitz等现有投资者正在商讨参与此次融资。这轮融资的交易条款尚未最终确定\n\n上一轮融资，xAI估值约为510亿美元；去年12月，xAI完成C轮融资，筹集了60亿美元，英伟达和AMD两大芯片巨头也参与该笔融资 https://t.co/UlH5z8t6U5"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj2MnXZWUAAEyC4.jpg",
-      "https://pbs.twimg.com/media/Gj2MnXaXkAAjIeT.jpg",
-      "https://pbs.twimg.com/media/Gj2MnXaXMAAQImh.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890822032721367129",
-    "fullText": "【书和电影】\n\nHBO的经典与爆款之作《白莲花度假村》第三季马上来啦\n\n人模狗样的社会精英+挣扎算计的酒店服务人员+几段秘密关系+一座豪华酒店+一个神秘死亡事件\n\n前两季我看了，就很美式很娱乐，推荐！ https://t.co/cFq13AEc9n"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52484,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890810495772274766",
-    "fullText": "就我对此次慕尼黑会议的观察，欧洲诸国整体被川普政府一顿痛扁，痛斥和恐吓，从情绪上来看，已经有点憋不住了，要自强了\n但是，这些政治人物们，怎么去说服本国的国民，同心协力，勒紧裤腰带过苦日子，放弃简单的内斗和相互指责，真的去把产业政策制定好，执行好，才难"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52488,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890796799318974675",
-    "fullText": "【乌克兰🇺🇦拒绝了美国财长本森特带去的美国停火协调】\n\n根据多个消息源透露，乌克兰总统泽连斯基当日拒绝签署一项让美国获取该国稀土矿产的协议。本月早些时候，美国总统特朗普曾明确表示，他希望乌克兰用本国自然资源来回报美国提供的援助。\n\n《华盛顿邮报》记者罗金（Josh"
-  },
-  {
-    "user": {
-      "screenName": "middlefeng",
-      "name": "FENG DONG",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2169091824/Nuclear_normal.png",
-      "description": "Author of Nuo Model Viewer. Programming C++, Lua, DirectX, Windows, iOS, macOS, Metal. Linux kernel fan (once). Atheism leads to singularity and God save us.",
-      "followersCount": 6910,
-      "friendsCount": 727,
-      "location": "San Jose, CA"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/middlefeng/status/1890792309911945357",
-    "fullText": "斗米恩……"
-  },
-  {
-    "user": {
-      "screenName": "plusyip",
-      "name": "Plusye",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
-      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8016,
-      "friendsCount": 290,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/plusyip/status/1890779157837050295",
-    "fullText": "这两天和公司的年轻同事去找房子，他们在城中村看到电话就一个个打，我就跟着过去看 😂 他们不想要中介，想找房东直租，但是找到的都是中介。走了一圈发现宝安才是深圳年轻打工人的租房首选，连 1 号线的站内设计都非常适合快速坐地铁去南山上班。"
-  },
-  {
-    "user": {
-      "screenName": "xiongchun007",
-      "name": "Spring Xiong 熊春",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
-      "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4453,
-      "friendsCount": 1136,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj1gkD4agAAJfcS.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/xiongchun007/status/1890773605513826800",
-    "fullText": "最近没发 #DataCollie 的开发进度，是因为我正在对其做一次立项开工以来最大的一次软件基座重构和调整。包括了底层数据模型的重建、UI布局和交互的创新设计。目的只有一个：为能在未来更加高效方便和快速低成本的接入各种类型的数据库做准备。#buildinginpublic https://t.co/214uvcMZr2"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16284,
-      "friendsCount": 3024,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1890770612571808021",
-    "fullText": "今天一整天都没干什么事，躺在床上有点内疚，爬起来把swift课程又学了两章，明天要按时起床/吃饭/学习/工作/跑步。\n发现自己不自律就应该对自己更严一点，放任怠惰情绪就容易苦哈哈的坐在电脑前面一整天，效率极低，啥事没做成，啥进步没有的情况，与其这样不如光明正大的出门玩。"
-  },
-  {
-    "user": {
-      "screenName": "skywind3000",
-      "name": "LIN WEI",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
-      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19028,
-      "friendsCount": 257,
-      "location": "Guangdong"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj1dGtIbsAA1xAp.jpg",
-      "https://pbs.twimg.com/media/Gj1dGtRbMAAp_os.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/skywind3000/status/1890769796456685975",
-    "fullText": "最近看了些房车旅行视频，那些号称辞职在房车上生活了几年的博主，个个房车都收拾得整齐别致，一点杂物都没有，一个人住房车里还有心思包饺子煮火锅，天气冷了还要炖一壶姜茶，喝咖啡都要手工现磨。睡前还不忘打开加湿器，做个面膜什么的，车上的生活一个比一个过的精致，比普通人的楼房小区精致多了。 https://t.co/srZIdGD8hG"
-  },
-  {
-    "user": {
-      "screenName": "plusyip",
-      "name": "Plusye",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1718597108058722304/GvFIOU3p_normal.jpg",
-      "description": "程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：https://t.co/87W14YcWNd",
-      "followersCount": 8016,
-      "friendsCount": 290,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/plusyip/status/1890760697014857760",
-    "fullText": "我上高中的时候，我妈想让我考师范学校，然后去当老师，我没有听她的，选了计算机专业。现在我快 30 岁了，她让别人介绍给我的相亲对象基本都是老师......\n然后每次我都找借口推掉了。"
-  },
-  {
-    "user": {
-      "screenName": "ovst36099",
-      "name": "兔子",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
-      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1858,
-      "friendsCount": 197,
-      "location": "NewYork"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj1CLHUa4AA5jSs.jpg",
-      "https://pbs.twimg.com/media/Gj1CLHSawAAkC6h.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/ovst36099/status/1890740197555396697",
-    "fullText": "这玩意是我想象之外的火\n\n今晚去看，居然没位置了🥲；只能改到明天一早（还得是第二排🥲）\n\n加上 deepseek 、老马回归，春天要来了么？ https://t.co/VFVsy0aT7b"
-  },
-  {
-    "user": {
-      "screenName": "xiongchun007",
-      "name": "Spring Xiong 熊春",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850515744104263680/QdGAs4y6_normal.jpg",
-      "description": "Programmer, Creator of @Datacollie (Database Management & Data Analysis)  #Java #Web #App #Python #DataScience #OpenSource",
-      "followersCount": 4453,
-      "friendsCount": 1135,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/xiongchun007/status/1890736587064975439",
-    "fullText": "周末双休是牛马的基本人权。你看，今天休一天，明天还能自然醒。而且还写了好多自己想写的代码，心情也不错。所以，我建议：周末强制双休写入《劳动法》，违法者午门问斩。牛马的要求好低啊！"
-  },
-  {
-    "user": {
-      "screenName": "ovst36099",
-      "name": "兔子",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
-      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1858,
-      "friendsCount": 197,
-      "location": "NewYork"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/ovst36099/status/1890723113039523862",
-    "fullText": "经常有用户挂着 VPN 就访问不了兔子\n\n兔子用的香港阿里云，国内不挂 VPN 都可以正常\n\n这是什么原因(・◇・)?"
-  },
-  {
-    "user": {
-      "screenName": "skywind3000",
-      "name": "LIN WEI",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
-      "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
-      "followersCount": 19029,
-      "friendsCount": 257,
-      "location": "Guangdong"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj0s0boacAAy2BK.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/skywind3000/status/1890716704767934509",
-    "fullText": "从文明2 开始，每代除了加东西外，限制也越来越多，原来强的东西，诸如奇迹之类被不断削弱，再也打不出那种不论经济还是军事，对电脑碾压式的优势，画面越来越好看，但越大越憋屈。 https://t.co/5Qrxb9CgqP"
-  },
-  {
-    "user": {
-      "screenName": "ovst36099",
-      "name": "兔子",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
-      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1858,
-      "friendsCount": 197,
-      "location": "NewYork"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gj0AQ5PacAE-Q3Y.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/ovst36099/status/1890667992586866693",
-    "fullText": "周末的好太阳\n\n喜欢这样视野开阔的地方 https://t.co/z2yugVPHrU"
-  },
-  {
-    "user": {
-      "screenName": "ovst36099",
-      "name": "兔子",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
-      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1857,
-      "friendsCount": 197,
-      "location": "NewYork"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gjz84uoacAA5Cpi.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/ovst36099/status/1890664326001721596",
-    "fullText": "喜欢这样的用户😁 https://t.co/247aBhI6BK"
-  },
-  {
-    "user": {
-      "screenName": "cellinlab",
-      "name": "Cellinlab",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
-      "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7635,
-      "friendsCount": 3357,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjzsmHjacAIPutf.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/cellinlab/status/1890646091009290351",
-    "fullText": "如果你表达的是一件用户感兴趣的事，那么用户完全不介意你使用了哪种表达形式。 https://t.co/tnSaZrQyIe"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16271,
-      "friendsCount": 3025,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjzrxHwbAAA8AyB.jpg",
-      "https://pbs.twimg.com/media/GjzrxHvacAAd5gc.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1890645185261949315",
-    "fullText": "酸辣目鱼汤和兔肉草汤 https://t.co/j2MIn03lHR"
-  },
-  {
-    "user": {
-      "screenName": "yihui_indie",
-      "name": "熠辉 Indie",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
-      "description": "我的AI副业专栏(https://t.co/n3aQPcb9yX ) |   全职独立开发者 | NuxtBase作者 |  B站up主 | 分享创造 + 无限迭代ing",
-      "followersCount": 24967,
-      "friendsCount": 522,
-      "location": "Hong Kong"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/yihui_indie/status/1890636589690417609",
-    "fullText": "这几天关于公众号的热点讨论，其实我有点不太明白是怎么火起来的。因为在我的媒体信息源中，似乎只有潘乱的播客有发送关于公众号的讨论，😅难道潘乱的影响力怎么大吗？"
-  },
-  {
-    "user": {
-      "screenName": "SolaceBands",
-      "name": "SolaceBands",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1653820120458772483/n2lbYNo3_normal.jpg",
-      "description": "A new experience with your smart watch. https://t.co/1f5pLFrVPd",
-      "followersCount": 190,
-      "friendsCount": 1,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/SolaceBands/status/1890627099909587190",
-    "fullText": "Stop wearing rubber just because it came with your watch. Give yourself something that makes you love your apple watch again. Grab them while supplies last —&gt; https://t.co/t4RmQVSKrw"
-  },
-  {
-    "user": {
-      "screenName": "cellinlab",
-      "name": "Cellinlab",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
-      "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7635,
-      "friendsCount": 3357,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjzZLesacAE4ve3.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/cellinlab/status/1890624745185357850",
-    "fullText": "我想起了哥飞宣传语 @gefei55 做站养老，在国内的话，做公众号 养老 更本地化和适合小白 https://t.co/hlLHfD2iT6"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52482,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjzXEakbQAAfCxJ.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890622904313819403",
-    "fullText": "从历史上来看，一般1月份整体社融都会上涨；但2024年是一个例外；希望2025年接下来社融持续，只有大家愿意借钱，信贷处于扩张才会增进经济的增长，蛋糕才会越来越大 https://t.co/ZTa3AmSJgR"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52488,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890621772208435496",
-    "fullText": "【投资备忘录】【中国宏观：社融数据】\n1月社融数据出台，整体数据好转超预期\n\n1月末，本外币贷款余额264.6万亿元，同比增长7%。月末人民币贷款余额260.77万亿元，同比增长7.5%。"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52488,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjzRF0IacAALXcl.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890617537018081375",
-    "fullText": "$META 太牛逼了，连续20个交易日保持上涨 https://t.co/2GfxNSRlLX"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52487,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890612064906785171",
-    "fullText": "今天去AMC看了《封神2》，赫然发现今年华语电影在北美上映的还挺多的，《哪吒》，《唐探》，《射雕英雄传》，《蛟龙行动》......"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16267,
-      "friendsCount": 3023,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjzNIvGacAMp_0N.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1890611500437377170",
-    "fullText": "因为…所以…\nand\n虽然…但是… https://t.co/mfdCVsaCG0"
-  },
-  {
-    "user": {
-      "screenName": "manateelazycat",
-      "name": "Andy Stewart",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
-      "description": "Linux, Emacs开源社区从业二十余载\n懒猫微服CEO， 不端不装， 仗剑走天涯\n客官喜欢， 欢迎买我家的懒猫微服 https://t.co/KVqgWHE3yR\n京东旗舰店： https://t.co/6l2E0fkB8H",
-      "followersCount": 18923,
-      "friendsCount": 99,
-      "location": "China"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/manateelazycat/status/1890580252520493218",
-    "fullText": "技术创业者的六边形战士修炼技巧\n\n朋友都说我是六边形战士， 作为 Emacs 党， 虽然我也是 Org-Mode 的开发者之一， 但是我日常生活中最爱的还是懒猫清单。\n\n用懒猫清单而不是 Org-Mode 的主要原因是：\n1. 我觉得 GTD 的关键在于执行， 而不在于整理， Org-Mode 在整理任务这一块太高级了，"
-  },
-  {
-    "user": {
-      "screenName": "NH1uj76691",
-      "name": "Ncdvn4H1uj",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1855865115402539008/EgBusV4B_normal.jpg",
-      "description": "",
-      "followersCount": 2,
-      "friendsCount": 31,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjydYFLbkAA0m8z.png"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/NH1uj76691/status/1890558983225696280",
-    "fullText": "2025-02-15 《飘》 https://t.co/wPuKTwafus"
-  },
-  {
-    "user": {
-      "screenName": "SoFi",
-      "name": "SoFi",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1411014292791382016/LqQG6oZd_normal.jpg",
-      "description": "The finance company that's helping members get their money right. Bank, borrow, and invest — all in one app. NMLS #1121636 Questions: @SoFiSupport",
-      "followersCount": 155462,
-      "friendsCount": 1077,
-      "location": "San Francisco, CA"
+      "screenName": "michaelmalice",
+      "name": "Michael Malice",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1415820415314931715/_VVX4GI8_normal.jpg",
+      "description": "Author: Dear Reader, The New Right, The Anarchist Handbook & The White Pill \nHost: \"YOUR WELCOME\" \nSubject: Ego & Hubris by Harvey Pekar\nHe/Him ⚑",
+      "followersCount": 786120,
+      "friendsCount": 1064,
+      "location": "Austin"
     },
     "images": [],
     "videos": [
-      "https://video.twimg.com/ext_tw_video/1890535845851021312/pu/vid/avc1/720x1280/CTiDZRVLIkzakqNf.mp4?tag=12"
+      "https://video.twimg.com/tweet_video/Gj88ZMaXIAA3z-u.mp4"
     ],
-    "tweetUrl": "https://x.com/SoFi/status/1890536166912389212",
-    "fullText": "NBA champion and six-time All-Star @jaytatum0 never let doubt get in the way of his ambitions—and neither should you. At SoFi, our goal is to help members overcome financial doubts on their journey to financial freedom. \n\nIf nothing stood in your way, what ambition would you https://t.co/5GJEhfurBR"
+    "tweetUrl": "https://x.com/michaelmalice/status/1891296783285760487",
+    "fullText": "Just won an argument about octopuses with @octowarren https://t.co/BIk3MDrdVv"
   },
   {
     "user": {
-      "screenName": "klarly_com",
-      "name": "Klarly.com",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1854990872716181504/4PtRPqu2_normal.jpg",
-      "description": "Klarly: Free, On-Page Insights for Quick, Actionable Analysis",
-      "followersCount": 20,
-      "friendsCount": 5,
-      "location": ""
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道，欢迎关注吴说APP与播客：https://t.co/rVoqryXVjk\n联系我们 Telegram: colinwu1989",
+      "followersCount": 141440,
+      "friendsCount": 40,
+      "location": "HongKong"
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/klarly_com/status/1890486445082820836",
-    "fullText": "Frustrated with waiting for Facebook Ads Manager to load?\n\nMeet Klarly – the Chrome Extension that lets you check your Facebook Ads instantly, right from your website.\n\nNo sign-up. No credit card. Just faster insights.\nTry it now! #FacebookAds #MarketingTools"
+    "tweetUrl": "https://x.com/wublockchain12/status/1891296770220818734",
+    "fullText": "吴说获悉，据美联社，阿根廷律师于周日在刑事法庭对总统 Milei 提起欺诈指控，指控其在社交媒体上推广 LIBRA 代币。原告认为该事件构成了加密领域的“rug pull”操作，并指出 Milei 的行动在此过程中起到了至关重要的作用。律师 Jonatan Baldiviezo 与 Marcos Zelaya、工程师 María Eva Koutsovitis"
   },
   {
     "user": {
-      "screenName": "dotey",
-      "name": "宝玉",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
-      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105766,
-      "friendsCount": 1280,
-      "location": "Chicago, IL"
+      "screenName": "muyang909",
+      "name": "沐陽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1568138265315753986/Py_HYAa0_normal.jpg",
+      "description": "恕不閒聊     沐陽—新聞看點 \n爆料郵箱：xwkd2017@gmail.com \n乾淨世界頻道：https://t.co/Up6FZsPYQf… \n油管：https://t.co/aOUMdjuUhP…",
+      "followersCount": 23133,
+      "friendsCount": 132,
+      "location": "US"
     },
     "images": [
-      "https://pbs.twimg.com/media/GjxWyUoWQAAcvIn.jpg"
+      "https://pbs.twimg.com/media/Gj88MLCXkAAIA4l.jpg"
     ],
-    "videos": [],
-    "tweetUrl": "https://x.com/dotey/status/1890481596588798144",
-    "fullText": "50万开放授权的SVG图标\nsvgrepo com https://t.co/Hgt87SWNPW"
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891296548362862592/vid/avc1/720x1280/lWh_9ViXPPtm2fKe.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/muyang909/status/1891296633117089938",
+    "fullText": "2月15日，江西上饒。退伍老兵張天鑑稱，他當年參與了核試驗，冒著風險衝進核爆區記錄數據。為中國核子事業獻出了青春。然而如今體弱多病他因沒有送禮送錢，所以至今都沒被評殘，拿不到撫卹金。 https://t.co/4BsdjaTFU6"
   },
   {
     "user": {
-      "screenName": "dotey",
-      "name": "宝玉",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
-      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-      "followersCount": 105766,
-      "friendsCount": 1280,
-      "location": "Chicago, IL"
+      "screenName": "NTDNews",
+      "name": "NTD News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838285672383213568/nXIXaBrd_normal.jpg",
+      "description": "Your independent voice in TV news—bringing back reliable, honest news reporting.",
+      "followersCount": 86018,
+      "friendsCount": 82,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NTDNews/status/1891296508999311688",
+    "fullText": "Prosecutors are set to present evidence that a Colorado dentist charged with killing his wife also tried to get a fellow inmate to kill a detective investigating him. https://t.co/6WyZ0yYJJD"
+  },
+  {
+    "user": {
+      "screenName": "ronin19217435",
+      "name": "nikola 3",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1746965196621414401/aI7GKs4n_normal.jpg",
+      "description": "A researcher of deep secrets and hidden knowledge!",
+      "followersCount": 495068,
+      "friendsCount": 514,
+      "location": "Srbija"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj87u09WEAA5gfs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ronin19217435/status/1891296046166262250",
+    "fullText": "Can someone explain👇🏻\nsource:\n@pamlocke\nhttps://t.co/b4oAqEqQC6 https://t.co/lDivFTIHCF"
+  },
+  {
+    "user": {
+      "screenName": "mmpadellan",
+      "name": "BrooklynDad_Defiant!☮️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1286711762725871617/gA2IaqbR_normal.jpg",
+      "description": "Proud papa. Perpetually pissed.\n#BlueWave2026, #Feminist.\n\nAuthor of The Bigliest Loser\nON SALE NOW: https://t.co/dWPF5Dafsl\n\n👉Sr. Advisor, @ReallyAmerican1👈",
+      "followersCount": 1294947,
+      "friendsCount": 35919,
+      "location": "Brooklyn, NY"
     },
     "images": [],
     "videos": [
-      "https://video.twimg.com/ext_tw_video/1890463524817719297/pu/vid/avc1/1280x720/ecu6iDwp0WMDzg0p.mp4?tag=12"
+      "https://video.twimg.com/ext_tw_video/1891295897675292672/pu/vid/avc1/1280x720/sTpvzM38-wSe5vaN.mp4?tag=12"
     ],
-    "tweetUrl": "https://x.com/dotey/status/1890463646855168242",
-    "fullText": "Booster Robotics 的 Booster T1 表演胸口碎大石等传统功夫项目 https://t.co/QyPDJ9K8gU"
+    "tweetUrl": "https://x.com/mmpadellan/status/1891295925496099315",
+    "fullText": "Holy shit, Steve Martin just called ICE on Martin Short 😂 #SNL50 https://t.co/2y1bBQVImL"
   },
   {
     "user": {
-      "screenName": "CaravaggioJewel",
-      "name": "Caravaggio™ Jewelry",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1760012576971468800/6VImXgxJ_normal.jpg",
-      "description": "State of the Art Engagement Rings, Wedding Rings, Wedding Bands, Mens Rings, Bridal Sets, Earrings, Bracelets, Crafted to Celebrate You and Your Special Moments",
-      "followersCount": 9109,
-      "friendsCount": 294,
-      "location": "🇮🇹🇫🇷🇬🇧🇩🇪🇺🇸🇨🇦🇦🇪"
+      "screenName": "FT__Trading",
+      "name": "Jordan F",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1627665174877425668/uHi1Uqpw_normal.jpg",
+      "description": "Trading for 7 Years | Turned 1,000+ Students Profitable in 8 Weeks Using My “3 Phase System” | Posts are not investment advice",
+      "followersCount": 139188,
+      "friendsCount": 304,
+      "location": "Free Training 👉🏻"
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/CaravaggioJewel/status/1890456722839572557",
-    "fullText": "Bold and Chic 💍 Mens Modern 14K White Gold Baguette Emerald Cluster Tank Ring R395-14KWGEM by Art Masters Jewelry at https://t.co/Ejy4y4aEKF"
+    "tweetUrl": "https://x.com/FT__Trading/status/1891295866989826074",
+    "fullText": "It’s crazy how much people will risk on luck, but won’t bet on their own growth.\n\nTrade smarter.\n\nInvest in the skills that will make you successful long-term."
   },
   {
     "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52482,
-      "friendsCount": 333,
-      "location": ""
+      "screenName": "ronin19217435",
+      "name": "nikola 3",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1746965196621414401/aI7GKs4n_normal.jpg",
+      "description": "A researcher of deep secrets and hidden knowledge!",
+      "followersCount": 495068,
+      "friendsCount": 514,
+      "location": "Srbija"
     },
     "images": [],
     "videos": [
-      "https://video.twimg.com/ext_tw_video/1890437353308631049/pu/vid/avc1/1280x718/vrYPtxbUAMnQfT4t.mp4?tag=12"
+      "https://video.twimg.com/ext_tw_video/1891295645710897153/pu/vid/avc1/480x480/-RDxCA6vCIzbtVso.mp4?tag=12"
     ],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890438511150444604",
-    "fullText": "中国外交部长王毅：\n\n“中国始终视欧洲为多极世界的重要一极，双方是伙伴，不是对手。中方愿同欧方一道，深化战略沟通和互利合作，引领世界走向和平、安全、繁荣、进步的美好未来。”\n\n https://t.co/JB0i1PV9xc"
+    "tweetUrl": "https://x.com/ronin19217435/status/1891295794617049394",
+    "fullText": "🇺🇸👽 Greada Treaty of 1954\nThe year the US\nmade a pact with aliens!\n\n📄 The Greada Treaty, also known as the Eisenhower Alien Treaty, is one of the most controversial and enigmatic diplomatic events in the history of interstellar relations.\n\nIn the Greada Treaty of 1954, the https://t.co/UST2b3KX2E"
   },
   {
     "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52478,
-      "friendsCount": 333,
+      "screenName": "EpochTimes",
+      "name": "The Epoch Times",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800634269942857729/YwhL97AV_normal.jpg",
+      "description": "Independent, award-winning reporting. Read on App: https://t.co/YmpowM2rWt | Watch: https://t.co/M1G2gEWhbY | Play: https://t.co/pDrVrN5o26 | Shop: https://t.co/k9I9kdhS3d",
+      "followersCount": 819505,
+      "friendsCount": 155,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj87IQCbUAAfUsN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EpochTimes/status/1891295523350458438",
+    "fullText": "A former Disneyland employee was sentenced Thursday to three years in federal prison for possession of child pornography. https://t.co/m2heez2Nwl"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092525,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891295294416974280",
+    "fullText": "Heavy rainfall, flash flooding hits Eastern US states: See photos https://t.co/AHIhKXz3cq"
+  },
+  {
+    "user": {
+      "screenName": "XiaoMing_SG",
+      "name": "蕭茗",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1130910755564457984/rXn0qvJf_normal.jpg",
+      "description": "油管【蕭茗】頻道，https://t.co/FPj7Ju6MNI\n中文會員網站：https://t.co/aKx3fp4UXp \n英文會員網站：https://t.co/Hla2saBtIT\n蕭茗非營利組織: https://t.co/mDETv2dFk9",
+      "followersCount": 89851,
+      "friendsCount": 239,
       "location": ""
     },
     "images": [
-      "https://pbs.twimg.com/media/GjwqCulacAEmPzb.jpg"
+      "https://pbs.twimg.com/media/Gj864bOXEAAzMQJ.png"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890432174182256771",
-    "fullText": "【慕尼黑会议2025】\n泽连斯基称只会按照他的条件与普京会面\n\n领导人在慕尼黑安全会议上发表讲话，重点关注俄罗斯在乌克兰的战争。这些讲话凸显了美国和欧洲在结束冲突的道路上日益扩大的分歧\n\n泽连斯基表示，他已准备好参与美国主导的和平倡议，并表示愿意与俄罗斯进行谈判以结束战争 https://t.co/MJWMlMocUL"
+    "tweetUrl": "https://x.com/XiaoMing_SG/status/1891295261885968478",
+    "fullText": "我的新節目\n影響美國AI未來的一場私人恩怨：馬斯克和奧爾特曼如何從朋友變成死敵： 🔴https://t.co/WJ3M5oWRN8 https://t.co/3jYBZtT2V1"
   },
   {
     "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44469,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890431054453817359",
-    "fullText": "🌟Simplify Your Travels: Pack Smarter with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44472,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890430815332626927",
-    "fullText": "🌍 Travel Smarter, Travel Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44456,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890430813948477797",
-    "fullText": "Travel Smarter, Pack Easier with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44471,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890430813621387736",
-    "fullText": "✈️ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS\n\"Spacious, lightweight, and perfect for traveling. Fits under my seat easily, and the colors are awesome! 🌍\""
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52478,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gjwn4RvW4AEOQYg.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890429795344724300",
-    "fullText": "印度总理莫迪抵达美国，与特朗普总统举行会谈。会谈结果近乎轰动：\n莫迪和特朗普在联合声明中表示，到2030年，美印计划将双边贸易总额增加一倍以上，达到 5000 亿美元。\n\n▪️两国领导人同意共同合作在印度建造美国核​​反应堆。\n\n▪️合作将涉及人工智能和半导体领域，以及建立强大的战略矿产供应链。 https://t.co/YiXRwWGJ9A"
-  },
-  {
-    "user": {
-      "screenName": "RobinhoodApp",
-      "name": "Robinhood",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
-      "description": "Trade. Invest. Earn.",
-      "followersCount": 1158938,
-      "friendsCount": 21,
-      "location": "Menlo Park, CA"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/RobinhoodApp/status/1890426273748402439",
-    "fullText": "Unlock your money’s potential with Robinhood Gold. $5/month subscription. Terms apply."
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52478,
-      "friendsCount": 333,
-      "location": ""
+      "screenName": "TaraBull808",
+      "name": "TaraBull",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1575977223797952512/lDUcgkJy_normal.jpg",
+      "description": "#SpacesHost | Truth Slayer | ↗️ I follow all Subscribers • Let's end the establishment media • ʟɪꜱᴛᴇɴ ᴡɪᴛʜ ᴄᴜʀɪᴏꜱɪᴛʏ. ꜱᴘᴇᴀᴋ ᴡɪᴛʜ ʜᴏɴᴇꜱᴛʏ. ᴀᴄᴛ ᴡɪᴛʜ ɪɴᴛᴇɢʀɪᴛʏ.",
+      "followersCount": 1154761,
+      "friendsCount": 22973,
+      "location": "United States"
     },
     "images": [],
     "videos": [
-      "https://video.twimg.com/ext_tw_video/1890401909707620352/pu/vid/avc1/1280x720/hV06fyOfmW_tQ6Tq.mp4?tag=12"
+      "https://video.twimg.com/ext_tw_video/1891295192860565505/pu/vid/avc1/640x360/bNReaZLefwI9B9LP.mp4?tag=12"
     ],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890423862652780573",
-    "fullText": "“我最担心的欧洲威胁不是俄罗斯，不是中国，也不是任何其他外部力量。\n\n我担心的是来自内部的威胁——欧洲正在放弃一些最基本的价值观，这些价值观是与美国共享的”——JD Vance\n https://t.co/zP7YCiEB04"
+    "tweetUrl": "https://x.com/TaraBull808/status/1891295214876119336",
+    "fullText": "11 year old breaks the Rubiks Cube World Record at 3.08 seconds https://t.co/gW45iB9ZTO"
   },
   {
     "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52478,
-      "friendsCount": 333,
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道，欢迎关注吴说APP与播客：https://t.co/rVoqryXVjk\n联系我们 Telegram: colinwu1989",
+      "followersCount": 141440,
+      "friendsCount": 40,
+      "location": "HongKong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj8599bboAAP_T9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1891295088602390573",
+    "fullText": "《吴说对话微策略创始人 Michael Saylor》在这次采访中，吴说 Colin 与 MicroStrategy 的创始人 Michael Saylor 探讨了以下问题：MicroStrategy 会一直收购比特币吗；MicroStrategy 是否存在被清算的风险；如何看待加密货币的周期性与可能到来的熊市等。 https://t.co/rzGRw8Q1Nc"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25746293,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891295059598844329",
+    "fullText": "World's first openly gay imam shot dead in South Africa: authorities https://t.co/jsosop71Fx"
+  },
+  {
+    "user": {
+      "screenName": "y0usali",
+      "name": "yousa",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1648297284306890752/6EGTUK4B_normal.jpg",
+      "description": "读书，赚钱，赚钱只是因为运气好",
+      "followersCount": 1217,
+      "friendsCount": 922,
       "location": ""
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890422793419858267",
-    "fullText": "If you must choose a public company, who is a player in physical AI, to invest. Who is your choice? Why?\n如果必须选择一家物理人工智能的公众公司去投，你会选哪家？为什么？"
+    "tweetUrl": "https://x.com/y0usali/status/1891294860658831621",
+    "fullText": "美国和俄罗斯即将在沙特的会议，没有乌克兰参加。\n\n这让我想到了二战前夕，英法与德国的会谈，捷克斯洛伐克并未参与会谈，英法出卖了捷克斯洛伐克，承认了苏台德归属德国。\n\n感觉潘多拉魔盒正在被打开…"
   },
   {
     "user": {
-      "screenName": "nextify2024",
-      "name": "Nextify",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
-      "description": "别用 Vercel 了，试试 https://t.co/XBKDw9XNKn",
-      "followersCount": 22924,
-      "friendsCount": 342,
-      "location": "HK"
+      "screenName": "muyang909",
+      "name": "沐陽",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1568138265315753986/Py_HYAa0_normal.jpg",
+      "description": "恕不閒聊     沐陽—新聞看點 \n爆料郵箱：xwkd2017@gmail.com \n乾淨世界頻道：https://t.co/Up6FZsPYQf… \n油管：https://t.co/aOUMdjuUhP…",
+      "followersCount": 23133,
+      "friendsCount": 132,
+      "location": "US"
     },
     "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/nextify2024/status/1890420048373678094",
-    "fullText": "我们向新程序员灌输这样的软件理念：“不要重造轮子！”但事实上，重造轮子是学习事物工作原理的第一步，也是创造新轮子的第一步。\n\nhttps://t.co/uLw4aOcMP4"
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891294591090884608/vid/avc1/720x1280/vKBMiV-B5Ao_PCxo.mp4?tag=16",
+      "https://video.twimg.com/amplify_video/1891294591090933761/vid/avc1/544x960/NHKNWHawN55ADFga.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/muyang909/status/1891294672934330849",
+    "fullText": "2月15日，甘肅。一名女子稱，父母雙亡，白手起家創辦4家企業繳稅過億，帶動當地村民致富，還踴躍向社會捐款，結果卻遭到當地官員的迫害蒙冤入獄，企業資產也被政府低價出售，導致企業倒閉。女子表示：難道民進不配活著嗎？ https://t.co/yGYisa7U2h"
   },
   {
     "user": {
-      "screenName": "waylybaye",
-      "name": "Baye",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807439424009175040/F2mBMzcN_normal.jpg",
-      "description": "一个自由的程序员，以卖 App 为生。做了熊猫吃短信、ServerCat、后续、DAMA、OpenCat。记录生活和开发日常。私信不用，有事请点 App 内的「联系我们」发邮件。",
-      "followersCount": 148863,
-      "friendsCount": 455,
-      "location": "中华人民共和国"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/waylybaye/status/1890412419450630329",
-    "fullText": "我现在的能量来源绝大部分来自于我女朋友，支持我做各种产品尝试，支持我一直想做独立游戏的梦想，还能接纳我孤僻的性格。能遇到 soul mate 真是三生有幸啊。"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16268,
-      "friendsCount": 3023,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
+      "screenName": "wangwatchworld",
+      "name": "王海滨的财经闲谈",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1887190420452769792/wLInj9Ms_normal.jpg",
+      "description": "废话多于财经\nhttps://t.co/20gEmbFstl",
+      "followersCount": 207929,
+      "friendsCount": 980,
+      "location": "泰国"
     },
     "images": [
-      "https://pbs.twimg.com/media/GjwMheIaoAA3nXh.jpg",
-      "https://pbs.twimg.com/media/GjwMheJacAE3Hdk.jpg",
-      "https://pbs.twimg.com/media/GjwMheMaQAAYMTQ.jpg",
-      "https://pbs.twimg.com/media/GjwMheHasAAtGYy.jpg"
+      "https://pbs.twimg.com/media/Gj86A-OaIAAcHli.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1890399725192409133",
-    "fullText": "这个产品又把我看高潮了…\n\n但我很有素质，我只看 https://t.co/gAiyNOpmMf"
+    "tweetUrl": "https://x.com/wangwatchworld/status/1891294334550475259",
+    "fullText": "天，川粉？马粉？ https://t.co/ahKLt1oc6D"
   },
   {
     "user": {
-      "screenName": "yihong0618",
-      "name": "yihong0618",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
-      "description": "喜欢王小波，大概我们能成为朋友。 我的 2024 https://t.co/HfDF6oduB7 我的 2023 https://t.co/QyV8PiZmOY 我的2022 https://t.co/NLYTn7xtta 我的 2021 我的 2020",
-      "followersCount": 71829,
-      "friendsCount": 3329,
-      "location": ""
+      "screenName": "VOAChinese",
+      "name": "美国之音中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+      "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/cW5eaWpefk",
+      "followersCount": 2593088,
+      "friendsCount": 168,
+      "location": "Washington, DC"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gjv1n1ga0AA-aRN.jpg"
+      "https://pbs.twimg.com/media/Gj858wMWIAAroDG.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/yihong0618/status/1890374550535159843",
-    "fullText": "#今天的跑步电台。 https://t.co/y9CjwKLDFH"
+    "tweetUrl": "https://x.com/VOAChinese/status/1891294138663895123",
+    "fullText": "库克群岛总理访华为什么引发多方不安？报道：https://t.co/YykbvGFuT4 https://t.co/kamg9cu35M"
   },
   {
     "user": {
-      "screenName": "turingou",
-      "name": "郭宇 guoyu.eth",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
-      "description": "Retired. ex ByteDancer #473. Onsen mania, live in Tokyo/Azumino/Miyakojima.",
-      "followersCount": 138574,
-      "friendsCount": 1430,
-      "location": "東京 港区"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjvucGHacAEz5tG.jpg",
-      "https://pbs.twimg.com/media/GjvucGTaIAAKMYC.jpg",
-      "https://pbs.twimg.com/media/GjvucF8bEAAUtwv.jpg",
-      "https://pbs.twimg.com/media/GjvucGdacAAO5JV.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/turingou/status/1890366863890084169",
-    "fullText": "情人节快乐！\n新的一年多谈恋爱！ https://t.co/ELDGTwDxl8"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16262,
-      "friendsCount": 3020,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjvYu8tawAAc4r1.jpg",
-      "https://pbs.twimg.com/media/GjvYu8rbMAAIukh.jpg",
-      "https://pbs.twimg.com/media/GjvYu7ua0AALvpK.jpg",
-      "https://pbs.twimg.com/media/GjvYu7vaAAAob3U.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1890342777730507251",
-    "fullText": "记录帖\n\n2024年12月12日，用时两个月零12天，达成“500premium用户关注”的条件并开通了“创作者收入分成”功能，同时我也可以申请“订阅服务”。 https://t.co/nKAxsu8dbw"
-  },
-  {
-    "user": {
-      "screenName": "nextify2024",
-      "name": "Nextify",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1766283284370305025/QKXW5W3M_normal.jpg",
-      "description": "别用 Vercel 了，试试 https://t.co/XBKDw9XNKn",
-      "followersCount": 22925,
-      "friendsCount": 342,
-      "location": "HK"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjvGh5xbEAAfFGf.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/nextify2024/status/1890323227500536126",
-    "fullText": "On the way back😆 https://t.co/Cri0q0RkGI"
-  },
-  {
-    "user": {
-      "screenName": "nateleex",
-      "name": "李自然 Nate Lee",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880991610814742529/VDskkvsv_normal.jpg",
-      "description": "几个小公司的CEO | 幽僻处可有人行？点苍苔白露泠泠",
-      "followersCount": 7141,
-      "friendsCount": 179,
-      "location": "Shanghai"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjvGcQ7bcAAeCmh.jpg",
-      "https://pbs.twimg.com/media/GjvGcQ9acAM2xPg.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/nateleex/status/1890322667514769866",
-    "fullText": "图1是李彦宏之前的演讲，有些图确实不适合放在一起看 https://t.co/GEqmCwUkwz"
-  },
-  {
-    "user": {
-      "screenName": "LeeMmai",
-      "name": "李麦麦",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
-      "description": "用X写日常｜Python造垃圾｜ Swift学习中 ｜ INTJ ｜感谢follow ｜ 电报 https://t.co/qYINMLPJ5V ｜ 自留地 https://t.co/WQYgnkGBOY",
-      "followersCount": 16262,
-      "friendsCount": 3020,
-      "location": "IP属地:由于相关法律法规及政策,该地址不予显示"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjvFQ79acAI5y9P.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/LeeMmai/status/1890321372137857043",
-    "fullText": "人在迷茫时该干什么 https://t.co/mkmGYRSADq"
-  },
-  {
-    "user": {
-      "screenName": "CaravaggioJewel",
-      "name": "Caravaggio™ Jewelry",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1760012576971468800/6VImXgxJ_normal.jpg",
-      "description": "State of the Art Engagement Rings, Wedding Rings, Wedding Bands, Mens Rings, Bridal Sets, Earrings, Bracelets, Crafted to Celebrate You and Your Special Moments",
-      "followersCount": 9109,
-      "friendsCount": 294,
-      "location": "🇮🇹🇫🇷🇬🇧🇩🇪🇺🇸🇨🇦🇦🇪"
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/CaravaggioJewel/status/1890321330869780613",
-    "fullText": "Gorgeous 💍 https://t.co/kWxNdMQYeI Art Masters Caravaggio 14K Lilac Gold 1.25 Ct Princess Blue and White Diamond Engagement Ring Wedding Band Set R673PS-14KLGDBLD at Caravaggio Jewelry"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52457,
-      "friendsCount": 332,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjvC86yawAA33Zk.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890318824676655348",
-    "fullText": "华尔街日报的报道\n\n所以，慕尼黑会议基调还会变？\n\n大家，还是要对美国有信心？ https://t.co/fIL1cxy7Hu"
-  },
-  {
-    "user": {
-      "screenName": "ovst36099",
-      "name": "兔子",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811330028954923008/EcwM3vmh_normal.jpg",
-      "description": "被知产耽误的新手程\n\n我的服务：\n1. ChatGPT直连站（免费长期试用）：https://t.co/jCiDSGbaon\n2. API转发站（送 0.4 美金）：https://t.co/drXlNAoFMJ\n3. mj绘画站（送 5 积分）：https://t.co/H6rHEiFR5X",
-      "followersCount": 1857,
-      "friendsCount": 197,
-      "location": "NewYork"
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjvBo9CacAAZ5I5.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/ovst36099/status/1890317385506148403",
-    "fullText": "老马你可还好 https://t.co/y1geBlBSPL"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52456,
-      "friendsCount": 332,
+      "screenName": "y0usali",
+      "name": "yousa",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1648297284306890752/6EGTUK4B_normal.jpg",
+      "description": "读书，赚钱，赚钱只是因为运气好",
+      "followersCount": 1217,
+      "friendsCount": 922,
       "location": ""
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890316906218881363",
-    "fullText": "请教一下国内的诸位朋友，有人买过理想的车吗？有没有用它的智驾系统开过车，体验如何？"
+    "tweetUrl": "https://x.com/y0usali/status/1891293675231064441",
+    "fullText": "说实话，万斯的演讲确实是揭下了欧洲的遮羞布，怎么反应这么大…正常人用脑子想一想就是这样啊…"
   },
   {
     "user": {
-      "screenName": "cellinlab",
-      "name": "Cellinlab",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1634900405724545031/gQgQEpaj_normal.jpg",
-      "description": "🎯  AI & Crypto | 💻 独立开发者 | 🤖 AGI 降临派 ｜🚀 https://t.co/Jf3ZgaF6No 创始人｜🤝 巢级个体社区 发起人｜🌐  @LiQiangEN | 🚧 正在构建 https://t.co/2Qdnz1bbPM – 助力播客传播与变现",
-      "followersCount": 7638,
-      "friendsCount": 3357,
-      "location": ""
+      "screenName": "AMAZlNGNATURE",
+      "name": "Nature is Amazing ☘️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+      "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
+      "followersCount": 4917341,
+      "friendsCount": 46,
+      "location": "🌍"
     },
     "images": [
-      "https://pbs.twimg.com/media/Gju-4oyacAAIFpm.jpg"
+      "https://pbs.twimg.com/media/Gj85M4YWkAALEjL.jpg"
     ],
     "videos": [],
-    "tweetUrl": "https://x.com/cellinlab/status/1890316153790005298",
-    "fullText": "《腾讯曾经没有梦想，百度现在只有茧房》\nhttps://t.co/gEcb8cgZjf https://t.co/AesXkJ9Vi6"
+    "tweetUrl": "https://x.com/AMAZlNGNATURE/status/1891293264348655780",
+    "fullText": "Petrified wood containing turquoise opal found in Queensland, Australia. https://t.co/PkqXmO12ds"
   },
   {
     "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52456,
-      "friendsCount": 332,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/GjvARZFacAITDuE.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890315886059458759",
-    "fullText": "TikTok在美国应用程序分发商平台又上架了哈\n\n前两周，去拜访友人，他们家的小姑娘还因为TikTok被下架狂哭过一阵呢。这下可以笑笑了 https://t.co/l665YM2x3f"
-  },
-  {
-    "user": {
-      "screenName": "yuyy614893671",
-      "name": "金融汪",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832901799470411776/mpHf_iT0_normal.jpg",
-      "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
-      "followersCount": 52474,
-      "friendsCount": 333,
-      "location": ""
-    },
-    "images": [
-      "https://pbs.twimg.com/media/Gju974hXoAA08Ur.jpg",
-      "https://pbs.twimg.com/media/Gju974TXkAAMgTs.jpg",
-      "https://pbs.twimg.com/media/Gju974NXYAEZmmk.jpg"
-    ],
-    "videos": [],
-    "tweetUrl": "https://x.com/yuyy614893671/status/1890313314250506500",
-    "fullText": "【在情人这个赛道，还有哥们超过他吗？】\n高桥康史精心策划了一条横跨日本的路线，拼出了“嫁给我”的字样。\n\n辞职后，他从北海道出发，历时六个月，前往鹿儿岛，行程 7,163 公里（4,450 英里），实现了他的求婚大计。 https://t.co/LpRv8hD1a7"
-  },
-  {
-    "user": {
-      "screenName": "kumoko_laby_en",
-      "name": "So I'm a Spider, So What? Ruler of the Labyrinth",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1805421500641820672/ZUBAgnhP_normal.jpg",
-      "description": "Kumoko's coming back. 🕷🕸️\nA dungeon RPG based on the anime \"So I'm a Spider, So What?\"!\nDiscord：https://t.co/xjaSarTarG\n#SpiderRotL #SoImASpider",
-      "followersCount": 6428,
-      "friendsCount": 5,
-      "location": ""
+      "screenName": "unhealthytruth",
+      "name": "Erin Elizabeth Health Nut News🥜",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1827195493614514177/gV2jjdGW_normal.jpg",
+      "description": "RFK & I have a lawsuit together in DC after Biden pressured social platforms to ban us both same day.  Daily health tips and breaking news. CEO @erinhnn",
+      "followersCount": 214167,
+      "friendsCount": 3135,
+      "location": "Let’s keep a lifeline! 114k!👉"
     },
     "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1855453414274322432/vid/avc1/1280x720/HQUDTYANnVbaCQ8Y.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/unhealthytruth/status/1891293174041112925",
+    "fullText": "😱😱😱Hot damn! \n\nRFK exposes Fauci and why he belongs in prison! \n\nIt’s time to lock him up now. He was pardoned because of his felonies, but we can go back to the dates before the pardon,  and put him away!! https://t.co/IzyEdWRRbH"
+  },
+  {
+    "user": {
+      "screenName": "whyyoutouzhele",
+      "name": "李老师不是你老师",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+      "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+      "followersCount": 1932943,
+      "friendsCount": 936,
+      "location": "偷乐星球"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj8phAlWsAAOxms.jpg",
+      "https://pbs.twimg.com/media/Gj8pi1kXIAA63MP.jpg",
+      "https://pbs.twimg.com/media/Gj8r04lXwAA2KD7.jpg",
+      "https://pbs.twimg.com/media/Gj8r4lvWMAEhAf4.jpg"
+    ],
     "videos": [],
-    "tweetUrl": "https://x.com/kumoko_laby_en/status/1890300427511771477",
-    "fullText": "The new RPG game\n\nOnly available now, you can get items worth 125$"
+    "tweetUrl": "https://x.com/whyyoutouzhele/status/1891279242362535971",
+    "fullText": "近日，网传温州百里路小学的一名老师于开学第一天在教室内上吊自杀，引发网民悼念。\n据称，该老师是一位即将退休的语文老师，因本学期校长实行末位淘汰，成绩最差的班级教师将被取消年终评优资格和扣工资，导致不堪重负在一楼美术教师自杀。 https://t.co/z5OqAaFhIe"
+  },
+  {
+    "user": {
+      "screenName": "__Inty__",
+      "name": "头条热点",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+      "description": "用中文为你分享世界热点新闻 电报主页 https://t.co/evscxyg2xG YouTube主页 https://t.co/QWKpvf4NCB 电报聊天群 https://t.co/mfY4RFysrB",
+      "followersCount": 666840,
+      "friendsCount": 0,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891246521422577664/vid/avc1/1280x720/AN67ALsGl7cLphZn.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/__Inty__/status/1891268845039489099",
+    "fullText": "最新消息： 🇺🇸川普将创纪录的鸡蛋价格和通货膨胀归咎于乔·拜登。\n\n https://t.co/jFERFP310B"
   },
   {
     "user": {
@@ -2205,14 +790,14 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44457,
+      "followersCount": 44503,
       "friendsCount": 0,
       "location": ""
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890276556196704763",
-    "fullText": "✈️ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS\n\"Spacious, lightweight, and perfect for traveling. Fits under my seat easily, and the colors are awesome! 🌍\""
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1891085485143195830",
+    "fullText": "🚨Travel Effortlessly with This Must-Have Tote!\nhttps://t.co/RrDfNaQJaS"
   },
   {
     "user": {
@@ -2220,43 +805,13 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44451,
+      "followersCount": 44503,
       "friendsCount": 0,
       "location": ""
     },
     "images": [],
     "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890276555546587271",
-    "fullText": "🌟Simplify Your Travels: Pack Smarter with This Tote!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44457,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890276555156516967",
-    "fullText": "✨ Pack Efficiently and Travel Smarter!\nhttps://t.co/JLnEOUPAg4"
-  },
-  {
-    "user": {
-      "screenName": "NordaceOfficial",
-      "name": "Nordace",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
-      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44445,
-      "friendsCount": 0,
-      "location": ""
-    },
-    "images": [],
-    "videos": [],
-    "tweetUrl": "https://x.com/NordaceOfficial/status/1890242651838128461",
-    "fullText": "🎒🌟 Travel Is Easy Now!\nhttps://t.co/JLnEOUPAg4"
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1890833085526339959",
+    "fullText": "🧳 Your Travel Companion Awaits – Get This Bag!\nhttps://t.co/JLnEOUPAg4"
   }
 ]

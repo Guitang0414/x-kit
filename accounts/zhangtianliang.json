@@ -1,0 +1,100 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {},
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": true,
+    "highlightedTweets": "0"
+  },
+  "id": "VXNlcjoyMjEyMzcyMTQ=",
+  "isBlueVerified": true,
+  "isProfileTranslatable": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 30 03:10:32 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "章天亮，飞天大学教授，YouTube频道“天亮时分”播主 https://t.co/GZY0vvfwI0 ，非营利机构天亮联盟执行董事，系列历史文化书籍《中华文明史》、《笑谈风云》作者，大纪元时报主笔，新唐人、美国之音、自由亚洲电台评论员，电影编剧和独立制片人",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@TianLiangTimes",
+            "expanded_url": "http://youtube.com/@TianLiangTimes",
+            "url": "https://t.co/GZY0vvfwI0",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tianliangalliance.org",
+            "expanded_url": "http://tianliangalliance.org",
+            "url": "https://t.co/QacywgskVV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11944,
+    "followersCount": 37420,
+    "following": true,
+    "friendsCount": 95,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 109,
+    "location": "New York, USA",
+    "mediaCount": 1174,
+    "name": "Tianliang Zhang 章天亮",
+    "normalFollowersCount": 37420,
+    "pinnedTweetIdsStr": [
+      "1749437944467746926"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1686415916614012938/XQROZwjM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zhangtianliang",
+    "statusesCount": 36498,
+    "translatorType": "none",
+    "url": "https://t.co/QacywgskVV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "profileImageShape": "Circle",
+  "restId": "221237214",
+  "tipjarSettings": {},
+  "userSeedTweetCount": 0,
+  "verificationInfo": {
+    "isIdentityVerified": false,
+    "reason": {
+      "description": {
+        "entities": [
+          {
+            "fromIndex": 26,
+            "ref": {
+              "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 36
+          }
+        ],
+        "text": "This account is verified. Learn more"
+      },
+      "verifiedSinceMsec": "1671284115840"
+    }
+  }
+}

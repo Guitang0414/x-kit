@@ -1,11 +1,691 @@
 [
   {
     "user": {
+      "screenName": "GrantCardone",
+      "name": "Grant Cardone",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1618616208919511040/3Ziz6tx4_normal.jpg",
+      "description": "Equity Fund Manager & Real Estate Investor $4.5B AUM Cardone Capital • 10XHealthSystem • CardoneVentures • RealEstate Bitcoin Fund 👇",
+      "followersCount": 1199372,
+      "friendsCount": 4436,
+      "location": "Miami, FL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GrantCardone/status/1891588030357504044",
+    "fullText": "Audit Ft Knox  @elonmusk .  We don’t trust so we validate.  If it is there prove it."
+  },
+  {
+    "user": {
+      "screenName": "buitengebieden",
+      "name": "Buitengebieden",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1130022182971760640/FlbICzEn_normal.jpg",
+      "description": "The official positive side of 𝕏. I’m Sander from the Netherlands. All copyrights belong to their respective owners! DM for credits/removal/submission!",
+      "followersCount": 2822109,
+      "friendsCount": 79,
+      "location": "Nederland"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891587418429505537/vid/avc1/1270x1080/ddN-zfOSzIu__42o.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/buitengebieden/status/1891587476457693283",
+    "fullText": "😂 https://t.co/Q8wYxIHOnE"
+  },
+  {
+    "user": {
+      "screenName": "SupFin",
+      "name": "超级财经 SuperFinance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1831933165058818048/HQD8Q116_normal.jpg",
+      "description": "超级财经：带来超级回报的财经信号。SuperFinance: Financial Signals That Bring Super Returns.",
+      "followersCount": 101806,
+      "friendsCount": 71,
+      "location": "Worldwide"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBExglaAAAzVfY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SupFin/status/1891587467209474185",
+    "fullText": "美国汽车市场泡沫正在破裂。美国汽车贷款严重拖欠率(定义为逾期90天)，在2024年第四季度已达到3.0%，创下14年来的最高水平，可追溯到金融危机后的复苏期。严重拖欠率，现已超过2001年经济衰退和2020年危机期间的水平。\nThe US car market bubble is popping. The serious delinquency rates for US https://t.co/DNK1KjCslq"
+  },
+  {
+    "user": {
+      "screenName": "libsoftiktok",
+      "name": "Libs of TikTok",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
+      "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+      "followersCount": 4256703,
+      "friendsCount": 970,
+      "location": "Depths of Hell"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBEGgwX0AAHMhg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/libsoftiktok/status/1891587325316006146",
+    "fullText": "U.S. Courts celebrating LGBTQ Pride month. This page is still up https://t.co/FW1UjS6IL9"
+  },
+  {
+    "user": {
+      "screenName": "jessyshen",
+      "name": "沈tong不私信",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889860116637425670/C2Rma0Y9_normal.jpg",
+      "description": "墙头草，利己主义者，如有我的私信，必为假冒",
+      "followersCount": 111104,
+      "friendsCount": 845,
+      "location": "Newport Beach, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jessyshen/status/1891587300959617204",
+    "fullText": "YouTube洛奇\n\n走线开卡车当美军，应聘美国公务员看枪库\n\n人生规划挺有一套的\n\n无学历无资产无背景\n\n中国的一副烂牌\n\n打成了美国梦\n\n另外一个中国小老板\n\n走线要被遣返\n\n自杀\n\n通过自己的死，保证两个未成年孩子人道主义留在美国\n\n太惨了\n\n中国还有4套房，牌面比洛奇好\n\n不能说川普逼死他，心态不行"
+  },
+  {
+    "user": {
+      "screenName": "AZGOP",
+      "name": "Republican Party of Arizona",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1756170407588302848/8pJD-1sc_normal.jpg",
+      "description": "The official Twitter account of the Republican Party of Arizona. #AmericaFirst",
+      "followersCount": 173675,
+      "friendsCount": 3167,
+      "location": "Phoenix, AZ"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891585954206580737/pu/vid/avc1/960x532/gdUXY4dM9FZDob9-.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/AZGOP/status/1891587258727399610",
+    "fullText": "Arizonans want same-day results for our elections!\n\n@GovernorHobbs can either be a part of the solution or continue the status quo, which is absolutely unacceptable. Voters should not have to wait days for results in critical races.\n\nChair @GinaSwoboda is working hard to improve https://t.co/PQxjAJnz66"
+  },
+  {
+    "user": {
+      "screenName": "NTDNews",
+      "name": "NTD News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838285672383213568/nXIXaBrd_normal.jpg",
+      "description": "Your independent voice in TV news—bringing back reliable, honest news reporting.",
+      "followersCount": 86030,
+      "friendsCount": 82,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NTDNews/status/1891587176594313539",
+    "fullText": "Most government agencies will be closed in observance of Presidents Day, while many businesses will remain open or offer a modified schedule. https://t.co/pGmGsgKurj"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635443,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891586971077648870",
+    "fullText": "UK Prime Minister Keir Starmer urged President Donald Trump to offer Ukraine security guarantees alongside Europe as part of a potential peace deal, following a meeting of European leaders in Paris. https://t.co/jGl5af3L5R"
+  },
+  {
+    "user": {
+      "screenName": "RFI_Cn",
+      "name": "RFI 华语 - 法国国际广播电台",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/875657284554113025/eSlvV5zv_normal.jpg",
+      "description": "法广RFI 中文通过多媒体互联网直播、播客、繁、简版文字、视频及社交平台全方位推出法国国内国外新闻时事、政治、经济文化专栏与专题节目。\n全球各地可以登陆\nhttps://t.co/DEERPt9y9B\n进入RFI中文网关注我们。\n🌍 https://t.co/MmsmrJmXnK",
+      "followersCount": 1216149,
+      "friendsCount": 88,
+      "location": "法国 巴黎"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBD8-haAAE2m-D.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RFI_Cn/status/1891586560031850611",
+    "fullText": "慕尼黑北京敦促北约对华采取积极负责任政策 与会青年关注中美多极化立场差异 https://t.co/wAvuchdx22 https://t.co/DI2Xu8CxzR"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25751221,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891586492666912932",
+    "fullText": "Trump supporting California sheriff launches Republican run for governor in race to succeed Newsom https://t.co/1WnyKJdneA"
+  },
+  {
+    "user": {
+      "screenName": "Meme_Merchant",
+      "name": "The Meme Merchant",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699705618397884418/f7lsJfMf_normal.jpg",
+      "description": "Trader of Memes, Spreader of Truths\nPolitical/Non-Political \nInquiry Agent\nMeme Maker\nFollow for more content!\nCheck extended BIO!\n#MAGA #Saltyarmy #LwC #Troll",
+      "followersCount": 12668,
+      "friendsCount": 201,
+      "location": "𝕏 comments."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891580824413163521/vid/avc1/1080x1080/1Mh97uf2MYpRKwFv.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Meme_Merchant/status/1891586244183814607",
+    "fullText": "https://t.co/7KQ9c3rOXX Another plane another crash. \nwtf is with Air Travel  lately"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092790,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891586030676930903",
+    "fullText": "Ashley St. Clair says Elon Musk is the father of baby she had in 2024 https://t.co/yN82uSH415"
+  },
+  {
+    "user": {
+      "screenName": "BBC_TopGear",
+      "name": "Top Gear",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1139483124541399045/byLEkILi_normal.png",
+      "description": "Proper #TopGear tweets from Top Gear HQ. This is a commercial channel from BBC Studios.\n\nTop Gear Turbo Newsletter - https://t.co/FAE1PvkamQ",
+      "followersCount": 1883156,
+      "friendsCount": 39,
+      "location": "London"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBDdN8aAAI3dEH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBC_TopGear/status/1891586017205027090",
+    "fullText": "Albon and Sainz push back against FIA’s swearing clamp-down ➡️ https://t.co/lR1wNfzSPm https://t.co/AgTVxITiDM"
+  },
+  {
+    "user": {
+      "screenName": "WholesomeMeme",
+      "name": "WholesomeMemes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1679142293704523776/dBBIjwUV_normal.jpg",
+      "description": "🇨🇦  We post memes, comics, wholesome stuff & anything we like. Get original shirts to raise money for charity https://t.co/Upa2OFOAJk",
+      "followersCount": 2961650,
+      "friendsCount": 276,
+      "location": "Canada"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBDYmXXQAEOCsS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WholesomeMeme/status/1891585935092953400",
+    "fullText": "https://t.co/yni3ZV0QRj"
+  },
+  {
+    "user": {
+      "screenName": "RFA_Chinese",
+      "name": "自由亚洲电台",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1483174230644645898/dY1oXWhO_normal.jpg",
+      "description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+      "followersCount": 1694742,
+      "friendsCount": 3622,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RFA_Chinese/status/1891585918647271906",
+    "fullText": "【中国公安部副部长赴泰缅边境打击电诈】\n据美联社17日报道，中国公安部副部长兼刑侦局局长刘忠义近日赴泰缅边境地区，视察打击缅甸境内网络诈骗的行动。\n https://t.co/hCmVluIVXZ"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3294830,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891585917871325423",
+    "fullText": "America's big banks are reacting to President Donald Trump's executive order on diversity, equity and inclusion (DEI), scrubbing public mentions amid fear of federal investigations or potential litigation.  https://t.co/vVvhyRbZnX"
+  },
+  {
+    "user": {
+      "screenName": "ShouldHaveAnima",
+      "name": "why you should have an animal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889450399868002305/XCI1nITj_normal.jpg",
+      "description": "The Perfect account to show your parents when you want an animal 🦆",
+      "followersCount": 1631110,
+      "friendsCount": 43,
+      "location": "Dm For Credit "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891488940927889408/pu/vid/avc1/720x1280/JmOjTQZCRpA6Gmfx.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/ShouldHaveAnima/status/1891585913857376358",
+    "fullText": "Awwww 🥹 https://t.co/VwKUq84EEV"
+  },
+  {
+    "user": {
+      "screenName": "Enezator",
+      "name": "Enezator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850158755419471872/aUQrYE8w_normal.jpg",
+      "description": "Positive video content. | 𝕏 best ranking 100 | DM for promotion",
+      "followersCount": 1169250,
+      "friendsCount": 70,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891584344889720832/pu/vid/avc1/720x1280/PjpWtfAGJj3wObc8.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Enezator/status/1891585913777684637",
+    "fullText": "While trying to meet my manager's expectations, https://t.co/ae6kFrVyl4"
+  },
+  {
+    "user": {
+      "screenName": "catshealdeprsn",
+      "name": "contents that ll heal your depression 🌻",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889715174296465408/T4ihURlO_normal.jpg",
+      "description": "Best account to heal your anxiety or depression.",
+      "followersCount": 1062649,
+      "friendsCount": 29,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891533908329783296/pu/vid/avc1/720x1280/_tuKICpLqOJQF1dg.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/catshealdeprsn/status/1891585913739936237",
+    "fullText": "https://t.co/BFeXT8f5mU"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41257007,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/1891585836887482421",
+    "fullText": "Emergency services attending reported plane crash in Toronto https://t.co/eZ3TfwSCDr"
+  },
+  {
+    "user": {
+      "screenName": "Kalshi",
+      "name": "Kalshi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1841549922694262784/1qzNBZII_normal.jpg",
+      "description": "Bet on anything: politics, sports, entertainment, crypto, weather, and so much more.",
+      "followersCount": 105964,
+      "friendsCount": 1240,
+      "location": "New York"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBDKMMXcAARTRH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Kalshi/status/1891585803635073253",
+    "fullText": "Forecasted deportations this year have fallen off a cliff\n\nFrom over 650K to 421K in just a week\n\nWhat changed? https://t.co/DP8VRyiidg"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635443,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891585594695848112",
+    "fullText": "Emergency crews are responding to an incident involving a Delta Airlines flight from Minneapolis that landed at Toronto’s Pearson International Airport on Monday. https://t.co/Wcrc1ccGc2"
+  },
+  {
+    "user": {
+      "screenName": "EpochTimes",
+      "name": "The Epoch Times",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800634269942857729/YwhL97AV_normal.jpg",
+      "description": "Independent, award-winning reporting. Read on App: https://t.co/YmpowM2rWt | Watch: https://t.co/M1G2gEWhbY | Play: https://t.co/pDrVrN5o26 | Shop: https://t.co/k9I9kdhS3d",
+      "followersCount": 819512,
+      "friendsCount": 155,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EpochTimes/status/1891585191564444010",
+    "fullText": "Riverside County Sheriff Chad Bianco is jumping in the ring to replace outgoing Gov. Gavin Newsom, becoming the latest candidate to officially announce his campaign for California’s top seat.\n\nNewsom will finish his second and final term as governor at the end of 2026."
+  },
+  {
+    "user": {
+      "screenName": "NTDNews",
+      "name": "NTD News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838285672383213568/nXIXaBrd_normal.jpg",
+      "description": "Your independent voice in TV news—bringing back reliable, honest news reporting.",
+      "followersCount": 86030,
+      "friendsCount": 82,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NTDNews/status/1891585029446234611",
+    "fullText": "Russian Foreign Minister Sergei Lavrov said the Kremlin is not weighing territorial concessions for Ukraine in negotiations to end the nearly three-year war. https://t.co/6fmNsBzKC8"
+  },
+  {
+    "user": {
+      "screenName": "WarlordDilley",
+      "name": "Brenden Dilley",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1588985725864890369/biMOpIz__normal.jpg",
+      "description": "📽Host of The Dilley Show 12pm Eastern M-F📽      \n\n🔖Author of Still Breathin' The Wisdom & Teachings of a Perfectly Flawed Man \n🇺🇸TRUMP 2024🇺🇸",
+      "followersCount": 187513,
+      "friendsCount": 393,
+      "location": "🌞🌴🏖Florida, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891516118952542208/pu/vid/avc1/1280x720/NCzDa7bmdjYUreLy.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/WarlordDilley/status/1891584938580816330",
+    "fullText": "THE BORDER WILL BE SECURED! https://t.co/OCVzf1KGZn"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25751221,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891584880212853235",
+    "fullText": "BREAKING: Delta crash reported at Canada's Toronto Pearson Airport; crews responding to plane flipped upside down\nhttps://t.co/WZCKc8qxwj"
+  },
+  {
+    "user": {
       "screenName": "SprinterObserve",
       "name": "Sprinter Observer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
       "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
-      "followersCount": 608870,
+      "followersCount": 608906,
+      "friendsCount": 581,
+      "location": " 💞💞💞"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBCZu9XcAEOv9r.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SprinterObserve/status/1891584855265165357",
+    "fullText": "US Treasury Secretary Bessent, when passing on a proposal to control the extraction of half of the rare earth minerals, gave Zelensky only an hour to consider the deal, but he refused, claims the British The Economist https://t.co/dJcJMajfaV"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41257007,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/1891584723186532758",
+    "fullText": "Emergency services dispatched to incident at Toronto airport https://t.co/H8bB4INrSN"
+  },
+  {
+    "user": {
+      "screenName": "SprinterObserve",
+      "name": "Sprinter Observer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
+      "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
+      "followersCount": 608906,
+      "friendsCount": 581,
+      "location": " 💞💞💞"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891584646619467776/pu/vid/avc1/1280x720/-P7eVohF6HA8SgAk.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/SprinterObserve/status/1891584681436451290",
+    "fullText": "In 2007, President Vladimir Putin predicted what would happen, warning that disrespecting Russia's legitimate concerns would lead to conflict.\n\nWestern elites ignored his warnings, expanded NATO and provoked conflict with Russia. https://t.co/j0wEwnSM8P"
+  },
+  {
+    "user": {
+      "screenName": "SprinterObserve",
+      "name": "Sprinter Observer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
+      "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
+      "followersCount": 608906,
+      "friendsCount": 581,
+      "location": " 💞💞💞"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891584662725668865/pu/vid/avc1/846x478/DJI9HC_enpHQAVnw.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/SprinterObserve/status/1891584680509546624",
+    "fullText": "A doll representing \"Netanyahu\" was arrested by Israeli protesters outside his residence in Jerusalem. https://t.co/TyXUC4io1C"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41257007,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/1891584594807275733",
+    "fullText": "Hundreds fired at aviation safety agency, union says https://t.co/FotmbWLpAP"
+  },
+  {
+    "user": {
+      "screenName": "VOAChinese",
+      "name": "美国之音中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+      "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/cW5eaWpefk",
+      "followersCount": 2594007,
+      "friendsCount": 168,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VOAChinese/status/1891584437886075025",
+    "fullText": "美军舰台海“慢速航行”暗藏玄机 北京高调军演强势回应 https://t.co/ea4zBsBXrz"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635443,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891584422660464992",
+    "fullText": "The US has offered Ukraine a one-sided deal to secure access to Ukraine’s rare-earth minerals after the war, but has not guaranteed that Ukraine would be permitted to participate in peace talks. https://t.co/xBx9fdXw0i"
+  },
+  {
+    "user": {
+      "screenName": "libsoftiktok",
+      "name": "Libs of TikTok",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
+      "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+      "followersCount": 4256703,
+      "friendsCount": 970,
+      "location": "Depths of Hell"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBB43-WUAAS-17.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/libsoftiktok/status/1891584354029043991",
+    "fullText": "JUST IN: Democrats in Oregon have introduced SB611 which would allow illegal aliens to receive food stamps from the government at the taxpayer's expense https://t.co/OGaRLI4hR7"
+  },
+  {
+    "user": {
+      "screenName": "SprinterObserve",
+      "name": "Sprinter Observer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
+      "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
+      "followersCount": 608906,
+      "friendsCount": 581,
+      "location": " 💞💞💞"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBB5RNXAAAOpbm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SprinterObserve/status/1891584298764874097",
+    "fullText": "🇮🇷 Iran has begun installing \"barbecues\" on tanks https://t.co/XW8J19RH7M"
+  },
+  {
+    "user": {
+      "screenName": "WarlordDilley",
+      "name": "Brenden Dilley",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1588985725864890369/biMOpIz__normal.jpg",
+      "description": "📽Host of The Dilley Show 12pm Eastern M-F📽      \n\n🔖Author of Still Breathin' The Wisdom & Teachings of a Perfectly Flawed Man \n🇺🇸TRUMP 2024🇺🇸",
+      "followersCount": 187513,
+      "friendsCount": 393,
+      "location": "🌞🌴🏖Florida, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1632791527268163584/pu/vid/1280x720/sw2_SoLEUuIlzDbC.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/WarlordDilley/status/1891584187448086696",
+    "fullText": "The cartels are in serious trouble now...\n\nFAFO https://t.co/mry5208Cqi"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3294830,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891578065463148545/vid/avc1/1280x720/YNzpxfAyOwZqqPku.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891584145089835026",
+    "fullText": "\"President Trump sees a way of bringing Putin back into the world community as a way to use Putin with us instead of Putin with China?\" \n\n@GeneralClark suggested President Trump's negotiations with Putin could move Russia away from China. @KatrinaSzish @BobBrooks_NMX https://t.co/za9o97JadQ"
+  },
+  {
+    "user": {
+      "screenName": "emeriticus",
+      "name": "Pedro L. Gonzalez",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1653234127250808833/aJFryRiD_normal.jpg",
+      "description": "contra substack, @chroniclesmag columnist",
+      "followersCount": 165372,
+      "friendsCount": 1744,
+      "location": "SUBSCRIBE 👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBBvPcXAAAif0Y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/emeriticus/status/1891584128203489548",
+    "fullText": "👍 https://t.co/ioxbfPBkYn"
+  },
+  {
+    "user": {
+      "screenName": "wangdan1989",
+      "name": "王丹",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/986803942205022208/v3mMEbZe_normal.jpg",
+      "description": "一个不可救药的理想主义者； 致力于做一个温和，坚定，建设性的政治反对派； 期待未来的中国，能够重建政治秩序和生活秩序。 油管：王丹学堂；个人PayPal账户：https://t.co/31K0DAWhJK",
+      "followersCount": 369633,
+      "friendsCount": 12493,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wangdan1989/status/1891584121459138939",
+    "fullText": "不管习近平在会见马云他们的时候说了什么，中国民营企业家要是因此就对习近平和中共又开始心生幻想，下次被锤就是活该！"
+  },
+  {
+    "user": {
+      "screenName": "SprinterObserve",
+      "name": "Sprinter Observer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
+      "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
+      "followersCount": 608906,
+      "friendsCount": 581,
+      "location": " 💞💞💞"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBBswdXwAAkm_p.jpg",
+      "https://pbs.twimg.com/media/GkBBszkXUAECJRM.jpg",
+      "https://pbs.twimg.com/media/GkBBs3wXcAAYWn9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SprinterObserve/status/1891584084830302607",
+    "fullText": "🇮🇷 Iranian Shahed-149 Gaza UAV with 8 Sadid series guided bombs https://t.co/3Z1yUd3rp1"
+  },
+  {
+    "user": {
+      "screenName": "ChannelInteres",
+      "name": "Interesting Channel",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1492581976922107908/3tQ43e33_normal.jpg",
+      "description": "😜A bit of everything😝",
+      "followersCount": 76875,
+      "friendsCount": 57,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891583911756468224/pu/vid/avc1/720x974/2JOjovIWLGTfdoAe.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/ChannelInteres/status/1891583960779522493",
+    "fullText": "Kindness...\n\nA homeless dog got caught in a trap. And would have probably died if a caring person hadn't paid attention to it 🥲🙏 https://t.co/l13dYJ6pxQ"
+  },
+  {
+    "user": {
+      "screenName": "SprinterObserve",
+      "name": "Sprinter Observer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
+      "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
+      "followersCount": 608906,
+      "friendsCount": 581,
+      "location": " 💞💞💞"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBBgNqWUAAfvQ1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SprinterObserve/status/1891583868358230146",
+    "fullText": "Kiev will not recognize any agreements that might be reached between Russia and the United States during talks in Saudi Arabia, Ukrainian leader Volodymyr Zelensky told reporters on Monday. The Ukrainian government will only recognize talks in which its representatives https://t.co/hlfsjJDZLk"
+  },
+  {
+    "user": {
+      "screenName": "SprinterObserve",
+      "name": "Sprinter Observer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
+      "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
+      "followersCount": 608906,
       "friendsCount": 581,
       "location": " 💞💞💞"
     },
@@ -22,7 +702,7 @@
       "name": "Fox News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
       "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
-      "followersCount": 25751066,
+      "followersCount": 25751221,
       "friendsCount": 263,
       "location": "U.S.A."
     },
@@ -37,7 +717,7 @@
       "name": "Sprinter Observer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
       "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
-      "followersCount": 608870,
+      "followersCount": 608906,
       "friendsCount": 581,
       "location": " 💞💞💞"
     },
@@ -54,7 +734,7 @@
       "name": "自由亚洲电台",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1483174230644645898/dY1oXWhO_normal.jpg",
       "description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
-      "followersCount": 1694730,
+      "followersCount": 1694742,
       "friendsCount": 3622,
       "location": "Washington, DC"
     },
@@ -84,7 +764,7 @@
       "name": "Enezator",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1850158755419471872/aUQrYE8w_normal.jpg",
       "description": "Positive video content. | 𝕏 best ranking 100 | DM for promotion",
-      "followersCount": 1169238,
+      "followersCount": 1169250,
       "friendsCount": 70,
       "location": "San Francisco, CA"
     },
@@ -101,7 +781,7 @@
       "name": "新唐人文化生活",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1234517766104895492/I1RQ0w-A_normal.png",
       "description": "新唐人電視台 @NTDChinese 以傳播自由真實信息，弘揚中華傳統文化為宗旨。 #新唐人 #NTD\n\n油管: https://t.co/IUlJTJDDrb | 支持我們: https://t.co/QxnnLp6lvh | #新唐人 | #NTDTV",
-      "followersCount": 15821,
+      "followersCount": 15826,
       "friendsCount": 18,
       "location": ""
     },
@@ -118,7 +798,7 @@
       "name": "RFI 华语 - 法国国际广播电台",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/875657284554113025/eSlvV5zv_normal.jpg",
       "description": "法广RFI 中文通过多媒体互联网直播、播客、繁、简版文字、视频及社交平台全方位推出法国国内国外新闻时事、政治、经济文化专栏与专题节目。\n全球各地可以登陆\nhttps://t.co/DEERPt9y9B\n进入RFI中文网关注我们。\n🌍 https://t.co/MmsmrJmXnK",
-      "followersCount": 1216150,
+      "followersCount": 1216149,
       "friendsCount": 88,
       "location": "法国 巴黎"
     },
@@ -152,7 +832,7 @@
       "name": "The Spectator Index",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1145865652533547008/XBahoZmX_normal.png",
       "description": "News, media and data from around the globe. Covering politics, economics, science, tech and sport.",
-      "followersCount": 2918021,
+      "followersCount": 2918039,
       "friendsCount": 0,
       "location": "Global"
     },
@@ -167,7 +847,7 @@
       "name": "Libs of TikTok",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
       "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
-      "followersCount": 4256592,
+      "followersCount": 4256703,
       "friendsCount": 970,
       "location": "Depths of Hell"
     },
@@ -199,7 +879,7 @@
       "name": "non aesthetic things",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
       "description": "viral media from around the world",
-      "followersCount": 4470381,
+      "followersCount": 4470394,
       "friendsCount": 567,
       "location": ""
     },
@@ -1437,8 +2117,8 @@
       "name": "Elon Musk",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
       "description": "",
-      "followersCount": 218026583,
-      "friendsCount": 1039,
+      "followersCount": 218040581,
+      "friendsCount": 1040,
       "location": ""
     },
     "images": [
@@ -4586,7 +5266,7 @@
       "name": "Libs of TikTok",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
       "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
-      "followersCount": 4255587,
+      "followersCount": 4256703,
       "friendsCount": 970,
       "location": "Depths of Hell"
     },
@@ -21292,7 +21972,7 @@
       "name": "大罗SEO",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1525878195928432640/e-qWbspN_normal.jpg",
       "description": "SEO专家 | 提供SEO咨询，优化服务以及高权重外链 |  油管: 大罗SEO",
-      "followersCount": 7306,
+      "followersCount": 7310,
       "friendsCount": 1109,
       "location": "Vancouver,BC"
     },
@@ -21532,7 +22212,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44915,
+      "followersCount": 44936,
       "friendsCount": 0,
       "location": ""
     },
@@ -21803,7 +22483,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44797,
+      "followersCount": 44936,
       "friendsCount": 0,
       "location": ""
     },
@@ -21848,7 +22528,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44932,
+      "followersCount": 44936,
       "friendsCount": 0,
       "location": ""
     },

@@ -1,6 +1,554 @@
 [
   {
     "user": {
+      "screenName": "awkwardgoogle",
+      "name": "Interesting things",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1843285954473164800/87Vfzdg0_normal.jpg",
+      "description": "Posting interesting things from all corners of the internet.",
+      "followersCount": 3749780,
+      "friendsCount": 151,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891536846401773568/pu/vid/avc1/720x1280/u3ifUXRnXoRTIVQB.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/awkwardgoogle/status/1891537465955029050",
+    "fullText": "This kid's vertical while training for sepak takraw (roll Spike).\nhttps://t.co/qqDjL7XsIY"
+  },
+  {
+    "user": {
+      "screenName": "Barchart",
+      "name": "Barchart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/896104027179687936/vc5zkLpM_normal.jpg",
+      "description": "Financial Markets | Trading & Investing Tools | Charting | Stocks | Options | Futures | Commodities | Forex | News | & Much More",
+      "followersCount": 278199,
+      "friendsCount": 571,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkAW_T5XoAApoAa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Barchart/status/1891537413610033303",
+    "fullText": "There is more than an 80% chance that the Federal Reserve will NOT cut interest rates before June 🚨 https://t.co/QEKIChrXsp"
+  },
+  {
+    "user": {
+      "screenName": "thewealthdad",
+      "name": "The Wealth Dad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1678233012310253569/kstFFA_X_normal.jpg",
+      "description": "Occasional decent personal finance advice, mixed in with movie/television series takes 💰📺",
+      "followersCount": 82829,
+      "friendsCount": 371,
+      "location": "Investing books 👇🏼"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkAXJvgXoAAp3SN.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/thewealthdad/status/1891537301458624811",
+    "fullText": "What I'm most interested in as a Marvel fan and Disney $DIS investor is what the untitled MCU film is that scheduled for President's Day weekend 2026.\n\nIt's the only MCU film between #FantasticFour and #Doomsday, and there's been no leaks.\n\nPraying it's Midnight Sons... 🙏🏻 https://t.co/wjVWV1gAq4"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3294707,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891537145195790496",
+    "fullText": "Russia has freed a U.S. citizen arrested this month on drug smuggling charges, according to Russian media reports and a U.S. official.  https://t.co/w2JNlAPEqS"
+  },
+  {
+    "user": {
+      "screenName": "ClownWorld_",
+      "name": "Clown World ™ 🤡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884972270076276736/pzgDTZDF_normal.jpg",
+      "description": "Official #ClownWorld ™ 🤡 #NoCaptionNeeded ** DM us for removals/credit",
+      "followersCount": 2980936,
+      "friendsCount": 934,
+      "location": "DM Submissions 📧 "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891536956498317312/vid/avc1/576x1024/f5NxBrlsbGIlhqmM.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/ClownWorld_/status/1891537124043747756",
+    "fullText": "Dude looks 14 lol https://t.co/snAZUM688G"
+  },
+  {
+    "user": {
+      "screenName": "JDVance",
+      "name": "JD Vance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1817220042578173953/5r-Qpvgt_normal.jpg",
+      "description": "Christian, husband, dad. Vice President of the United States.",
+      "followersCount": 3642127,
+      "friendsCount": 1139,
+      "location": "Cincinnati, OH"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkAW2JMW8AAUUGA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JDVance/status/1891536967172604123",
+    "fullText": "Happy President’s Day to the GOAT https://t.co/llLFerToQd"
+  },
+  {
+    "user": {
+      "screenName": "HappyQQ_CN",
+      "name": "𝗛𝗮𝗽𝗽𝘆𝗤𝗤",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1822548020178919424/D7VlV25V_normal.jpg",
+      "description": "𝘄𝗵𝗶𝗹𝗲(𝟭)脱口秀、全栈开发者、系统架构师、𝗖𝗧𝗢。\n一名努力想成为文学作家却经常写错别字的中文差生。\n开源项目: https://t.co/CK8Eeszk1N  。\n专注𝗔𝗜、网络安全、系统架构等前沿领域知识。\n技术付费咨询或合作请加WX：HappyQQ868",
+      "followersCount": 16159,
+      "friendsCount": 3558,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HappyQQ_CN/status/1891536651047858517",
+    "fullText": "一个字都不信，空格键都不信！\n还好我没抱任何希望，所以没有任何失望"
+  },
+  {
+    "user": {
+      "screenName": "GOP",
+      "name": "GOP",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1488637837499154441/T7lImQVl_normal.png",
+      "description": "Text TRUMP to 80810 to help us Make America Great Again!",
+      "followersCount": 3485568,
+      "friendsCount": 1685,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GOP/status/1891536610073698469",
+    "fullText": "Top automaker could move some production out of Mexico amid Trump tariff talks, CEO says\n\nhttps://t.co/Qlz7spMNJg"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635303,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891536605095076119",
+    "fullText": "Discussions are gathering pace in the EU on how to increase defense spending, with joint financing becoming a realistic option for a growing list of leaders https://t.co/0RqspuN753"
+  },
+  {
+    "user": {
+      "screenName": "LauraLoomer",
+      "name": "Laura Loomer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874663547445116928/MsW2vCgM_normal.jpg",
+      "description": "Investigative Journalist 🇺🇸 Free Spirit🇺🇸Founder of LOOMERED. Host of @LoomerUnleashed Former @Project_Veritas operative. 📸 America First ✡️ Feisty Jewess",
+      "followersCount": 1475047,
+      "friendsCount": 7261,
+      "location": "Florida "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LauraLoomer/status/1891536272541245480",
+    "fullText": "The Florida Governor’s race for 2026 is about to get spicy. \n\nWhile majority of the GOP is busy holding hands and singing Kumbaya, I’m busy calling out the snakes in Tallahassee who plan on subverting Trump. \n\nHopefully people wake up from their Kumbaya nap soon. I’ll be here."
+  },
+  {
+    "user": {
+      "screenName": "CollinRugg",
+      "name": "Collin Rugg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1325087660428447746/4DL2iq76_normal.jpg",
+      "description": "Co-Owner of Trending Politics | Investor | American 🇺🇸",
+      "followersCount": 1757664,
+      "friendsCount": 619,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891534190706843648/pu/vid/avc1/1280x720/jShzCZyya6uw4jSO.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CollinRugg/status/1891535791698186740",
+    "fullText": "A story in three parts:\n\nJD Vance: Free speech in Europe is in retreat. Germany is like an authoritarian regime for carrying out raids on their citizens for posting memes.\n\nGerman defense minister: This is ridiculous &amp; insane for Vance to say this.\n\nGermany on 60 Minutes: Join us https://t.co/tnjgeikLmf"
+  },
+  {
+    "user": {
+      "screenName": "DreamDividend",
+      "name": "The Dividend Dream on YouTube",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1457338860967546881/aBkbWWa7_normal.png",
+      "description": "Millionairess dividend investor generating passive income for life. 💃 $3m NW 🦄 MBA 🇺🇸 I talk about stocks I own for inspiration purposes only. LGBT 🏳️‍🌈",
+      "followersCount": 23984,
+      "friendsCount": 314,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/GkAVrXaWEAAvr7a.mp4"
+    ],
+    "tweetUrl": "https://x.com/DreamDividend/status/1891535685078700329",
+    "fullText": "According to the United States Travel Association, a projected decline in Canadian visitors could result in losses of up to $1.2 billion in tourism revenue to Florida.\n\nA steep decline in visitors could severely strain local businesses that depend on this clientele, which https://t.co/CeSq2WeyKM"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25749644,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891535322204262557",
+    "fullText": "MSNBC's Jen Psaki warns Democrats against 'screaming' about Trump creating a constitutional crisis https://t.co/P3SNERY3FE"
+  },
+  {
+    "user": {
+      "screenName": "RudyGiuliani",
+      "name": "Rudy W. Giuliani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1882513997557067776/6TywPyqc_normal.jpg",
+      "description": "Join us every weeknight at 7 pm ET for The Rudy Giuliani Show and at 8 pm ET for #AmericasMayorLive right here on X 🇺🇸",
+      "followersCount": 1868639,
+      "friendsCount": 1279,
+      "location": "Florida, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkAVOXkXkAEsISj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RudyGiuliani/status/1891535183637053794",
+    "fullText": "What an incredible evening with the America First Club at The Trump International Golf Club! Honored to be the keynote speaker! https://t.co/6QvE0WOYto"
+  },
+  {
+    "user": {
+      "screenName": "N8RealEstate",
+      "name": "Nate 🏠",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1544619240023478272/q4oHObNb_normal.jpg",
+      "description": "RE Investor/ Flipper | 8 Doors | I Buy SF and Small MF | Hard Money and DSCR Lending | DMs Open",
+      "followersCount": 10715,
+      "friendsCount": 703,
+      "location": "Ohio, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkAVBt2W8AAPXqc.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/N8RealEstate/status/1891534968368562284",
+    "fullText": "If you like chips, but are trying to be healthy try these out \n\n-No seed oils \n-No bad ingredients \n-Can get them at Target \n-They’re delicious https://t.co/L0xdtl0uhL"
+  },
+  {
+    "user": {
+      "screenName": "WatcherGuru",
+      "name": "Watcher.Guru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+      "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things finance & crypto in real-time | Tweets Are Not Financial Advice",
+      "followersCount": 2814685,
+      "friendsCount": 2,
+      "location": "Texas, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkAUyRQXgAAPYUp.jpg",
+      "https://pbs.twimg.com/media/GkAUyRSXgAEpcDM.jpg",
+      "https://pbs.twimg.com/media/GkAUyRMXUAA4Xjf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WatcherGuru/status/1891534701145317464",
+    "fullText": "JUST IN: 🇺🇸🇷🇺 Visa and Mastercard payment systems may soon return to Russia, according to the Russian State Duma. https://t.co/gU9xCYfz0W"
+  },
+  {
+    "user": {
+      "screenName": "catshealdeprsn",
+      "name": "contents that ll heal your depression 🌻",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889715174296465408/T4ihURlO_normal.jpg",
+      "description": "Best account to heal your anxiety or depression.",
+      "followersCount": 1062519,
+      "friendsCount": 29,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891534503560216576/pu/vid/avc1/720x1280/WjTKcbNjNizWwndl.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/catshealdeprsn/status/1891534594106658842",
+    "fullText": "https://t.co/Ukns9Tedkz"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3294707,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891534407581958468",
+    "fullText": "The Rob Carson Show LIVE (02/17/2025) | NEWSMAX Podcasts https://t.co/aq5XRcRwUH"
+  },
+  {
+    "user": {
+      "screenName": "NTDNews",
+      "name": "NTD News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838285672383213568/nXIXaBrd_normal.jpg",
+      "description": "Your independent voice in TV news—bringing back reliable, honest news reporting.",
+      "followersCount": 86027,
+      "friendsCount": 82,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NTDNews/status/1891534326258360386",
+    "fullText": "Reestablishing an immigration office at New York’s notorious Rikers Island jail is just the first step in a more complex agreement President Donald Trump’s administration has reached with Democratic Mayor Eric Adams, the new U.S. border czar said. https://t.co/PA4Fot6MQx"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41255707,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/1891533947034534139",
+    "fullText": "What key players want from Ukraine war talks https://t.co/3k3RyQoapZ"
+  },
+  {
+    "user": {
+      "screenName": "DreamDividend",
+      "name": "The Dividend Dream on YouTube",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1457338860967546881/aBkbWWa7_normal.png",
+      "description": "Millionairess dividend investor generating passive income for life. 💃 $3m NW 🦄 MBA 🇺🇸 I talk about stocks I own for inspiration purposes only. LGBT 🏳️‍🌈",
+      "followersCount": 23984,
+      "friendsCount": 314,
+      "location": "Earth"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkAT-s0XYAATrNW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DreamDividend/status/1891533816226783232",
+    "fullText": "I voted to spend $.025 in my taxes to stand up for and support veterans that stood tall.\n\nI lost. 😞 \n\nNow they are being defunded 🤔 Do you think it was worth it? \n#theyvotedforthis #consequences https://t.co/KA7hZ72PTE"
+  },
+  {
+    "user": {
+      "screenName": "sama",
+      "name": "Sam Altman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa_normal.jpg",
+      "description": "AI is cool i guess",
+      "followersCount": 3457722,
+      "friendsCount": 936,
+      "location": "SF"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sama/status/1891533802779910471",
+    "fullText": "trying GPT-4.5 has been much more of a \"feel the AGI\" moment among high-taste testers than i expected!"
+  },
+  {
+    "user": {
+      "screenName": "feltanimalworld",
+      "name": "Susan/STEM MOM",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1685339465085075456/5-9DSKeU_normal.jpg",
+      "description": "CSEEAI｜Accessible STEM education is desperately needed for tech teens worldwide! | flute and clarinet player",
+      "followersCount": 27418,
+      "friendsCount": 5410,
+      "location": "Virginia, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/feltanimalworld/status/1891533791534989644",
+    "fullText": "做一个精神上的自由派，行动上的保守派。\n精神上的自由派对于终身学习，新兴技术保持敞开态度，并且允许新知识常态颠覆自己的观念。\n行动上的保守派深思熟虑，保护和重视家庭价值，注重自己的身体和精神健康。\n很多人是反的。"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635303,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891533790234742826",
+    "fullText": "Keir Starmer and Kemi Badenoch have each started the week in very different fashion, but whose approach will end up winning over voters? Get the Readout with @Hariboconomics https://t.co/PVKfvFleaF"
+  },
+  {
+    "user": {
+      "screenName": "RFI_Cn",
+      "name": "RFI 华语 - 法国国际广播电台",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/875657284554113025/eSlvV5zv_normal.jpg",
+      "description": "法广RFI 中文通过多媒体互联网直播、播客、繁、简版文字、视频及社交平台全方位推出法国国内国外新闻时事、政治、经济文化专栏与专题节目。\n全球各地可以登陆\nhttps://t.co/DEERPt9y9B\n进入RFI中文网关注我们。\n🌍 https://t.co/MmsmrJmXnK",
+      "followersCount": 1216168,
+      "friendsCount": 88,
+      "location": "法国 巴黎"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkATj5BaAAE_iz2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RFI_Cn/status/1891533357382762753",
+    "fullText": "特朗普与俄罗斯究竟有何关系？ https://t.co/BpwjTQjxYC https://t.co/fD4aiN8hsw"
+  },
+  {
+    "user": {
+      "screenName": "CARandDRIVER",
+      "name": "Car and Driver",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712572514637840384/QVQykppZ_normal.jpg",
+      "description": "Car and Driver is the worldwide leader in providing objective test results and expert vehicle reviews. Follow us for the latest automotive reviews and news!",
+      "followersCount": 1346741,
+      "friendsCount": 958,
+      "location": "Ann Arbor, MI"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CARandDRIVER/status/1891533334804668607",
+    "fullText": "Kia's New EV4 Electric Sedan Sheds Concept Skin in New Photos https://t.co/YW64bT7oEu"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092773,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891533276298334641",
+    "fullText": "New winter storm rolling toward East. Will it be a hit or miss for major cities? https://t.co/s49Zvudwmc"
+  },
+  {
+    "user": {
+      "screenName": "WarlordDilley",
+      "name": "Brenden Dilley",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1588985725864890369/biMOpIz__normal.jpg",
+      "description": "📽Host of The Dilley Show 12pm Eastern M-F📽      \n\n🔖Author of Still Breathin' The Wisdom & Teachings of a Perfectly Flawed Man \n🇺🇸TRUMP 2024🇺🇸",
+      "followersCount": 187447,
+      "friendsCount": 393,
+      "location": "🌞🌴🏖Florida, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WarlordDilley/status/1891533257759768833",
+    "fullText": "Trump Daytona, USA Hockey and Presidents Day! w/Author Brenden Dilley 02/17/2025 https://t.co/nxpW8Z0wa4"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3294707,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkATTw2aAAQqY5m.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891533170178392271",
+    "fullText": "President Donald Trump's border czar says he can’t remember fewer illegal southern border crossings than what's occurring after nearly one month of the new administration. https://t.co/VlkIcRtPYM https://t.co/KpCttWLkc7"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635303,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891533154621468979",
+    "fullText": "The Trump administration has begun firing several hundred Federal Aviation Administration employees, upending staff on a busy air travel weekend and just weeks after a January fatal mid-air collision (via AP) https://t.co/UwdPMDDfi5"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25749644,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkATXMIXwAAay-x.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891533136867070272",
+    "fullText": "CLEARED FOR TAKEOFF: @SecDuffy reignites social media spat with failed former presidential candidate Hillary Clinton after sharing SpaceX will be visiting the Air Traffic Control System Command Center, shutting down claims of \"special access\" to Elon Musk. https://t.co/Cw2bvR1xEt https://t.co/cwlFyjkxto"
+  },
+  {
+    "user": {
+      "screenName": "libsoftiktok",
+      "name": "Libs of TikTok",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
+      "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+      "followersCount": 4255587,
+      "friendsCount": 970,
+      "location": "Depths of Hell"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891533048090435584/pu/vid/avc1/720x1280/2FJz_y_Tn243Aeuu.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/libsoftiktok/status/1891533075382780074",
+    "fullText": "TikToker calls for someone to shoot Kanye, JD Vance, Donald Trump, and Elon Musk in the head @fbi @secretservice https://t.co/C0NRNm02Eu"
+  },
+  {
+    "user": {
+      "screenName": "Meme_Merchant",
+      "name": "The Meme Merchant",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699705618397884418/f7lsJfMf_normal.jpg",
+      "description": "Trader of Memes, Spreader of Truths\nPolitical/Non-Political \nInquiry Agent\nMeme Maker\nFollow for more content!\nCheck extended BIO!\n#MAGA #Saltyarmy #LwC #Troll",
+      "followersCount": 12664,
+      "friendsCount": 201,
+      "location": "𝕏 comments."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-qq02WUAEPMjw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Meme_Merchant/status/1891533067665240126",
+    "fullText": "https://t.co/eutoLIc1HQ"
+  },
+  {
+    "user": {
+      "screenName": "Enezator",
+      "name": "Enezator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850158755419471872/aUQrYE8w_normal.jpg",
+      "description": "Positive video content. | 𝕏 best ranking 100 | DM for promotion",
+      "followersCount": 1168931,
+      "friendsCount": 70,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891526409606082560/pu/vid/avc1/720x1280/Twsz0f6t4_4x3rfc.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Enezator/status/1891533065526116826",
+    "fullText": "When your dog is your best imitator https://t.co/MzkwQ6x2jB"
+  },
+  {
+    "user": {
       "screenName": "business",
       "name": "Bloomberg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
@@ -373,7 +921,7 @@
       "name": "李老师不是你老师",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
       "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
-      "followersCount": 1933832,
+      "followersCount": 1933814,
       "friendsCount": 936,
       "location": "偷乐星球"
     },
@@ -1070,7 +1618,7 @@
       "name": "Libs of TikTok",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
       "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
-      "followersCount": 4255384,
+      "followersCount": 4255587,
       "friendsCount": 970,
       "location": "Depths of Hell"
     },
@@ -1965,7 +2513,7 @@
       "name": "Libs of TikTok",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
       "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
-      "followersCount": 4255790,
+      "followersCount": 4255587,
       "friendsCount": 970,
       "location": "Depths of Hell"
     },
@@ -15301,8 +15849,8 @@
       "name": "John Lee",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879063230565216256/4Qx0ehG8_normal.jpg",
       "description": "Freedom is a gift from God for free, but to keep and protect it may cost your life.",
-      "followersCount": 32861,
-      "friendsCount": 1641,
+      "followersCount": 33009,
+      "friendsCount": 1644,
       "location": "United States"
     },
     "images": [

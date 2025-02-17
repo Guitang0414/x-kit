@@ -1,11 +1,558 @@
 [
   {
     "user": {
+      "screenName": "WatcherGuru",
+      "name": "Watcher.Guru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+      "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things finance & crypto in real-time | Tweets Are Not Financial Advice",
+      "followersCount": 2815802,
+      "friendsCount": 2,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WatcherGuru/status/1891632830012146072",
+    "fullText": "JUST IN: 🇦🇷 Argentina's President Javier Milei says he didn't promote a crypto scam coin. \n\n\"I didn't promote it, I shared it.\""
+  },
+  {
+    "user": {
+      "screenName": "Morris_LT",
+      "name": "Morris",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+      "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！ \n购买 #Bitcoin 或 #Đogecoin 链接：https://t.co/rpBpnKphtr",
+      "followersCount": 136679,
+      "friendsCount": 377,
+      "location": "𝕏Ɖ"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Morris_LT/status/1891632822005399723",
+    "fullText": "只要条件许可，机会成熟，人人都是想作恶的。这个世界上真正可供我们选择的路，只有两种：要么享受孤独，要么沦入世俗。但凡人群扎堆聚集，主要话题无外乎三个：拐弯抹角炫耀自己，添油加醋贬低别人，相互窥探搬弄是非。人性一个最特别的弱点就是：在意别人如何看待自己。人只有真正活明白了，就会喜欢"
+  },
+  {
+    "user": {
+      "screenName": "mattgaetz",
+      "name": "Matt Gaetz",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832034268077338625/v_sJ7qw8_normal.jpg",
+      "description": "Florida Man",
+      "followersCount": 3321949,
+      "friendsCount": 4143,
+      "location": "Find me on CAMEO! "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBt6qQX0AAofvx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mattgaetz/status/1891632721153196043",
+    "fullText": "Great to be in the DC Bureau with our outstanding team at @OANN \n\nGet our LIVE app for all the latest https://t.co/A2eWnWOL8Z"
+  },
+  {
+    "user": {
       "screenName": "FoxNews",
       "name": "Fox News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
       "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
-      "followersCount": 25752559,
+      "followersCount": 25752695,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891632582866952695",
+    "fullText": "Meet the team Trump picked to negotiate ending the Russia-Ukraine war https://t.co/qCt0hARU3i"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道，欢迎关注吴说APP与播客：https://t.co/rVoqryXVjk\n联系我们 Telegram: colinwu1989",
+      "followersCount": 141554,
+      "friendsCount": 40,
+      "location": "HongKong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBtxrSaAAEyYhJ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1891632550713708774",
+    "fullText": "吴说获悉，阿根廷总统哈维尔·米莱在社交平台 X 上转发了由原阿根廷经济和政治评论员 Dario Epstein 发布 LIBRA 代币购买教程。早先米莱曾发推表示，了解之后，我决定不再继续传播该消息（这就是我删除推文的原因）。据 Lookonchain 监测，在 Javier Milei 转发了关于如何购买 LIBRA 的帖子后，用户 https://t.co/Fkyg7jtZm7"
+  },
+  {
+    "user": {
+      "screenName": "NTDNews",
+      "name": "NTD News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838285672383213568/nXIXaBrd_normal.jpg",
+      "description": "Your independent voice in TV news—bringing back reliable, honest news reporting.",
+      "followersCount": 86040,
+      "friendsCount": 82,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NTDNews/status/1891632472649019726",
+    "fullText": "A federal judge in Washington seemed reluctant to issue a temporary restraining order (TRO) against the Department of Government Efficiency @DOGE and has not yet issued a final ruling. https://t.co/ykqkhaYQjy"
+  },
+  {
+    "user": {
+      "screenName": "EpochTimes",
+      "name": "The Epoch Times",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800634269942857729/YwhL97AV_normal.jpg",
+      "description": "Independent, award-winning reporting. Read on App: https://t.co/YmpowM2rWt | Watch: https://t.co/M1G2gEWhbY | Play: https://t.co/pDrVrN5o26 | Shop: https://t.co/k9I9kdhS3d",
+      "followersCount": 819535,
+      "friendsCount": 155,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBrCsjaAAQzISW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EpochTimes/status/1891632050135765385",
+    "fullText": "Four deputy mayors in New York City are resigning, the mayor’s office confirmed on Feb. 17. https://t.co/iRBVLpj0b6"
+  },
+  {
+    "user": {
+      "screenName": "spectatorindex",
+      "name": "The Spectator Index",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1145865652533547008/XBahoZmX_normal.png",
+      "description": "News, media and data from around the globe. Covering politics, economics, science, tech and sport.",
+      "followersCount": 2918010,
+      "friendsCount": 0,
+      "location": "Global"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBtNqJaAAMX5G6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/spectatorindex/status/1891631977360499141",
+    "fullText": "JUST IN: Statement by Delta regarding incident in Toronto https://t.co/LJ6gmsEvqZ"
+  },
+  {
+    "user": {
+      "screenName": "CatWorkers",
+      "name": "cats with jobs 🛠",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1531787315852492800/f9XuxbM5_normal.jpg",
+      "description": "Good cats being workers • Unionized • 🦋 also on Bsky! https://t.co/LbO1xs7f1k • Buy me a coffee (link below)!",
+      "followersCount": 2101679,
+      "friendsCount": 287,
+      "location": "United Kingdom"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBtQIoWAAA9shb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CatWorkers/status/1891631970230145522",
+    "fullText": "https://t.co/KnM3GjJBpv"
+  },
+  {
+    "user": {
+      "screenName": "WholesomeMeme",
+      "name": "WholesomeMemes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1679142293704523776/dBBIjwUV_normal.jpg",
+      "description": "🇨🇦  We post memes, comics, wholesome stuff & anything we like. Get original shirts to raise money for charity https://t.co/Upa2OFOAJk",
+      "followersCount": 2961668,
+      "friendsCount": 276,
+      "location": "Canada"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBsyxJXcAAXfjm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WholesomeMeme/status/1891631465185563133",
+    "fullText": "https://t.co/0r9Vrw2UW2"
+  },
+  {
+    "user": {
+      "screenName": "appltrack",
+      "name": "AppleTrack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1621211304668143616/vxR4cnGB_normal.jpg",
+      "description": "Apple news by @iupdate & @concept_central 🍎 Want to get in touch? hello@appletrack.com | This account uses affiliate links!",
+      "followersCount": 331448,
+      "friendsCount": 69,
+      "location": "Cupertino, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBsoQhaAAAT7C9.jpg",
+      "https://pbs.twimg.com/media/GkBsoydaAAMkf8t.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/appltrack/status/1891631302270472351",
+    "fullText": "Apple's first launch of 2025 is happening in 2 days 🍎\n\nA new budget iPhone is rumored to be released... https://t.co/yEvSsIHppL"
+  },
+  {
+    "user": {
+      "screenName": "Morris_LT",
+      "name": "Morris",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+      "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！ \n购买 #Bitcoin 或 #Đogecoin 链接：https://t.co/rpBpnKphtr",
+      "followersCount": 136679,
+      "friendsCount": 377,
+      "location": "𝕏Ɖ"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Morris_LT/status/1891631278522237003",
+    "fullText": "从玄学的角度来看，最灵验的神明，其实在你自己的身体里，每个人自己的肉身就是庙宇，只是大多数人，都无法链接上自己内在的神。所以，不用去外面到处拜，真的认可自己完全相信自己，就是在拜神。"
+  },
+  {
+    "user": {
+      "screenName": "NTDNews",
+      "name": "NTD News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838285672383213568/nXIXaBrd_normal.jpg",
+      "description": "Your independent voice in TV news—bringing back reliable, honest news reporting.",
+      "followersCount": 86040,
+      "friendsCount": 82,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBskSmW0AAw0ad.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NTDNews/status/1891631220380909833",
+    "fullText": "Russian Foreign Minister Sergei Lavrov on Monday said the Kremlin is not weighing territorial concessions for Ukraine in negotiations to end the nearly three-year-long war. https://t.co/vspxzsQZho"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3295407,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891631217172414629",
+    "fullText": "Florida Lt. Gov. Jeanette Nunez has submitted her letter of resignation to Gov. Ron DeSantis, saying it was \"a privilege\" and \"the honor of a lifetime\" to serve in his administration. https://t.co/omv3DKGzso"
+  },
+  {
+    "user": {
+      "screenName": "ShouldHaveAnima",
+      "name": "why you should have an animal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889450399868002305/XCI1nITj_normal.jpg",
+      "description": "The Perfect account to show your parents when you want an animal 🦆",
+      "followersCount": 1631437,
+      "friendsCount": 43,
+      "location": "Dm For Credit "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891489794825265152/pu/vid/avc1/720x900/d22DsWH0Kk0FXC3m.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/ShouldHaveAnima/status/1891631212097098224",
+    "fullText": "Bird bathing - A splash of  fun! 💦🕊️ https://t.co/GjaqBrmK7f"
+  },
+  {
+    "user": {
+      "screenName": "catshealdeprsn",
+      "name": "contents that ll heal your depression 🌻",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889715174296465408/T4ihURlO_normal.jpg",
+      "description": "Best account to heal your anxiety or depression.",
+      "followersCount": 1062711,
+      "friendsCount": 29,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891534158478049281/pu/vid/avc1/720x900/Coh40ApW0noIxJzO.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/catshealdeprsn/status/1891631211661099520",
+    "fullText": "Aww poor baby 🥺 https://t.co/amMaRI4LZF"
+  },
+  {
+    "user": {
+      "screenName": "dajiyuan",
+      "name": "大纪元新闻网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1173608371594891265/ut-nIZmp_normal.jpg",
+      "description": "訂閱🍀乾淨世界: https://t.co/lgRui5zWD8 | 油管: https://t.co/i8Em7jeLia | 爆料: talkdjy@gmail.com | 支持大紀元: https://t.co/0CdJje0Sz8",
+      "followersCount": 269865,
+      "friendsCount": 218,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBsejwWgAAhyOi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dajiyuan/status/1891631118555795607",
+    "fullText": "突發🔥 達美航空客機在多倫多機場翻覆，15人受傷！\n\n📅 日期：2月17日\n📍 地點：加拿大多倫多皮爾遜國際機場\n\n🔹 事故概要\n✅ 飛機翻覆：達美航空從美國明尼阿波利斯飛往多倫多的航班，在降落時發生事故，機上80人已撤離。\n✅ 傷者情況：至少15人受傷，其中3人傷勢嚴重，包括一名兒童。\n✅ https://t.co/lZs0z7GWmt"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635583,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891631096799879200",
+    "fullText": "Japanese robo-adviser Folio is looking to go public as the SBI-backed startup zeros in on profitability in a market primed for expansion, CEO Shinichiro Kai said https://t.co/t368gpEp4n"
+  },
+  {
+    "user": {
+      "screenName": "RudyGiuliani",
+      "name": "Rudy W. Giuliani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1882513997557067776/6TywPyqc_normal.jpg",
+      "description": "Join us every weeknight at 7 pm ET for The Rudy Giuliani Show and at 8 pm ET for #AmericasMayorLive right here on X 🇺🇸",
+      "followersCount": 1868857,
+      "friendsCount": 1279,
+      "location": "Florida, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBsJW5W0AAkq0c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RudyGiuliani/status/1891630754406297823",
+    "fullText": "Happy Presidents Day! Reflecting on the leadership and vision of ⁦@POTUS⁩ . His unwavering commitment to our nation, continues to inspire all of us. Honored to have stood by his side in service to the American people. #presidentsday https://t.co/QlYPJ1xSkK"
+  },
+  {
+    "user": {
+      "screenName": "369Jessica369",
+      "name": "🌹MIDNIGHT🌹ROSE🌹",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1603627893665431554/ONGadbfC_normal.jpg",
+      "description": "life is meaningless~你赋予它意义~\nLife is a game ~认真别当真~\nLife is a dream~大梦醒来你是谁？\n地球是监狱星球~\n想要越狱的看我置顶推or\n搜我推元吾氏&古零~\n理性质疑~共同探讨~求同存异~\n\n❤主推觉醒信息、自然疗法~所言只代表我自己的观点~除非有标注❤",
+      "followersCount": 30506,
+      "friendsCount": 151,
+      "location": "Ontario, Canada"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891629264761499648/pu/vid/avc1/550x540/YVGqB1VfWeY3B1be.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/369Jessica369/status/1891630291766133191",
+    "fullText": "联邦调查局局长泰德·冈德森发表了令人震惊的言论：\n\n“这个国家每年有 5 万到 6 万人被活人献祭。\n\nFBI Chief Ted Gunderson made this startling statement:\n\n\"There are 50,000-60,000 human sacrifices per year in this country. https://t.co/kSmkbEe1BZ"
+  },
+  {
+    "user": {
+      "screenName": "dajiyuan",
+      "name": "大纪元新闻网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1173608371594891265/ut-nIZmp_normal.jpg",
+      "description": "訂閱🍀乾淨世界: https://t.co/lgRui5zWD8 | 油管: https://t.co/i8Em7jeLia | 爆料: talkdjy@gmail.com | 支持大紀元: https://t.co/0CdJje0Sz8",
+      "followersCount": 269865,
+      "friendsCount": 218,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBrqmYWIAENFgR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/dajiyuan/status/1891630225722626387",
+    "fullText": "ABC策略 Anything But China 成新趨勢 \n\n🔹 科技業「Anything But China」策略崛起\n✅ 供應鏈大遷移：企業不再僅選擇「中國+1」，而是徹底尋找替代方案。\n✅ 半導體業重組：美國**《芯片與科學法案》** 限制中國產能擴張，AI伺服器生產向越南、墨西哥轉移。\n✅ https://t.co/RalWuO7vjX"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25752695,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891630153098211345",
+    "fullText": "Presidential historian calls for end to 'silly' Presidents' Day, compares it to celebrating a king's birthday https://t.co/wcnN5b5hAH"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635583,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891630015575454161",
+    "fullText": "Donald Trump’s top economic adviser said he’ll meet regularly with Fed Chair Jay Powell to exchange views about the US economy, giving the president a channel to convey his opinions to the central bank. https://t.co/EpWtnBaOit"
+  },
+  {
+    "user": {
+      "screenName": "libsoftiktok",
+      "name": "Libs of TikTok",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
+      "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+      "followersCount": 4257771,
+      "friendsCount": 970,
+      "location": "Depths of Hell"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891628262679302144/pu/vid/avc1/720x1280/53o8diyAJlYXp2s0.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/libsoftiktok/status/1891629605754179852",
+    "fullText": "WILD footage shows passengers escaping the Delta plane which crashed and flipped over in Toronto today. \n\nMiraculously, there were no casualties.\nhttps://t.co/AbmSbRs13a"
+  },
+  {
+    "user": {
+      "screenName": "DiscoveryCSC",
+      "name": "Discovery Institute's Center for Science & Culture",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/908396538677698561/B2DOsoIA_normal.jpg",
+      "description": "Intellectual home of the modern intelligent design movement and the scientists and scholars challenging Darwin's theory of evolution on the basis of science.",
+      "followersCount": 19495,
+      "friendsCount": 285,
+      "location": "Seattle, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DiscoveryCSC/status/1891629498757759363",
+    "fullText": "What if American culture isn’t collapsing because of crusading secularists? What if it’s failing because some leading Christians identify more with secular elites than with their fellow believers?"
+  },
+  {
+    "user": {
+      "screenName": "VOAChinese",
+      "name": "美国之音中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+      "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/cW5eaWpefk",
+      "followersCount": 2594023,
+      "friendsCount": 168,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VOAChinese/status/1891629487508586606",
+    "fullText": "阿富汗塔利班代表团访问日本 https://t.co/X6Q21uWpKz"
+  },
+  {
+    "user": {
+      "screenName": "TheShortBear",
+      "name": "THE SHORT BEAR",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1610007787953700865/ZkDEq6uT_normal.jpg",
+      "description": "Contrarian stoic trader and long term investor | 2013 | drive: Philosophy & Psychology | Tweets are purely for entertainment purposes and not investment advice",
+      "followersCount": 135511,
+      "friendsCount": 468,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBqwpFWgAACHQC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheShortBear/status/1891629236084961664",
+    "fullText": "Who would believe that the USA is actually behind since the major post covid bear market? https://t.co/8tKwwZtWIT"
+  },
+  {
+    "user": {
+      "screenName": "EpochTimes",
+      "name": "The Epoch Times",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800634269942857729/YwhL97AV_normal.jpg",
+      "description": "Independent, award-winning reporting. Read on App: https://t.co/YmpowM2rWt | Watch: https://t.co/M1G2gEWhbY | Play: https://t.co/pDrVrN5o26 | Shop: https://t.co/k9I9kdhS3d",
+      "followersCount": 819535,
+      "friendsCount": 155,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/EpochTimes/status/1891629067092304237",
+    "fullText": "Four deputy mayors in New York City are resigning, the mayor’s office confirmed on Feb. 17.\n\nMaria Torres-Springer, first deputy mayor; Meera Joshi, deputy mayor for operations; Anne Williams-Isom, deputy mayor for health and human services;  and Chauncey Parker,  deputy mayor"
+  },
+  {
+    "user": {
+      "screenName": "Morris_LT",
+      "name": "Morris",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+      "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！ \n购买 #Bitcoin 或 #Đogecoin 链接：https://t.co/rpBpnKphtr",
+      "followersCount": 136679,
+      "friendsCount": 377,
+      "location": "𝕏Ɖ"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Morris_LT/status/1891629043650330690",
+    "fullText": "我想告诉你我喜欢你，并不是一定要和你在一起，只是希望今后的你，在遭遇人生低谷的时候，不要灰心，至少曾经有人被你的魅力所吸引，曾经是，以后也会是，如果说喜欢是想占有的偏执，爱就是想触碰，却有收回手的克制，我并不奢望有一天，能站在你的身边，我只是想让你知道，你的光芒，曾经照亮过我。"
+  },
+  {
+    "user": {
+      "screenName": "Andercot",
+      "name": "Andrew Côté",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1805893620832288768/vgwGHkvb_normal.jpg",
+      "description": "engineering physicist. writes about deep tech, energy, physics, sci-fi and whatever. founder @hyperstition_x",
+      "followersCount": 94521,
+      "friendsCount": 1328,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Andercot/status/1891628934476812351",
+    "fullText": "Life is a gift. Every moment of every day matters. Every thought counts. Your time is not free, its the only thing of value you have. Spend it well."
+  },
+  {
+    "user": {
+      "screenName": "SprinterObserve",
+      "name": "Sprinter Observer",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
+      "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
+      "followersCount": 608973,
+      "friendsCount": 580,
+      "location": " 💞💞💞"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBqVstWUAAUw3p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SprinterObserve/status/1891628767807668643",
+    "fullText": "Loooollll https://t.co/NVNk89MPVL"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092868,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891628740771205466",
+    "fullText": "Paquita La Del Barrio dies: Famed Mexican songstress dead at 77 https://t.co/5NXP3FyDbk"
+  },
+  {
+    "user": {
+      "screenName": "NTDNews",
+      "name": "NTD News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838285672383213568/nXIXaBrd_normal.jpg",
+      "description": "Your independent voice in TV news—bringing back reliable, honest news reporting.",
+      "followersCount": 86040,
+      "friendsCount": 82,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NTDNews/status/1891628694839443803",
+    "fullText": "A woman who filed a civil suit against New York-based Shen Yun Performing Arts alleging labor-related offenses is now facing two lawsuits for defamation and privacy violations.\n\nhttps://t.co/bXihsTlRSN"
+  },
+  {
+    "user": {
+      "screenName": "CollinRugg",
+      "name": "Collin Rugg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1325087660428447746/4DL2iq76_normal.jpg",
+      "description": "Co-Owner of Trending Politics | Investor | American 🇺🇸",
+      "followersCount": 1758104,
+      "friendsCount": 619,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891628262679302144/pu/vid/avc1/720x1280/53o8diyAJlYXp2s0.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/CollinRugg/status/1891628534181003570",
+    "fullText": "NEW: New footage shows passengers walking on the ceiling to escape the Delta jet that crashed in Toronto, Canada.\n\n\"Don't take a video. Put that phone away,\" a flight attendant could be heard saying.\n\nHere is what we know so far: \n\n- 15 people including a child were injured, at https://t.co/7FHt16WP2Q"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25752695,
       "friendsCount": 263,
       "location": "U.S.A."
     },
@@ -20,7 +567,7 @@
       "name": "The Epoch Times",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800634269942857729/YwhL97AV_normal.jpg",
       "description": "Independent, award-winning reporting. Read on App: https://t.co/YmpowM2rWt | Watch: https://t.co/M1G2gEWhbY | Play: https://t.co/pDrVrN5o26 | Shop: https://t.co/k9I9kdhS3d",
-      "followersCount": 819534,
+      "followersCount": 819535,
       "friendsCount": 155,
       "location": "New York, USA"
     },
@@ -37,7 +584,7 @@
       "name": "Ramit Sethi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1206157346721787906/Y4m8RGDd_normal.jpg",
       "description": "Host of @netflix \"How to Get Rich\" & the Money For Couples podcast. Get my new book, Money for Couples  👉🏾 https://t.co/nPJyI0RAPr",
-      "followersCount": 291436,
+      "followersCount": 291437,
       "friendsCount": 775,
       "location": "Los Angeles / NYC"
     },
@@ -55,7 +602,7 @@
       "name": "NEWSMAX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
       "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
-      "followersCount": 3295348,
+      "followersCount": 3295407,
       "friendsCount": 781,
       "location": "United States"
     },
@@ -70,7 +617,7 @@
       "name": "美国之音中文网",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
       "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/cW5eaWpefk",
-      "followersCount": 2594003,
+      "followersCount": 2594023,
       "friendsCount": 168,
       "location": "Washington, DC"
     },
@@ -124,7 +671,7 @@
       "name": "Clown World ™ 🤡",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1884972270076276736/pzgDTZDF_normal.jpg",
       "description": "Official #ClownWorld ™ 🤡 #NoCaptionNeeded ** DM us for removals/credit",
-      "followersCount": 2981899,
+      "followersCount": 2981944,
       "friendsCount": 935,
       "location": "DM Submissions 📧 "
     },
@@ -141,7 +688,7 @@
       "name": "Nancy Mace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1815708211623690241/qaIBKK0Y_normal.jpg",
       "description": "Mom. Citadel Grad. Fmr Waffle House Waitress. Congresswoman Representing South Carolina. Endorsed by Donald Trump. REAL WOMAN",
-      "followersCount": 487255,
+      "followersCount": 487266,
       "friendsCount": 2928,
       "location": "Charleston, SC"
     },
@@ -156,7 +703,7 @@
       "name": "cats with jobs 🛠",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1531787315852492800/f9XuxbM5_normal.jpg",
       "description": "Good cats being workers • Unionized • 🦋 also on Bsky! https://t.co/LbO1xs7f1k • Buy me a coffee (link below)!",
-      "followersCount": 2101678,
+      "followersCount": 2101679,
       "friendsCount": 287,
       "location": "United Kingdom"
     },
@@ -173,7 +720,7 @@
       "name": "Sprinter Observer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
       "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
-      "followersCount": 608972,
+      "followersCount": 608973,
       "friendsCount": 580,
       "location": " 💞💞💞"
     },
@@ -190,7 +737,7 @@
       "name": "The Goddess",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1876429659476213761/EQdUW7IX_normal.jpg",
       "description": "Posting cool and old viral content... About me? A lady who loves to wear red...",
-      "followersCount": 1162935,
+      "followersCount": 1162933,
       "friendsCount": 1,
       "location": "Manhattan, NY"
     },
@@ -207,7 +754,7 @@
       "name": "Fox News",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
       "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
-      "followersCount": 25752559,
+      "followersCount": 25752695,
       "friendsCount": 263,
       "location": "U.S.A."
     },
@@ -222,7 +769,7 @@
       "name": "The Epoch Times",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800634269942857729/YwhL97AV_normal.jpg",
       "description": "Independent, award-winning reporting. Read on App: https://t.co/YmpowM2rWt | Watch: https://t.co/M1G2gEWhbY | Play: https://t.co/pDrVrN5o26 | Shop: https://t.co/k9I9kdhS3d",
-      "followersCount": 819534,
+      "followersCount": 819535,
       "friendsCount": 155,
       "location": "New York, USA"
     },
@@ -237,7 +784,7 @@
       "name": "NEWSMAX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
       "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
-      "followersCount": 3295348,
+      "followersCount": 3295407,
       "friendsCount": 781,
       "location": "United States"
     },
@@ -254,7 +801,7 @@
       "name": "Sprinter Observer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
       "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
-      "followersCount": 608972,
+      "followersCount": 608973,
       "friendsCount": 580,
       "location": " 💞💞💞"
     },
@@ -271,7 +818,7 @@
       "name": "BBC News (World)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
       "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
-      "followersCount": 41257219,
+      "followersCount": 41257275,
       "friendsCount": 17,
       "location": "London, UK"
     },
@@ -286,7 +833,7 @@
       "name": "Sprinter Observer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
       "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
-      "followersCount": 608972,
+      "followersCount": 608973,
       "friendsCount": 580,
       "location": " 💞💞💞"
     },
@@ -318,7 +865,7 @@
       "name": "Sprinter Observer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1879881955560284161/q_ax0t86_normal.jpg",
       "description": "Info's,geopolitics,war themes,daily events|| Newsroom who serves the most news in one place||\nDonate- https://t.co/RZqoovfwPx",
-      "followersCount": 608972,
+      "followersCount": 608973,
       "friendsCount": 580,
       "location": " 💞💞💞"
     },
@@ -4582,7 +5129,7 @@
       "name": "Libs of TikTok",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
       "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
-      "followersCount": 4257684,
+      "followersCount": 4257771,
       "friendsCount": 970,
       "location": "Depths of Hell"
     },
@@ -5091,6 +5638,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/SprinterObserve/status/1891579893952962732",
     "fullText": "Israeli Ambassador to the US:\n\nEgypt is seriously violating the peace agreement by building offensive military facilities in Sinai. https://t.co/858yxbKOJD"
+  },
+  {
+    "user": {
+      "screenName": "daluoseo",
+      "name": "大罗SEO",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1525878195928432640/e-qWbspN_normal.jpg",
+      "description": "SEO专家 | 提供SEO咨询，优化服务以及高权重外链 |  油管: 大罗SEO",
+      "followersCount": 7335,
+      "friendsCount": 1109,
+      "location": "Vancouver,BC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/daluoseo/status/1891579680446095775",
+    "fullText": "一个人在职业上能达到什么样的成就，其实是看在指令模糊的时候是否能够做出正确的安排。\n\n我有一个员工，人还算聪明，交给做的事情基本上都能按期完成，我一直想提拔他做个leader，培养一下，可是他每次都会在关键时刻少做一步："
   },
   {
     "user": {

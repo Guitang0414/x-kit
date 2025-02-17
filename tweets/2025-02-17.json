@@ -1,11 +1,686 @@
 [
   {
     "user": {
+      "screenName": "spectatorindex",
+      "name": "The Spectator Index",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1145865652533547008/XBahoZmX_normal.png",
+      "description": "News, media and data from around the globe. Covering politics, economics, science, tech and sport.",
+      "followersCount": 2917913,
+      "friendsCount": 0,
+      "location": "Global"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/spectatorindex/status/1891404195443413141",
+    "fullText": "BREAKING: Sweden's foreign minister says the country will not rule out sending peacekeeping forces to Ukraine"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634906,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891404131350290826",
+    "fullText": "Switzerland’s economy picked up pace more than economists forecast at the end of 2024, supported by momentum in both manufacturing and services https://t.co/3D2XlSeLsp"
+  },
+  {
+    "user": {
+      "screenName": "jdahdljsda",
+      "name": "Wendell会Ai么",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889924298078638080/8o_u7YGa_normal.jpg",
+      "description": "👩‍🎓 大一亏百万投资｜ 在美出海产品｜aigc 一个正在做AI智能硬件的桃子🍑爱好者",
+      "followersCount": 493,
+      "friendsCount": 751,
+      "location": "USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jdahdljsda/status/1891403552272142767",
+    "fullText": "普通人搞身份没有什么用\n\n把北上深房产贱卖给伦敦郊区华人中介，转头在里斯本贫民区买溢价40%的”黄金签证房”，还自诩”国际资产配置”，这种跨国接盘行为堪比用爱马仕丝巾上吊。\n\n搞什么不如搞钱"
+  },
+  {
+    "user": {
+      "screenName": "Barchart",
+      "name": "Barchart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/896104027179687936/vc5zkLpM_normal.jpg",
+      "description": "Financial Markets | Trading & Investing Tools | Charting | Stocks | Options | Futures | Commodities | Forex | News | & Much More",
+      "followersCount": 277976,
+      "friendsCount": 571,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-dNHxWcAAcjYS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Barchart/status/1891403280116252827",
+    "fullText": "STOCK MARKET WARNING 🚨: 60% of bearish signals have been triggered according to Bank of America.  When 70% are triggered, a stock market peak soon follows 👀 https://t.co/iFCGuaW8Ft"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41254258,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/1891402968244650111",
+    "fullText": "Illegal and unseen: Nine surprising facts about Indians in the US https://t.co/kv6c317zBA"
+  },
+  {
+    "user": {
+      "screenName": "HowThingsWork_",
+      "name": "HOW THINGS WORK",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1592626494546796545/YxyPborr_normal.jpg",
+      "description": "The Official How Things Work page including Tech, AI & loads more. Also all the best News & Viral content from around the globe.",
+      "followersCount": 2240445,
+      "friendsCount": 7569,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891402729760960512/pu/vid/avc1/720x1280/tPF68Ufq0xocm4Pg.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/HowThingsWork_/status/1891402798689874157",
+    "fullText": "Amazing eyesight! https://t.co/hDTk72O4Rs"
+  },
+  {
+    "user": {
+      "screenName": "Enezator",
+      "name": "Enezator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850158755419471872/aUQrYE8w_normal.jpg",
+      "description": "Positive video content. | 𝕏 best ranking 100 | DM for promotion",
+      "followersCount": 1168625,
+      "friendsCount": 69,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891391655888011264/pu/vid/avc1/720x1280/gh2gNEGOhQfZVodJ.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Enezator/status/1891402202780172563",
+    "fullText": "Touching moments proving the boundless love between humans and animals https://t.co/Kn3HQbWEyr"
+  },
+  {
+    "user": {
+      "screenName": "Freda8991",
+      "name": "Freda",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1684396613450731522/Iyhp7ppN_normal.jpg",
+      "description": "人无坚固之心道岂违人之愿",
+      "followersCount": 11802,
+      "friendsCount": 1411,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891401980947689472/vid/avc1/638x360/HUNQP1lnW9YGOYSf.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Freda8991/status/1891402057103409472",
+    "fullText": "https://t.co/33AXSGPn5E\n\n想七哥了🙏\n【北国之春】（日语新版）\n作词：不知道哪个淘气鬼😂\n作曲：旧版原班人马\n演唱：郭文贵先生\n视频：待命文晓\n该版【北国之春】\n最具特色的制作创意在于：\n1、搞笑喜庆😀\n2、不懂日语的都听得懂，懂日语的都听不懂😃😃 https://t.co/sABLjw4MAz"
+  },
+  {
+    "user": {
+      "screenName": "RFI_Cn",
+      "name": "RFI 华语 - 法国国际广播电台",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/875657284554113025/eSlvV5zv_normal.jpg",
+      "description": "法广RFI 中文通过多媒体互联网直播、播客、繁、简版文字、视频及社交平台全方位推出法国国内国外新闻时事、政治、经济文化专栏与专题节目。\n全球各地可以登陆\nhttps://t.co/DEERPt9y9B\n进入RFI中文网关注我们。\n🌍 https://t.co/MmsmrJmXnK",
+      "followersCount": 1216055,
+      "friendsCount": 88,
+      "location": "法国 巴黎"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-cGPIaoAAAPeL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RFI_Cn/status/1891402000958677307",
+    "fullText": "断财源：香港记协筹款聚餐又因场地被迫取消而延期 https://t.co/f3ZPakPyZx https://t.co/yu8SkINdCv"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634906,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891401973682909471",
+    "fullText": "Europe needs to rapidly ramp up defense spending to address Russia’s invasion in Ukraine, said Lithuanian Defense Minister Dovile Sakaliene https://t.co/ZDHS4cc2T0"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
+      "description": "",
+      "followersCount": 217972158,
+      "friendsCount": 1037,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/1891401201993793677",
+    "fullText": "I am endlessly amused by the infinite indignities I suffer on the very platform that I own"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092535,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891400991724961993",
+    "fullText": "Adam Sandler sings a tribute to Lorne Michaels in sweet 'SNL50' sketch https://t.co/xyLfkbls9r"
+  },
+  {
+    "user": {
+      "screenName": "Barchart",
+      "name": "Barchart",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/896104027179687936/vc5zkLpM_normal.jpg",
+      "description": "Financial Markets | Trading & Investing Tools | Charting | Stocks | Options | Futures | Commodities | Forex | News | & Much More",
+      "followersCount": 277976,
+      "friendsCount": 571,
+      "location": "Chicago, IL"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-aIcfXQAAqm_-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Barchart/status/1891399893882720473",
+    "fullText": "Total Put/Call Ratio had its 2nd lowest weekly close in the last 4 years 👀 https://t.co/LktpLowxAR"
+  },
+  {
+    "user": {
+      "screenName": "Lucast168",
+      "name": "Lucas",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1802901850557218817/7yXZFr3p_normal.jpg",
+      "description": "OORT华语负责人｜@OORTech 是一个去中心化、可验证的云计算平台，利用从数据中心到智能手机的全球资源，旨在为人类提供值得信赖的人工智能应用。｜https://t.co/evsjKkOjxD",
+      "followersCount": 64803,
+      "friendsCount": 3598,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-aJbIa8AAdTx7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Lucast168/status/1891399869597663570",
+    "fullText": "OORT GM🌞 https://t.co/Uk6dFrJzYM"
+  },
+  {
+    "user": {
+      "screenName": "RFA_Chinese",
+      "name": "自由亚洲电台",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1483174230644645898/dY1oXWhO_normal.jpg",
+      "description": "提供准确及时的新闻资讯以及评论，为多元意见及声音提供平台。RT≠Endorsement",
+      "followersCount": 1694453,
+      "friendsCount": 3622,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-Z7dAacAAdjJY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RFA_Chinese/status/1891399660671316234",
+    "fullText": "【哈萨克维权者加纳提病情恶化】\n【十个脚趾面临截肢 家人心急如焚】\n哈萨克斯坦公民加纳提·解恩斯（Zhengis https://t.co/myndv0wP31"
+  },
+  {
+    "user": {
+      "screenName": "xiaomucrypto",
+      "name": "川沐｜Trumoo🐮",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+      "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+      "followersCount": 124883,
+      "friendsCount": 622,
+      "location": "萨尔瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-ZpmnbsAADlCw.jpg",
+      "https://pbs.twimg.com/media/Gj-ZpmrbkAAqMPq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiaomucrypto/status/1891399321758654888",
+    "fullText": "格力废了，被王自如舔死了. https://t.co/FpSbDzMixV"
+  },
+  {
+    "user": {
+      "screenName": "TaraBull808",
+      "name": "TaraBull",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1575977223797952512/lDUcgkJy_normal.jpg",
+      "description": "#SpacesHost | Truth Slayer | ↗️ I follow all Subscribers • Let's end the establishment media • ʟɪꜱᴛᴇɴ ᴡɪᴛʜ ᴄᴜʀɪᴏꜱɪᴛʏ. ꜱᴘᴇᴀᴋ ᴡɪᴛʜ ʜᴏɴᴇꜱᴛʏ. ᴀᴄᴛ ᴡɪᴛʜ ɪɴᴛᴇɢʀɪᴛʏ.",
+      "followersCount": 1155044,
+      "friendsCount": 22969,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891377060766978048/pu/vid/avc1/720x1280/1lYO7gtuXHWYyvGO.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/TaraBull808/status/1891398047852011630",
+    "fullText": "Jerry Seinfeld to a fan “I don’t care about Palestine”  https://t.co/IOEqgQlM1J"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41254258,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/1891397948157603848",
+    "fullText": "Singapore opposition leader found guilty of lying to parliament https://t.co/zPbYgzEP6R"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634906,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891397946945458638",
+    "fullText": "Political risk is still at the forefront but light is at the end of the tunnel — unless of course it's an oncoming Trump train, writes @marcusashworth https://t.co/wDUJ8Xu1hW via @opinion"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634906,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891397944139473272",
+    "fullText": "Big booze shouldn't cheers the end of Dry January just yet, @AndreaFelsted writes https://t.co/ds7hy5bDX0 via @opinion"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634906,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891397939710321056",
+    "fullText": "Microsoft recently published research showing an erosion of critical-thinking skills among workers using generative AI tools such as ChatGPT. Its business model needs to convince companies its products enhance, rather than replace, worker output, writes @parmy"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634906,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891397938347159666",
+    "fullText": "JD Vance's bombshell speech in Munich culminated a week of US moves that will change European security for good, but not for the better, write @MarcChampion1 https://t.co/XaTUK1L8d5 via @opinion"
+  },
+  {
+    "user": {
+      "screenName": "buitengebieden",
+      "name": "Buitengebieden",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1130022182971760640/FlbICzEn_normal.jpg",
+      "description": "The official positive side of 𝕏. I’m Sander from the Netherlands. All copyrights belong to their respective owners! DM for credits/removal/submission!",
+      "followersCount": 2822022,
+      "friendsCount": 79,
+      "location": "Nederland"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891397385550544896/vid/avc1/720x720/-o4S4776rEex6cRC.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/buitengebieden/status/1891397436318331249",
+    "fullText": "The face says it all.. 😅 https://t.co/uZ4eFmQqGH"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092535,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891397267552080228",
+    "fullText": "Who won the 2025 Genesis Invitational? Results, scoreboard from tournament https://t.co/gT9sqPMl7W"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634906,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891397206776721876",
+    "fullText": "European natural gas prices fell further on Monday as easing sentiment takes hold of the market after a rocky start to 2025 https://t.co/HXwBBfBHhf"
+  },
+  {
+    "user": {
+      "screenName": "autocar",
+      "name": "Autocar",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1875114960012931072/W3taHMRH_normal.jpg",
+      "description": "The original car magazine, since 1895",
+      "followersCount": 258683,
+      "friendsCount": 700,
+      "location": "UK"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-XuDiXcAAVLQt.jpg",
+      "https://pbs.twimg.com/media/Gj-XuRJXsAAELuY.jpg",
+      "https://pbs.twimg.com/media/Gj-XuehW8AAk5UG.jpg",
+      "https://pbs.twimg.com/media/Gj-XutVXkAAKTAS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/autocar/status/1891397200208355537",
+    "fullText": "Meet BMW's quad-motor, ground-sucking EV mule that will influence the electric M3: the Vision Driving Experience ⚡ We go for a ride https://t.co/gW7DjT6LXO https://t.co/OZJ8lCokxU"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3294201,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891397190435967207",
+    "fullText": "Steve Witkoff, Middle East envoy to President Donald Trump, met with Russian President Vladimir Putin in Russia earlier this week. https://t.co/NvyKbOqtKE"
+  },
+  {
+    "user": {
+      "screenName": "Enezator",
+      "name": "Enezator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850158755419471872/aUQrYE8w_normal.jpg",
+      "description": "Positive video content. | 𝕏 best ranking 100 | DM for promotion",
+      "followersCount": 1168625,
+      "friendsCount": 69,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891389840429600768/pu/vid/avc1/720x1280/-kxqkCw1jJKg9VGJ.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Enezator/status/1891397170441396684",
+    "fullText": "Can’t catch it https://t.co/jCbfuIujOl"
+  },
+  {
+    "user": {
+      "screenName": "Freda8991",
+      "name": "Freda",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1684396613450731522/Iyhp7ppN_normal.jpg",
+      "description": "人无坚固之心道岂违人之愿",
+      "followersCount": 11802,
+      "friendsCount": 1411,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891396422140063744/vid/avc1/416x448/zS7QPmYhqBypnaI0.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/Freda8991/status/1891396516780072981",
+    "fullText": "去医院可要看清楚🧐\n最好携带不打苗声明\n不然会被糊涂签字后打苗 https://t.co/7GuK7O73rt"
+  },
+  {
+    "user": {
+      "screenName": "myfxtrader",
+      "name": "外汇交易员",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1230373331724947458/8LlXOtfV_normal.jpg",
+      "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+      "followersCount": 330824,
+      "friendsCount": 466,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/myfxtrader/status/1891395791044091963",
+    "fullText": "塔斯社周一报道，俄罗斯主要产粮区罗斯托夫州副州长兼农业部长Konstantin Rachalovsky已被执法部门拘留，被指控越权行为导致近1.56亿卢布损失。俄新社援引当地联邦安全局称，该资金属于农业企业国家补贴计划。"
+  },
+  {
+    "user": {
+      "screenName": "yanbojack",
+      "name": "杰克船长宏观策略（小红书）",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1566441302287593473/-PWs9wxL_normal.jpg",
+      "description": "美港A股基金经理&宏观研究员，做宏观策略，量化。香港新加坡证券、前国内top10公募基金。爆料、合作发私信～ （郑重声明：本账号发布的所有内容严禁在中国互联网转播，所有内容均不构成投资建议）",
+      "followersCount": 109698,
+      "friendsCount": 98,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/yanbojack/status/1891395397618483293",
+    "fullText": "《逐帧学习》一、时间线005~008全部一排企业家镜头：左起：曾毓群、马云、冷友斌(飞鹤)、南存辉(正泰)、王兴兴、刘永好、任正非、王传福、虞仁荣(韦尔)、雷军、齐向东(奇安信)\n010~012任正非讲话镜头(刘永好、王传福入镜，虞仁荣名牌入镜）\n012~014王传福讲话镜头(虞仁荣入镜，雷军名牌入镜）"
+  },
+  {
+    "user": {
+      "screenName": "dajiyuan",
+      "name": "大纪元新闻网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1173608371594891265/ut-nIZmp_normal.jpg",
+      "description": "訂閱🍀乾淨世界: https://t.co/lgRui5zWD8 | 油管: https://t.co/i8Em7jeLia | 爆料: talkdjy@gmail.com | 支持大紀元: https://t.co/0CdJje0Sz8",
+      "followersCount": 269854,
+      "friendsCount": 218,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891394395389444096/pu/vid/avc1/1280x720/kTa9Ga58azXw-k7E.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/dajiyuan/status/1891395292529840511",
+    "fullText": "美教育部：取消DEI項目 否則停撥資金 https://t.co/BE7PSeGg2w"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634906,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891395210896200059",
+    "fullText": "The board of healthcare landlord Assura has rejected a £1.56 billion takeover offer by funds managed by KKR and the Universities Superannuation Scheme https://t.co/Xuvl2qd5WT"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
+      "description": "",
+      "followersCount": 217972158,
+      "friendsCount": 1037,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/1891395045997134317",
+    "fullText": "https://t.co/ehgqiEGXub"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9634906,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891394320776708209",
+    "fullText": "Several veteran staffers of Singapore Exchange are leaving as the bourse tries to revive its flagging equities business, sources say https://t.co/tTeje9LYku"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41254258,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/1891393668382183598",
+    "fullText": "Trump makes first Supreme Court appeal in test of power to fire officials https://t.co/ijIy18RbOH"
+  },
+  {
+    "user": {
+      "screenName": "2022Rrzt",
+      "name": "腓利-光和盐RRZT-2022",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1798611224525254656/Zica9IiB_normal.jpg",
+      "description": "行公义，好怜悯，存谦卑的心与主耶稣同行。",
+      "followersCount": 3943,
+      "friendsCount": 314,
+      "location": "California, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-UD32a8AAoLe4.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891393162796793856/vid/avc1/1920x1080/JDZYiYK54ToG9QAC.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/2022Rrzt/status/1891393487150731455",
+    "fullText": "上周日台湾著名艺人黄国伦和夫人寇乃馨来我们教会有一场福音布道会，主题是《没有不可能》。黄国伦是著名的流行乐男歌手、词曲作者、音乐制作人、主持人、评委、演说家。音乐作品有《我愿意》、《男人不该让女人流泪》、《味道》、《眼泪》、《不要对他说》、《袖手旁观》及张学友的《雪狼湖》中主题曲 https://t.co/fkC2v8cXLx"
+  },
+  {
+    "user": {
+      "screenName": "Enezator",
+      "name": "Enezator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1850158755419471872/aUQrYE8w_normal.jpg",
+      "description": "Positive video content. | 𝕏 best ranking 100 | DM for promotion",
+      "followersCount": 1168625,
+      "friendsCount": 69,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891389423066968064/pu/vid/avc1/720x1280/z1YeBdBFBecAlJiS.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/Enezator/status/1891393394842214797",
+    "fullText": "Giving Signal from 3000meter Underground toward the surface of earth -Pulling mine train trolleylnsearch of gold and gems https://t.co/iikPLIkWK8"
+  },
+  {
+    "user": {
+      "screenName": "0xUnicorn",
+      "name": "UNICORN🦄️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891340630481362944/QszHAIJm_normal.jpg",
+      "description": "一切有为法，如梦幻泡影；应无所住，而生其心。🦋📈🌙 微信Unicorneth #BTC #DeFi #SOL #UNI #PENDLE #MORPHO #OKX 一站式WEB3/加密入口",
+      "followersCount": 121261,
+      "friendsCount": 2306,
+      "location": "BITCOIN"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/Gj-TsqobYAA-LXK.jpg",
+      "https://pbs.twimg.com/media/Gj-TsqpacAA78Z7.jpg",
+      "https://pbs.twimg.com/media/Gj-TsrOawAA6iIo.jpg",
+      "https://pbs.twimg.com/media/Gj-TsqoaAAAD5n4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xUnicorn/status/1891392772738867212",
+    "fullText": "用 OKX @wallet 时一些我觉得能更好用的点\n都提给了 @Mercy_okx \n然后 OKX 产品那边在一条条落实上线\n有一种量身定制的爽感\n越来越好 https://t.co/MGJCSHa7n2"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092535,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891392178749841916",
+    "fullText": "'Domingo' sketch makes 'SNL50' cut (with Sabrina Carpenter) https://t.co/JUE2MzCW3x"
+  },
+  {
+    "user": {
+      "screenName": "VOAChinese",
+      "name": "美国之音中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+      "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/cW5eaWpefk",
+      "followersCount": 2593481,
+      "friendsCount": 168,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VOAChinese/status/1891391929444896879",
+    "fullText": "俄罗斯人冒着遭报复的风险 在纳瓦尔尼逝世周年之际前往墓地致意 https://t.co/NurMAwlXSo"
+  },
+  {
+    "user": {
+      "screenName": "AlexChe31659937",
+      "name": "Alex Chen",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1506725296757776390/py741WoS_normal.jpg",
+      "description": "从纽约看世界，提供价值和底层逻辑。欢迎“订阅油管字幕频道：纽约二少爷 https://t.co/P11TSGO90z ”           如果你也有油管频道请告知。",
+      "followersCount": 84856,
+      "friendsCount": 16852,
+      "location": "Queens, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AlexChe31659937/status/1891391802483073400",
+    "fullText": "马斯克与知名财经博客Zerohedge在X上互动，Zerohedge：“如果能去诺克斯堡看看，确保那4580吨黄金真的在那里就太好了，毕竟上次核查还是在1974年。”马斯克：“至少每年都要审查一次吧？”肯塔基州共和党参议员兰德·保罗也公开表示支持对美国黄金储备进行独立审计。"
+  },
+  {
+    "user": {
       "screenName": "ShouldHaveCat",
       "name": "Why you should have a cat",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1365068242918780928/m278bxAZ_normal.jpg",
       "description": "The perfect account to show to your parents when you want a cat 😺❤ @FoundationOfWen",
-      "followersCount": 4172381,
+      "followersCount": 4172446,
       "friendsCount": 250,
       "location": "USA"
     },
@@ -22,7 +697,7 @@
       "name": "小弟调调",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/764536725750165504/DFOYV1w3_normal.jpg",
       "description": "Programmer, Swift, React, Node.js, and Web development.\nhttps://t.co/cIXVfRkQ5D",
-      "followersCount": 7214,
+      "followersCount": 7211,
       "friendsCount": 500,
       "location": ""
     },
@@ -39,7 +714,7 @@
       "name": "non aesthetic things",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/989513875124117504/UNMIb20k_normal.jpg",
       "description": "viral media from around the world",
-      "followersCount": 4470118,
+      "followersCount": 4470055,
       "friendsCount": 567,
       "location": ""
     },
@@ -56,7 +731,7 @@
       "name": "徐晓冬 北京格斗狂人",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1145934103428026369/ROVwf2E6_normal.jpg",
       "description": "徐晓冬Paypal收款账号：1979111533@sohu.com Paypal链接：https://t.co/TYViviCtnJ",
-      "followersCount": 456900,
+      "followersCount": 456914,
       "friendsCount": 14,
       "location": "Beijing"
     },
@@ -1426,7 +2101,7 @@
       "name": "Nikki Siapno",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1614543077619953664/822_Gqfy_normal.jpg",
       "description": "Engineering Manager at @Canva | Co-Founder of Level Up Coding",
-      "followersCount": 161531,
+      "followersCount": 161536,
       "friendsCount": 301,
       "location": "Level Up Coding Newsletter →"
     },
@@ -4344,6 +5019,23 @@
   },
   {
     "user": {
+      "screenName": "libsoftiktok",
+      "name": "Libs of TikTok",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1489097242321428482/sQSUN_M6_normal.jpg",
+      "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+      "followersCount": 4254308,
+      "friendsCount": 970,
+      "location": "Depths of Hell"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891307612009832448/vid/avc1/576x1024/HQtxdzR55PxvlR1M.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/libsoftiktok/status/1891307729144217919",
+    "fullText": "Tiktoker calls for Elon and Trump to be  assassinated @FBI @SecretService https://t.co/41LqPZD1d8"
+  },
+  {
+    "user": {
       "screenName": "yihong0618",
       "name": "yihong0618",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
@@ -4894,6 +5586,21 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 44509,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1891085485143195830",
+    "fullText": "🚨Travel Effortlessly with This Must-Have Tote!\nhttps://t.co/RrDfNaQJaS"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
       "followersCount": 44507,
       "friendsCount": 0,
       "location": ""
@@ -4917,6 +5624,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/NordaceOfficial/status/1891085485038334306",
     "fullText": "🚨Travel Effortlessly with This Must-Have Tote!\nhttps://t.co/RrDfNaQJaS"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 44509,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1891085484987978039",
+    "fullText": "✨ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS"
   },
   {
     "user": {
@@ -5139,7 +5861,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44507,
+      "followersCount": 44509,
       "friendsCount": 0,
       "location": ""
     },
@@ -5437,6 +6159,23 @@
   },
   {
     "user": {
+      "screenName": "hu_lalalalala",
+      "name": "出埃及记",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1064878017300770816/bvhJ9wpp_normal.jpg",
+      "description": "",
+      "followersCount": 156899,
+      "friendsCount": 1098,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1890929963710418944/pu/vid/avc1/522x928/Kat2_piPw96oON6m.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/hu_lalalalala/status/1890930060053352676",
+    "fullText": "一群废物。 https://t.co/qKlHU0e9Nq"
+  },
+  {
+    "user": {
       "screenName": "LeeMmai",
       "name": "李麦麦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1863951770080428032/5qM3fGRx_normal.jpg",
@@ -5582,7 +6321,7 @@
       "name": "Nordace",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
       "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
-      "followersCount": 44506,
+      "followersCount": 44509,
       "friendsCount": 0,
       "location": ""
     },

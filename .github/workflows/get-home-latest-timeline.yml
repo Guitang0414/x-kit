@@ -9,10 +9,17 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout daily-posts branch
+        uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # 使用你设置的 secret
-          
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: daily-posts # 检出 daily-posts 分支
+    
+      - name: Rebase daily-posts with main
+        run: |
+          git fetch origin main
+          git rebase origin/main || (git rebase --abort && exit 1)
+            
       - name: Setup Git
         run: |
           git config --global user.name 'GitHub Actions Bot'
@@ -31,8 +38,9 @@ jobs:
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
         run: bun run scripts/fetch-tweets.ts
         
-      - name: Commit and push changes
+      - name: Commit and push changes to daily-posts branch
         run: |
+          git checkout -B daily-posts
           git add .
           git commit -m "chore: update user data [skip ci]" || exit 0
-          git push
+          git push origin daily-posts

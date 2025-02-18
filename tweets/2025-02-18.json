@@ -1,6 +1,681 @@
 [
   {
     "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3295723,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891681192472424511",
+    "fullText": "Costa Rica is set to receive 200 migrants deported from the United States.  https://t.co/J0iMyGm4Mq"
+  },
+  {
+    "user": {
+      "screenName": "web3annie",
+      "name": "Annie 所长",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1796174214019375105/eJs3-ze1_normal.jpg",
+      "description": "NFT 研究所所长 | Meme 研究所 ➜ @memewizd | 🇨🇳 🇺🇸 同声传译 | ✍️ 内容创作者 |🎙Web3 双语主持 | 观点不作为投资建议且具有时效性 | https://t.co/m2WSZ5B0ze",
+      "followersCount": 17422,
+      "friendsCount": 5188,
+      "location": "财富密码交流 💰➡️"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891681076462198784/pu/vid/avc1/720x1280/70pN1zV4dAAhOpgw.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/web3annie/status/1891681160901865972",
+    "fullText": "今日 NFT 信息差：由 @Mint_Blockchain 品牌支持！\n\n1. 今日金句：我没有推广，只是分享！阿根廷总统米莱不要脸发言惹众怒，甩锅赌场没有眼泪，都是你们交易技巧问题 🤣\n\n2. 然后米莱又转发购买 $Libra 教程！暴涨翻倍后，又暴跌到原点，XX @XXAntiWar 被二次收割，共计亏损 $2.7m\n\n3. https://t.co/MQDOeo0cuP"
+  },
+  {
+    "user": {
+      "screenName": "dajiyuan",
+      "name": "大纪元新闻网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1173608371594891265/ut-nIZmp_normal.jpg",
+      "description": "訂閱🍀乾淨世界: https://t.co/lgRui5zWD8 | 油管: https://t.co/i8Em7jeLia | 爆料: talkdjy@gmail.com | 支持大紀元: https://t.co/0CdJje0Sz8",
+      "followersCount": 269877,
+      "friendsCount": 218,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dajiyuan/status/1891681020623323574",
+    "fullText": "📈 金價年底或破3,100美元？高盛上調2025年金價預測\n\n📌 美國跨國投資銀行與金融服務公司高盛集團已上調2025年金價預測至3,100 美元/盎司，認為央行強勁購買力和利率變化將推動金價上漲，甚至有望突破3,300美元大關。\n\n央行持續買入 🏦"
+  },
+  {
+    "user": {
+      "screenName": "Freda8991",
+      "name": "Freda",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1684396613450731522/Iyhp7ppN_normal.jpg",
+      "description": "人无坚固之心道岂违人之愿",
+      "followersCount": 11807,
+      "friendsCount": 1410,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCZtkVaAAIXbhk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Freda8991/status/1891680860123931047",
+    "fullText": "Cancer-stricken farmer Tony Maddox, 72, has been fined $2,000 for building a bridge over a creek in his own land in Toodyay, Western Australia.\n\nThe Noongar aboriginal people claim altering the site disrupted the \"rainbow serpent\".\n\nhttps://t.co/kW4uCx1Fmx https://t.co/QqnmAKLLjw"
+  },
+  {
+    "user": {
+      "screenName": "DreamDividend",
+      "name": "The Dividend Dream on YouTube",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1457338860967546881/aBkbWWa7_normal.png",
+      "description": "Millionairess dividend investor generating passive income for life. 💃 $3m NW 🦄 MBA 🇺🇸 I talk about stocks I own for inspiration purposes only. LGBT 🏳️‍🌈",
+      "followersCount": 23948,
+      "friendsCount": 314,
+      "location": "Earth"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/DreamDividend/status/1891680627507728835",
+    "fullText": "I’m late-40s\nA multimillionaire \nHighly respected businesswoman \nSo good at predicting, know as “prophet”\n\nI tell people…\nIf you only defend deflect defend deflect defend deflect…. you’re not listening. \n\nYou’re not listening."
+  },
+  {
+    "user": {
+      "screenName": "zppeth",
+      "name": "zpp.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1740787637773008896/J8IAiTf4_normal.jpg",
+      "description": "成都老赵｜ All in web3 ｜热爱祖国 愿祖国繁荣昌盛 🥰",
+      "followersCount": 37392,
+      "friendsCount": 1269,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zppeth/status/1891680455897854384",
+    "fullText": "$PERRY散户让BNBChain再次伟大，CZ唯一SPACE点名meme. https://t.co/rztymPNVUW"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092821,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891680332585243069",
+    "fullText": "Delta Air Lines plane crashes, flips at Toronto airport: 18 injured, including child https://t.co/VhVgIxE51l"
+  },
+  {
+    "user": {
+      "screenName": "EndWokeness",
+      "name": "End Wokeness",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_normal.jpg",
+      "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+      "followersCount": 3590143,
+      "friendsCount": 1259,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCZHTGWIAALhBP.jpg",
+      "https://pbs.twimg.com/media/GkCZHTHWcAAFoPH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EndWokeness/status/1891680199751635144",
+    "fullText": "BREAKING: NY Governor Hochul says she might remove NYC Mayor Adams after he assisted on deportations https://t.co/0ST72O99q5"
+  },
+  {
+    "user": {
+      "screenName": "ChanceYawn",
+      "name": "阳成Crypto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1870806409530724352/VLeLP20L_normal.jpg",
+      "description": "囤BTC为主，投机为辅 ，跟随行情，不预测行情！",
+      "followersCount": 8964,
+      "friendsCount": 1469,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChanceYawn/status/1891679967634767885",
+    "fullText": "$ordi 已割肉\n$eth 割了一半\n\n你们继续抄底"
+  },
+  {
+    "user": {
+      "screenName": "unhealthytruth",
+      "name": "Erin Elizabeth Health Nut News🥜",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1827195493614514177/gV2jjdGW_normal.jpg",
+      "description": "RFK & I have a lawsuit together in DC after Biden pressured social platforms to ban us both same day.  Daily health tips and breaking news. CEO @erinhnn",
+      "followersCount": 214303,
+      "friendsCount": 3136,
+      "location": "Let’s keep a lifeline! 114k!👉"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891642051382439937/vid/avc1/1080x1080/AtaQARZw_boKXc4F.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/unhealthytruth/status/1891679901716992019",
+    "fullText": "🚨#BREAKING: New surveillance video captures the moment the Delta Airlines jet crashed at Toronto  International Airport, with 75 passengers on board leaving at least 18 injured.\n\nIt is a freaking miracle. All the people survived!\n https://t.co/hnPKg9dsNA"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635709,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891679544890839345",
+    "fullText": "India’s top officials says they will continue to cut import taxes as the government looks to work around US President Donald Trump’s plan to impose reciprocal tariffs on trading partners https://t.co/dWwVorVCsQ"
+  },
+  {
+    "user": {
+      "screenName": "HeQinglian",
+      "name": "He Qinglian",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1073282140647899136/756ZqrfS_normal.jpg",
+      "description": "2001年辞国，现居美国。著作有《人口：中国的悬剑》《现代化的陷阱》《雾锁中国》、《中国：溃而不崩》等。",
+      "followersCount": 253392,
+      "friendsCount": 234,
+      "location": "New Jersey"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HeQinglian/status/1891679433104163031",
+    "fullText": "何清漣專欄：《關停USAID　從歐巴馬至川普2.0的外交政策大迴旋》 截至今天，有关USAID被关停的争论未触及到一个最根本的层面：关停USAID正是美国抛弃奥巴马进步主义价值观的重大举措。https://t.co/s6mpGD4QV2"
+  },
+  {
+    "user": {
+      "screenName": "bboczeng",
+      "name": "勃勃OC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+      "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+      "followersCount": 169310,
+      "friendsCount": 645,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bboczeng/status/1891679430646378754",
+    "fullText": "关税事件后中国、俄罗斯、台湾、日本等国的表现表明，说到底，原来全世界这么怕美国\n\n希望美国表现出的强大国力能给国内小粉红好好上一课\n\n让他们尽早关掉“亮剑”，“长津湖”和“手撕鬼子”，忘掉“华为”，“大国重器”和“哪吒崛起”。学会和其他国家一样\n\n面对真神，跪下\n\n谢谢大家"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635709,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891679391400255517",
+    "fullText": "SriLankan Airlines should ideally double its fleet over the next five years, but is constrained by debt issues and the government’s poor financial situation, says its CEO https://t.co/helgvYiTN9"
+  },
+  {
+    "user": {
+      "screenName": "lvloomystery",
+      "name": "独立开发者｜欧维Ove",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1748361183965614081/9WbVKROD_normal.png",
+      "description": "独立开发者｜内容创作者\n作品：\n简单设计 https://t.co/TWsLMTh3u0\nOnion AI https://t.co/r1Cl6BzcF0\nSuperAcos https://t.co/M8C2nZjjYp\n独立开发前线 https://t.co/5AUPxTmFpF",
+      "followersCount": 8151,
+      "friendsCount": 231,
+      "location": "Xi'an"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCYVjoaAAAPGQj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/lvloomystery/status/1891679350933578211",
+    "fullText": "免费不限次数的Deepseek满血版：\n问小白\nhttps://t.co/JqYnYqWict\n是快手大佬离职创业做的，体验不错～ https://t.co/1hh7gOz6Av"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3295723,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891669713920589826/vid/avc1/1280x720/0bj9IvMsTfS09y8P.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891679026890322405",
+    "fullText": "Bob Brooks: \"The louder the Democrats scream about Republicans being Nazis, the harder they are working to distract the American people from their own behavior.\" @BobBrooks_NMX https://t.co/IOKUn46r7u"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25754183,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891678613994344448/vid/avc1/1080x1920/hC6zNFZ52uLTnUtk.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/FoxNews/status/1891678887731503286",
+    "fullText": "'IT'S BEEN REMARKABLE': Homeland Security Secretary @Sec_Noem talks the low number of migrants crossing the southern border daily since Trump took office compared to the thousands per day under Biden. https://t.co/EGDU6Z7PSH"
+  },
+  {
+    "user": {
+      "screenName": "EpochTV_CH",
+      "name": "Epoch TV中文站",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1761544484100157440/ztmXHFtj_normal.jpg",
+      "description": "",
+      "followersCount": 169616,
+      "friendsCount": 152,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891677012953268225/vid/avc1/1280x720/b24atq6auzauuGi8.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/EpochTV_CH/status/1891678822564757617",
+    "fullText": "紐約法輪功學員布魯克林八大道遊行，風雨中傳遞法輪大法的美好和新年祝福，民眾盛讚。 https://t.co/AEJiz2xE1x"
+  },
+  {
+    "user": {
+      "screenName": "business",
+      "name": "Bloomberg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
+      "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+      "followersCount": 9635709,
+      "friendsCount": 93,
+      "location": "New York and the World"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/business/status/1891678775915499939",
+    "fullText": "Malaysia’s Petroliam Nasional is in talks with banks for a potential loan to fund a liquefied national gas project, according to people familiar with the matter. https://t.co/JlTGAtoTTF"
+  },
+  {
+    "user": {
+      "screenName": "ronin19217435",
+      "name": "nikola 3",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1746965196621414401/aI7GKs4n_normal.jpg",
+      "description": "A researcher of deep secrets and hidden knowledge!",
+      "followersCount": 495392,
+      "friendsCount": 511,
+      "location": "Srbija"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ronin19217435/status/1891678674044252321",
+    "fullText": "Edward Snowden is right about \nThis 2025👇🏻\nhttps://t.co/5UFvIryZ0T"
+  },
+  {
+    "user": {
+      "screenName": "music3club",
+      "name": "张雷.USA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1817422862111899648/kVMqF0oc_normal.jpg",
+      "description": "华异倡导者 ，不做中国人",
+      "followersCount": 95385,
+      "friendsCount": 1554,
+      "location": "Seattle, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/music3club/status/1891678432230023448",
+    "fullText": "特朗普对付中国只是一个幌子，拿着这个幌子四处巧取豪夺才是其目的。那些为其摇旗呐喊的，无一例外都是狗腿子。特朗普必须尽早下台！"
+  },
+  {
+    "user": {
+      "screenName": "FoxNews",
+      "name": "Fox News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1591278197844414464/O6Fp0hFB_normal.jpg",
+      "description": "Follow America's #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "followersCount": 25754183,
+      "friendsCount": 263,
+      "location": "U.S.A."
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCXZ1JWgAAJvEE.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FoxNews/status/1891678316614095054",
+    "fullText": "‘WELFARE FOR POLITICIANS’: Sen. Joni Ernst (R-IA) is sounding the alarm on an account she hopes to defund which was set up to help presidential campaigns, saying \"the last thing we need to spend tax dollars on is more political attack ads.\" https://t.co/gOc7Kdcn2o https://t.co/bdunz2KeYW"
+  },
+  {
+    "user": {
+      "screenName": "awkwardgoogle",
+      "name": "Interesting things",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1843285954473164800/87Vfzdg0_normal.jpg",
+      "description": "Posting interesting things from all corners of the internet.",
+      "followersCount": 3749754,
+      "friendsCount": 151,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891616227866370048/pu/vid/avc1/408x720/tS7fAMjUvME3gAhF.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/awkwardgoogle/status/1891678271944683715",
+    "fullText": "Mum was fed up with the squirrels stealing all the bird food so she greased the feeder!\nhttps://t.co/6pukVXWlRj"
+  },
+  {
+    "user": {
+      "screenName": "china_epoch",
+      "name": "大紀元爆料平台",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1705647656070995968/_oaa3YqB_normal.png",
+      "description": "#大紀元爆料平台 @china_epoch 🔥歡迎爆料🔥 #大紀元 @dajiyuan #爆料 #新聞 https://t.co/Ud40Ot0zfC ｜https://t.co/BnsGtY3x61｜爆料: talkdjy@gmail.com ｜捐助: https://t.co/OOpQELZmNQ",
+      "followersCount": 116735,
+      "friendsCount": 72,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCXIeHaAAEMUaq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/china_epoch/status/1891678108169666926",
+    "fullText": "2月17日19時3分，在四川成都市簡陽市發生3.0級地震，網友：震感明顯。 https://t.co/TOYggtpqTa"
+  },
+  {
+    "user": {
+      "screenName": "bboczeng",
+      "name": "勃勃OC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+      "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+      "followersCount": 169310,
+      "friendsCount": 645,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bboczeng/status/1891678076473573768",
+    "fullText": "我想问个问题：大盘要涨到什么时候是个头？\n\n天天这么涨，我都没啥可写的了。。\n\n只能遥祝大家账户继续新高\n\nanyway，上周加仓的INTC确实是好起来了，BABA也还行吧\n\n我就把我的操作计划说一下算了，比如卖TSLA Call/卖其他个股Put。宏观方面还有什么大家不知道的事情吗？"
+  },
+  {
+    "user": {
+      "screenName": "66567848787A",
+      "name": "李湘南",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826603182275129344/AD83lWL__normal.jpg",
+      "description": "涉江采芙蓉，兰泽多芳草。\n采之欲遗谁？所思在远道。",
+      "followersCount": 16532,
+      "friendsCount": 1893,
+      "location": "湘水之南"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCXIjmaAAAANlv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/66567848787A/status/1891678025009262668",
+    "fullText": "https://t.co/yYzE4Nxvqt"
+  },
+  {
+    "user": {
+      "screenName": "Freda8991",
+      "name": "Freda",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1684396613450731522/Iyhp7ppN_normal.jpg",
+      "description": "人无坚固之心道岂违人之愿",
+      "followersCount": 11807,
+      "friendsCount": 1410,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCXIiVaAAEnjLJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Freda8991/status/1891678023708975589",
+    "fullText": "😂美国有活超三百岁的妖精🧚‍♀️ https://t.co/B227x0qHEz"
+  },
+  {
+    "user": {
+      "screenName": "EpochTimes",
+      "name": "The Epoch Times",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800634269942857729/YwhL97AV_normal.jpg",
+      "description": "Independent, award-winning reporting. Read on App: https://t.co/YmpowM2rWt | Watch: https://t.co/M1G2gEWhbY | Play: https://t.co/pDrVrN5o26 | Shop: https://t.co/k9I9kdhS3d",
+      "followersCount": 819538,
+      "friendsCount": 155,
+      "location": "New York, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCW32kaAAID2eC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EpochTimes/status/1891677966012215348",
+    "fullText": "Mexico’s President Claudia Sheinbaum on Monday threatened to sue Google over its decision to display the name “Gulf of America” across the entire body of water rather than just the portion of the Gulf. https://t.co/7BdCFhiAHX"
+  },
+  {
+    "user": {
+      "screenName": "VOAChinese",
+      "name": "美国之音中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1643258528218349572/KyNj6ump_normal.jpg",
+      "description": "美国之音中文官方推特@voachinese \n美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音\nhttps://t.co/XzB6iSdHWx | https://t.co/ua0xOdvfB2 | https://t.co/cW5eaWpefk",
+      "followersCount": 2594210,
+      "friendsCount": 168,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/VOAChinese/status/1891677905836806581",
+    "fullText": "美欧关系紧张之际，中国寻求改善与欧盟的关系 https://t.co/cLnO0fsBhr"
+  },
+  {
+    "user": {
+      "screenName": "66567848787A",
+      "name": "李湘南",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826603182275129344/AD83lWL__normal.jpg",
+      "description": "涉江采芙蓉，兰泽多芳草。\n采之欲遗谁？所思在远道。",
+      "followersCount": 16532,
+      "friendsCount": 1893,
+      "location": "湘水之南"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCW9_HaAAAPoA-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/66567848787A/status/1891677844339626173",
+    "fullText": "https://t.co/2pvQ7P0Iya"
+  },
+  {
+    "user": {
+      "screenName": "TheGoddessF",
+      "name": "The Goddess",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876429659476213761/EQdUW7IX_normal.jpg",
+      "description": "Posting cool and old viral content... About me? A lady who loves to wear red...",
+      "followersCount": 1162746,
+      "friendsCount": 1,
+      "location": "Manhattan, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCWl4LXwAAxYqp.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheGoddessF/status/1891677427249598796",
+    "fullText": "Pythagorean theorem geometry. \n\nYou can? https://t.co/JYrWrfzBhX"
+  },
+  {
+    "user": {
+      "screenName": "66567848787A",
+      "name": "李湘南",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826603182275129344/AD83lWL__normal.jpg",
+      "description": "涉江采芙蓉，兰泽多芳草。\n采之欲遗谁？所思在远道。",
+      "followersCount": 16532,
+      "friendsCount": 1893,
+      "location": "湘水之南"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891677073997168640/pu/vid/avc1/768x576/O2AhXYYVUscQ2ECP.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/66567848787A/status/1891677183338230168",
+    "fullText": "医生好，下班可以搞点兼职 https://t.co/zWFjMbFqWg"
+  },
+  {
+    "user": {
+      "screenName": "bboczeng",
+      "name": "勃勃OC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+      "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+      "followersCount": 169310,
+      "friendsCount": 645,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bboczeng/status/1891677026463203480",
+    "fullText": "特朗普的关税政策竟然开始其效果了。。。\n\n中国开始会见民营企业家，并提振私营经济\n\n台湾开始加大美国军购案以换取关税豁免对待\n\n俄罗斯开始去中东和美国谈判。。。\n\n完了完了\n\n世界又开始回到美国一超多强的单极时代了\n\n看来美国之前的影响力，在民主党政府的错误指挥下，其实连5%都没用到啊"
+  },
+  {
+    "user": {
+      "screenName": "ClownWorld_",
+      "name": "Clown World ™ 🤡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884972270076276736/pzgDTZDF_normal.jpg",
+      "description": "Official #ClownWorld ™ 🤡 #NoCaptionNeeded ** DM us for removals/credit",
+      "followersCount": 2982275,
+      "friendsCount": 936,
+      "location": "DM Submissions 📧 "
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1891670996035252224/vid/avc1/1280x720/zdMa7YSjL3-Si2us.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/ClownWorld_/status/1891676972796752111",
+    "fullText": "Tom Homan: ‘AOC is the dumbest member of Congress, and she proves it every single day!’ \n\nHe isn’t wrong 🤣\n\n https://t.co/gv6haeoNXb"
+  },
+  {
+    "user": {
+      "screenName": "WholesomeMeme",
+      "name": "WholesomeMemes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1679142293704523776/dBBIjwUV_normal.jpg",
+      "description": "🇨🇦  We post memes, comics, wholesome stuff & anything we like. Get original shirts to raise money for charity https://t.co/Upa2OFOAJk",
+      "followersCount": 2961569,
+      "friendsCount": 276,
+      "location": "Canada"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCV_fJWEAAhlEV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WholesomeMeme/status/1891676763043811531",
+    "fullText": "https://t.co/xxwVakqFG1"
+  },
+  {
+    "user": {
+      "screenName": "okx",
+      "name": "OKX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1826636254164774912/6-Hm_NAR_normal.jpg",
+      "description": "The only app you’ll need for 'all things crypto'. Support: @OKXHelpDesk | UK users: @OKX_UK | Engagement ≠ endorsement.",
+      "followersCount": 5726062,
+      "friendsCount": 290,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/okx/status/1891676762494374287",
+    "fullText": "this year, be more onchain"
+  },
+  {
+    "user": {
+      "screenName": "USATODAY",
+      "name": "USA TODAY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "followersCount": 5092821,
+      "friendsCount": 919,
+      "location": "USA TODAY HQ, McLean, Va."
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/USATODAY/status/1891676596592910609",
+    "fullText": "A Delta Air Lines regional flight crashed at Toronto Pearson International Airport on Monday. Watch how the scene unfolded. https://t.co/NUBQe4OOb7"
+  },
+  {
+    "user": {
+      "screenName": "NTDNews",
+      "name": "NTD News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1838285672383213568/nXIXaBrd_normal.jpg",
+      "description": "Your independent voice in TV news—bringing back reliable, honest news reporting.",
+      "followersCount": 86028,
+      "friendsCount": 82,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCVxy7XcAAjQh8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/NTDNews/status/1891676528934625314",
+    "fullText": "A federal judge in Washington seemed reluctant on Feb. 17 to issue a temporary restraining order against the Department of Government Efficiency (DOGE) and has not yet issued a final ruling. https://t.co/0r3ye4QK5t"
+  },
+  {
+    "user": {
+      "screenName": "NEWSMAX",
+      "name": "NEWSMAX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1394735604269817857/AXKKo6XT_normal.jpg",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "followersCount": 3295723,
+      "friendsCount": 781,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NEWSMAX/status/1891676515433316703",
+    "fullText": "The Trump administration's focus on blocking illegal immigration is reducing the need for migrant shelters. https://t.co/yKDB2BODBQ"
+  },
+  {
+    "user": {
+      "screenName": "catshealdeprsn",
+      "name": "contents that ll heal your depression 🌻",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889715174296465408/T4ihURlO_normal.jpg",
+      "description": "Best account to heal your anxiety or depression.",
+      "followersCount": 1062796,
+      "friendsCount": 29,
+      "location": "United States"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891534634405724164/pu/vid/avc1/480x854/9putopVE5KSt2myC.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/catshealdeprsn/status/1891676510169276865",
+    "fullText": "https://t.co/zCJD8MP4fZ"
+  },
+  {
+    "user": {
+      "screenName": "WeipingQin",
+      "name": "Weiping Qin 秦偉平",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1507943953374404609/cbeEgo-u_normal.jpg",
+      "description": "Economist, Columnist, Veteran, Author of 「China’s Crisis Roadmap」 & 「Exodus from the Crisis of China」經濟學者/專欄作家/退伍軍人/中國危機三部曲作者 採訪/咨詢預約：Weipingqin1980@gmail.com",
+      "followersCount": 72842,
+      "friendsCount": 1449,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkCVoozWsAAyMZr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WeipingQin/status/1891676372730364331",
+    "fullText": "这辈子，永远不会成为一个瘦子。 https://t.co/FOuORxAzwa"
+  },
+  {
+    "user": {
+      "screenName": "cyrilxuq",
+      "name": "徐冲浪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1886700221528465412/TsBfxhch_normal.jpg",
+      "description": "Youtube频道（https://t.co/TQSWom3YbH）\n小隐寺·住持（https://t.co/HOBzGZiJEU）\n链上meme（https://t.co/hN4sRNSfhX）\n\n商务合作请私信",
+      "followersCount": 109131,
+      "friendsCount": 1564,
+      "location": "东京"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cyrilxuq/status/1891665282545971604",
+    "fullText": "脑控到底是什么，有没有什么专家科普一下？"
+  },
+  {
+    "user": {
       "screenName": "business",
       "name": "Bloomberg",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1631723279676317709/-fjgaR2p_normal.jpg",
@@ -413,8 +1088,8 @@
       "name": "麦田 Rye 🇮🇱 🇺🇦",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/90193411/41_normal.jpg",
       "description": "都是闲聊。蓝天同名账户：maitian99。",
-      "followersCount": 42529,
-      "friendsCount": 825,
+      "followersCount": 42537,
+      "friendsCount": 826,
       "location": ""
     },
     "images": [],
@@ -820,6 +1495,120 @@
     ],
     "tweetUrl": "https://x.com/bz678345/status/1891656629289926971",
     "fullText": "🔥 当老百姓面对暴政的枪口毫不畏惧的时候，他们就黔驴技穷了。希望更多的人勇敢的站起来，面对枪口毫不退缩！ https://t.co/etmiJoQOEa"
+  },
+  {
+    "user": {
+      "screenName": "zillowgonewild",
+      "name": "Zillow Gone Wild 🏡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1869451557571301376/GKneOa8K_normal.jpg",
+      "description": "join the zillionaires 🏡. email me wild homes: hi@zillowgonewild.com. Subscribe to the Zillow Gone Wild newsletter to never miss a wild home 👇",
+      "followersCount": 624984,
+      "friendsCount": 11,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkB97etWkAA0aYv.jpg",
+      "https://pbs.twimg.com/media/GkB97etWYAA2PIt.jpg",
+      "https://pbs.twimg.com/media/GkB97euX0AE59sZ.jpg",
+      "https://pbs.twimg.com/media/GkB97euWUAA0l4k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/zillowgonewild/status/1891650346239525289",
+    "fullText": "What’s going on in Arizona with “Blank Check” mansions??? Here’s ANOTHER one in Scottsdale that comes fully furnished with over 21k sq ft including an underground basketball court where over 60 NBA players apparently have visited including Kobe Bryant, Chris Paul, Damian Lillard https://t.co/0DrTjW1ocw"
+  },
+  {
+    "user": {
+      "screenName": "ClownWorld_",
+      "name": "Clown World ™ 🤡",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884972270076276736/pzgDTZDF_normal.jpg",
+      "description": "Official #ClownWorld ™ 🤡 #NoCaptionNeeded ** DM us for removals/credit",
+      "followersCount": 2982275,
+      "friendsCount": 936,
+      "location": "DM Submissions 📧 "
+    },
+    "images": [
+      "https://pbs.twimg.com/media/GkBdAMZbMAAXTcI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ClownWorld_/status/1891614105036812582",
+    "fullText": "🎯 https://t.co/TgKpKiW3Aa"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 44951,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1891613524717347191",
+    "fullText": "🚨Travel Effortlessly with This Must-Have Tote!\nhttps://t.co/RrDfNaQJaS"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 44951,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1891613416508571833",
+    "fullText": "✨ Pack More, Travel Smarter with This Tote!\nhttps://t.co/RrDfNaQJaS"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 44951,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1891613110743744882",
+    "fullText": "✨ Pack More, Travel Smarter with This Tote!\n\nhttps://t.co/RrDfNaQJaS"
+  },
+  {
+    "user": {
+      "screenName": "NordaceOfficial",
+      "name": "Nordace",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1103775502391697408/pwfE7uK7_normal.png",
+      "description": "Whether you're hiking the Andes or exploring the streets of Rome, we have the best travel bags and accessories for any adventure. Always searching for adventure",
+      "followersCount": 44951,
+      "friendsCount": 0,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NordaceOfficial/status/1891613110601122229",
+    "fullText": "🚨Travel Effortlessly with This Must-Have Tote!\nhttps://t.co/RrDfNaQJaS"
+  },
+  {
+    "user": {
+      "screenName": "straysmallcat",
+      "name": "躲猫猫3.0",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1173429262008717312/SUZI0nF__normal.jpg",
+      "description": "安得诗山觅旧踪，何如沧海压千重。\n谁言了了终非了，不信空空也是空。\n花容易老景难同，一嗔一念一如风。\n十年回首三千界，尽在人间大梦中。",
+      "followersCount": 194980,
+      "friendsCount": 1298,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/1891524767871848448/pu/vid/avc1/720x1280/k6x2naj5I63D5slv.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/straysmallcat/status/1891524798620008574",
+    "fullText": "开学第一天：特困生😄 https://t.co/Z1jOwc2EEY"
   },
   {
     "user": {
